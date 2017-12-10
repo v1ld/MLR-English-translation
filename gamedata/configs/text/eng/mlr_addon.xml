@@ -1,0 +1,2681 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="dasc_trade_mlr_task_1_name">
+		<text>Clear the mutant's lair</text>
+	</string>
+	<string id="dasc_trade_mlr_task_1_text">
+		<text>The woodcutter asked to destroy the mutant's lair, as they cause some problems.</text>
+	</string>
+	<string id="dasc_trade_mlr_task_1_about">
+		<text>It is necessary to destroy some mutants. The place here is already unpopular in the stalker environment, so many people want to fight back here because of the fucking mutants, who are full in the forest and on the road, even on approaches. In general, with me coordinates and reward, with you execution. Is it going?</text>
+	</string>
+	<string id="dasc_trade_mlr_task_1_finish">
+		<text>Thanks, maybe people can come here any more. Take for work:</text>
+	</string>
+
+	<string id="dasc_trade_mlr_task_2_name">
+		<text>Find artifact: %s</text>
+	</string>
+	<string id="dasc_trade_mlr_task_2_text">
+		<text>The woodcutter asked to get a certain artifact for him on behalf of the customer.</text>
+	</string>
+	<string id="dasc_trade_mlr_task_2_fetch_about">
+		<text>I have some buyers here, who would be interested in a certain artifact. But since we have poor anomalies here, I instruct other stalkers to get it. Your goal will be: %s. For a reward, of course. How are you?</text>
+	</string>
+	<string id="dasc_trade_mlr_task_2_fetch_finish">
+		<text>Well done, then what you need. Hold:</text>
+	</string>
+
+	<string id="dasc_trade_mlr_task_3_name">
+		<text>Destroy the parking of bandits</text>
+	</string>
+	<string id="dasc_trade_mlr_task_3_text">
+		<text>You need to attack the parking of bandits and destroy them.</text>
+	</string>
+	<string id="dasc_trade_mlr_task_3_about">
+		<text>There is a former post nearby, the military there were once, and now the bandits have settled there. Can you deal with them?</text>
+	</string>
+	<string id="dasc_trade_mlr_task_3_finish">
+		<text>Zashibis muzhik, keep the reward:</text>
+	</string>
+
+	<string id="sar_crystal_pda_mlr_name">
+		<text>PDA of one of the members of the "Crystal"</text>
+	</string>
+	<string id="sar_crystal_pda_mlr_descr">
+		<text>Tons of weird and incoherent information, among which one can understand that the members of this squad are from the best military services. They probably supervised the experiments conducted at nuclear power plants before and after the first explosion, then were subsequently zombified.</text>
+	</string>
+
+	<string id="sar_crystal_pda_mlr_1_name">
+		<text>PDA of one of the members of the "Crystal"</text>
+	</string>
+	<string id="sar_crystal_pda_mlr_1_descr">
+		<text>The device is hopelessly corrupted.</text>
+	</string>
+
+	<string id="sar_crystal_pda_mlr_2_name">
+		<text>PDA of one of the members of the "Crystal"</text>
+	</string>
+	<string id="sar_crystal_pda_mlr_2_descr">
+		<text>"The Great Monolith said that he is in danger, the brothers are dispersed and put on combat readiness." No one expresses an opinion about what is happening outside, apparently today we have to kill or die. "I will happily do it for the sake of the Monolith." </text>
+	</string>
+
+	<string id="sar_crystal_pda_mlr_3_name">
+		<text>PDA of one of the members of the "Crystal"</text>
+	</string>
+	<string id="sar_crystal_pda_mlr_3_descr">
+		<text>There is nothing remarkable about the device except one single note, dated June 2012: \n "The Monolith has ceased to appear to me in dreams for the last few days, instead, I began to see episodes from someone's life, perhaps even my own. Is it really He that is testing my faith? Is my faith in Him not strong enough? Then I am ready to show Him how unshakable I am: the day has come that tens of hundreds of fools will try to get close to His radiance. Today they will know the power of the defenders Mo nolite. "</text>
+	</string>
+
+	<string id="sar_crystal_pda_mlr_4_name">
+		<text>PDA of one of the members of the "Crystal"</text>
+	</string>
+	<string id="sar_crystal_pda_mlr_4_descr">
+		<text>And this is the PDA of a member of the fraternity, who was already engaged in several other things than usual patrolling. Here is a description of a "revelatory room" in which, apparently, the brains were fixed by "infidels". The description of "mysterious visions" most likely resembles an image broadcast through a monitor. Apparently, in addition to the previously unknown zombifying waves of the Burner, the owners of this place did not hesitate to use the method of direct zombification on their future soldiers, through their TV sets. It's as old as the world, but it's more efficient here.</text>
+	</string>
+
+	<string id="sar_crystal_pda_mlr_5_name">
+		<text>PDA of one of the members of the "Crystal"</text>
+	</string>
+	<string id="sar_crystal_pda_mlr_5_descr">
+		<text>"They loaded the bodies into the truck, gave out the instructions with instructions, the storm thundered, and finally the car was handed over to the brotherhood," Monolith "tells them where he will go." I remember the face of a man with a scar, I think I saw him somewhere. "</text>
+	</string>
+
+	<string id="main_monolith_mlr_task_5_1_name_1">
+		<text>Otpravit'sya v Sarkofag</text>
+	</string>
+	<string id="main_monolith_mlr_task_5_1_name_2">
+		<text>Find all possible information about the Crystal group</text>
+	</string>
+	<string id="main_monolith_mlr_task_5_1_name_3">
+		<text>Return to the Inquisitor</text>
+	</string>
+	<string id="main_monolith_mlr_task_5_1_descr">
+		<text>The Inquisitor invited me to get to know himself more closely with the once legendary group of defenders of "Monolith" and find some information about them.</text>
+	</string>
+
+	<string id="mlr_transiver_item">
+		<text>Transceiver</text>
+	</string>
+	<string id="mlr_transiver_item_desc">
+		<text>The old-style army transmitter, is used to communicate and transmit information.</text>
+	</string>
+
+	<string id="jup_b6_scientist_tech_name_mlr">
+		<text>Novikov</text>
+	</string>
+
+	<string id="zat_a2_stalker_mechanic_task_1_name">
+		<text>Find a gauss gun</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_1_text">
+		<text>The Cardan technician wants to get a gauss gun.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_1_fetch_about">
+		<text>Yes, there is such a thing. Earlier I worked here, we even before the first explosion worked out any weapons for military needs, but after the explosion, we were evacuated and I quit my job altogether. I can not even imagine that the work on improving our prototype will continue. Stalker, I need a gauss gun, I already held it in my hands when one of the stalkers brought it to me, but I want to try to improve it somehow. Bring it for me, and I'll start accumulating batteries for it. Well, how?</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_1_about">
+		<text>Yes, there is such a thing. Earlier I worked here, we even before the first explosion worked out any weapons for military needs, but after the explosion, we were evacuated and I quit my job altogether. I can not even imagine that the work on improving our prototype will continue. Stalker, I need a gauss gun, I already held it in my hands when one of the stalkers brought it to me, but I want to try to improve it somehow. Bring it for me, and I'll start accumulating batteries for it. Well, how?</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_1_finish">
+		<text>Thank you, here you are, I prepared a couple for you. Contact at any time.</text>
+	</string>
+
+	<string id="st_achievement_cheater_name">
+		<text>Cheater</text>
+	</string>
+	<string id="st_achievement_cheater_hint">
+		<text>Worse than you are.</text>
+	</string>
+	<string id="st_achievement_cheater_descr">
+		<text>Vasyan has already deliberately foreseen what you were going to do. Do not do this!</text>
+	</string>
+	<string id="st_achievement_cheater_unlock">
+		<text>Achieved achievement "Cheater"</text>
+	</string>
+
+	<string id="esc_2_12_medic_mlr_save_task_mlr_name_1">
+		<text>First aid: check the signal or ignore</text>
+	</string>
+	<string id="esc_2_12_medic_mlr_save_task_mlr_name_2">
+		<text>First aid: find a medical bag</text>
+	</string>
+	<string id="esc_2_12_medic_mlr_save_task_mlr_name_3">
+		<text>First aid: return it to the stalker</text>
+	</string>
+	<string id="esc_2_12_medic_mlr_save_task_mlr_name_4">
+		<text>First aid: accompany the wounded</text>
+	</string>
+	<string id="esc_2_12_medic_mlr_save_task_mlr_name_5">
+		<text>First aid: talk to the saved</text>
+	</string>
+	<string id="esc_2_12_medic_mlr_save_task_mlr_text_descr">
+		<text>Another signal for help. Is it worth going to check or just pass by?</text>
+	</string>
+	<string id="esc_2_12_medic_mlr_save_task_mlr_message">
+		<text>Kashpirovsky: \nHere there anyone nearby? SOS, bleed to death, by the tunnel.</text>
+	</string>
+	<string id="esc_2_12_medic_mlr_medbag">
+		<text>Medical bag</text>
+	</string>
+	<string id="esc_2_12_medic_mlr_medbag_desc">
+		<text>The usual medical bag, I hope the drugs inside have not suffered.</text>
+	</string>
+
+	<string id="st_energy_drink_nonstop">
+		<text>Energy drink "Non Stop"</text>
+	</string>
+	<string id="st_energy_drink_nonstop_descr">
+		<text>Excellent energy drink "Non Stop". Contains caffeine, taurine and a powerful vitamin complex that relieve fatigue and add strength. Not able to make even a step? Then this is exactly what you need.</text>
+	</string>
+
+	<string id="main_monolith_mlr_task_3_2_name_1">
+		<text>Revival: Talk to the first brother</text>
+	</string>
+	<string id="main_monolith_mlr_task_3_2_name_2">
+		<text>Revival: Talk to the second brother</text>
+	</string>
+	<string id="main_monolith_mlr_task_3_2_name_3">
+		<text>Revival: Talk to the third brother</text>
+	</string>
+	<string id="main_monolith_mlr_task_3_2_name_4">
+		<text>Revival: Talk to the fourth brother</text>
+	</string>
+	<string id="main_monolith_mlr_task_3_2_name_5">
+		<text>Revival: Share Guess with the Mentor</text>
+	</string>
+	<string id="main_monolith_mlr_task_3_2_descr">
+		<text>In business ... I wonder why he does not suspect me?</text>
+	</string>
+
+	<string id="about_esc_m_trader_call_tips">
+		<text>Opening hours of the local merchant: from 6 am to 8 pm.</text>
+	</string>
+
+	<string id="main_monolith_mlr_task_3_1_tip">
+		<text>Okay, stop revenge and return to Radar, our fighters need help, talk to Griffin, he's in charge of our group of "Wings."</text>
+	</string>
+
+	<string id="rookie_pole_task_3_name">
+		<text>Find the annoying</text>
+	</string>
+	<string id="rookie_pole_task_3_name_1">
+		<text>Destroying Alpha</text>
+	</string>
+	<string id="rookie_pole_task_3_text">
+		<text>Someone annoys Fat and he wants this person no longer. We need to help him with this.</text>
+	</string>
+
+	<string id="baraholka_trader_task_2_name">
+		<text>Find the artifact %s</text>
+	</string>
+	<string id="baraholka_trader_task_2_text">
+		<text>You need to find this art on the job for the entrepreneur in the dump: %s</text>
+	</string>
+	<string id="baraholka_trader_task_2_about">
+		<text>There is work as always. I need some artifact, will you get it?</text>
+	</string>
+	<string id="baraholka_trader_task_2_fetch_about">
+		<text>There is work as always. I need an artifact: %s. Will you get it?</text>
+	</string>
+	<string id="baraholka_trader_task_2_fetch_finish">
+		<text>Well done, deserved:</text>
+	</string>
+
+	<string id="baraholka_trader_task_1_name">
+		<text>Take the container to Sakharov</text>
+	</string>
+	<string id="baraholka_trader_task_1_text">
+		<text>The trader from the dump offered work in the form of a messenger. You can refer this container, which is clearly not one art, but you can ... hmm, I do not even know who could open this case. Maybe Peregrine Falcons?</text>
+	</string>
+	<string id="baraholka_trader_task_1_about">
+		<text>You look the guy experienced, I trust you. Bring this case to Sakharov?</text>
+	</string>
+	<string id="baraholka_trader_task_1_finish">
+		<text>Well done, man.</text>
+	</string>
+
+	<string id="container_with_an_artefacts_baraholka_descr">
+		<text>Contains a number of artifacts.</text>
+	</string>
+	<string id="container_with_an_artefacts_baraholka">
+		<text>Zinc container</text>
+	</string>
+
+	<string id="st_vodka_mlr_descr">
+		<text>Vodka produced by some GSC company. Apparently burned. Suckling is bad, it helps sometimes to heal nerves, but it should not be abused.</text>
+	</string>
+	<string id="st_mlr_vodka">
+		<text>Vodka "Cossacks"</text>
+	</string>
+	<string id="esc_factory_smart_terrain_10_bandit_trader_task_3_name">
+		<text>Murder of stalkers</text>
+	</string>
+	<string id="esc_factory_smart_terrain_10_bandit_trader_task_3_text">
+		<text>It is necessary to fill up this goal.</text>
+	</string>
+	<string id="esc_factory_smart_terrain_10_bandit_trader_task_3_about">
+		<text>Many bastards annoy us and generally behave insolently. In general, I give you coordinates, and you eliminate the goal. Will you go to such a situation?</text>
+	</string>
+	<string id="esc_factory_smart_terrain_10_bandit_trader_task_3_finish">
+		<text>Well done, for not having to sit idle. Hold:</text>
+	</string>
+	<string id="esc_factory_smart_terrain_10_bandit_trader_task_2_name">
+		<text>Murder of mutants</text>
+	</string>
+	<string id="esc_factory_smart_terrain_10_bandit_trader_task_2_text">
+		<text>It is necessary to clean this place of mutants.</text>
+	</string>
+	<string id="esc_factory_smart_terrain_10_bandit_trader_task_2_about">
+		<text>The creatures annoy us, prevent them from arranging ambushes and planting loshkov. I give the coordinates, you eliminate, I agree?</text>
+	</string>
+	<string id="esc_factory_smart_terrain_10_bandit_trader_task_2_finish">
+		<text>Well done, you try for the brat. Hold:</text>
+	</string>
+	<string id="esc_factory_smart_terrain_10_bandit_trader_task_1_name">
+		<text>The creatures on the farm</text>
+	</string>
+	<string id="esc_factory_smart_terrain_10_bandit_trader_task_1_text">
+		<text>Afgan worries that the bloodsuckers, who were recently seen on a farm nearby, are migrating towards the factory, we need to save the camp from possible danger.</text>
+	</string>
+	<string id="esc_factory_smart_terrain_10_bandit_trader_task_1_about">
+		<text>We saw on the farm nearby our bloodsuckers, maybe there are several of them, I do not know. I'm afraid that these scum will make their way to the territory of the factory and worse, the lair somewhere under it will be arranged, and then look for fistula. The case for these places is egregious, so get them over as soon as possible. Well, can you fill up or find me another one?</text>
+	</string>
+	<string id="esc_factory_smart_terrain_10_bandit_trader_task_1_finish">
+		<text>Here, take the art - his men wrestled at some green jerk.</text>
+	</string>
+	<string id="bandit_barman_gar_hangr_mlr_task_1_name">
+		<text>Strange tunnel</text>
+	</string>
+	<string id="bandit_barman_gar_hangr_mlr_task_1_text">
+		<text>Zhuchila complains about the raspizdyaystvo local punks. You need to go to the railway tunnel opposite the depot and find the SVD.</text>
+	</string>
+	<string id="bandit_barman_gar_hangr_mlr_task_1_about">
+		<text>There is one thing. One mudila went into the tunnel, apparently wanted to prove something to her friends, and you know this tunnel - a terrible place. Yes, and dick would be with him, but he poper there with a new SVD! Spies at someone, not fuck. Well, it's clear that the dick ran into some creatures there, they rifled his rifle from his hand, and that's the end of it. So do not go missing the same good? In general, you go there for her, eh?</text>
+	</string>
+	<string id="bandit_barman_gar_hangr_mlr_task_1_fetch_about">
+		<text>There is one thing. One mudila went into the tunnel, apparently wanted to prove something to her friends, and you know this tunnel - a terrible place. Yes, and dick would be with him, but he poper there with a new SVD! Spies at someone, not fuck. Well, it's clear that the dick ran into some creatures there, they rifled his rifle from his hand, and that's the end of it. So do not go missing the same good? In general, you go there for her, eh?</text>
+	</string>
+	<string id="bandit_barman_gar_hangr_mlr_task_1_fetch_finish">
+		<text>Fuck, take gesheft and rest, and I'll think to whom this rake can be rafted.</text>
+	</string>
+	<string id="st_cant_sleep_find_shelter_mlr">
+		<text>We need to find a safer place to sleep.</text>
+	</string>
+
+	<string id="agr_main_monolith_mlr_task_5_attack_done_message">
+		<text>Mentor: \nSo go to the Inquisitor's disposal, they'll need your help, and you'll come to me later.</text>
+	</string>
+	<string id="main_monolith_mlr_task_5_descr">
+		<text>It is necessary to return everything that once helped the brotherhood to defend the center of the zone.</text>
+	</string>
+	<string id="main_monolith_mlr_task_5_n_1">
+		<text>Revival: talk to the Mentor</text>
+	</string>
+	<string id="main_monolith_mlr_task_5_n_2">
+		<text>Renaissance: find and kill Degtyarev</text>
+	</string>
+	<string id="main_monolith_mlr_task_5_n_3">
+		<text>Revival: find out from the documentation where the "item #62" was sent.</text>
+	</string>
+	<string id="main_monolith_mlr_task_5_dlg_1_mess_attack">
+		<text>The Bible: \nWe start, hurry.</text>
+	</string>
+	<string id="agr_main_monolith_mlr_task_5_doc">
+		<text>Documentation of recently issued orders</text>
+	</string>
+	<string id="agr_main_monolith_mlr_task_5_doc_desc">
+		<text>Attention is drawn only to Order No. 66, from which it follows that the sample of "Article No. 62", exactly like all the documentation for it, was delivered to NIICAZ.</text>
+	</string>
+	<string id="give_main_monolith_mlr_task_5_message">
+		<text>There will be time, drop by to me. Caught very trivial business.</text>
+	</string>
+	<string id="st_gift_for_dutys">
+		<text> %c[255,238,153,26]Гунько: \nHey, you. If you want to go to the bar, you have to pay. Come to me, I'm standing by the car.</text>
+	</string>
+	<string id="killer_task_to_lim_on_the_bridge_1">
+		<text>Clear out the lair of the chimeras</text>
+	</string>
+	<string id="killer_task_to_lim_on_the_bridge_2">
+		<text>Return to the bridge</text>
+	</string>
+	<string id="killer_task_to_lim_on_the_bridge_descr">
+		<text>To cross the bridge, you need to perform a very interesting task. Or not... how tired of killing or bringing.</text>
+	</string>
+	<string id="main_monolith_mlr_task_4_name_1">
+		<text>Rebirth: go to the bunker</text>
+	</string>
+	<string id="main_monolith_mlr_task_4_name_2">
+		<text>Revival: find the control room</text>
+	</string>
+	<string id="main_monolith_mlr_task_4_name_3">
+		<text>Revival: talk to the Gryphon</text>
+	</string>
+	<string id="main_monolith_mlr_task_4_name_4">
+		<text>Revival: protect the control room</text>
+	</string>
+	<string id="main_monolith_mlr_task_4_name_5">
+		<text>Revival: talk to the Gryphon</text>
+	</string>
+	<string id="main_monolith_mlr_task_4_descr">
+		<text>The Brotherhood again wants to use the Burner. I hope we succeed.</text>
+	</string>
+	<string id="main_monolith_mlr_task_3_name_1">
+		<text>Revival: please Kitsenko</text>
+	</string>
+	<string id="main_monolith_mlr_task_3_name_2">
+		<text>Revival: go to the Radar</text>
+	</string>
+	<string id="main_monolith_mlr_task_3_name_3">
+		<text>Revival: talk to the leader of the "Wings"</text>
+	</string>
+	<string id="main_monolith_mlr_task_3_descr">
+		<text>That's the way it is. It is necessary to carry a box with two cut off heads of stalkers at a checkpoint to the debtors. Well, why? To frighten them? To show that the monolith is still inhabited by crazy people?</text>
+	</string>
+
+	<string id="main_monolith_mlr_task_3_1_name_1">
+		<text>Revival: clear the barrier</text>
+	</string>
+	<string id="main_monolith_mlr_task_3_1_name_2">
+		<text>Revival: go to the Radar</text>
+	</string>
+	<string id="main_monolith_mlr_task_3_1_name_3">
+		<text>Revival: talk with the leader of the "Wings"</text>
+	</string>
+	<string id="main_monolith_mlr_task_3_1_descr">
+		<text>Who was pulling my tongue ... even though the grenades were given.</text>
+	</string>
+
+	<string id="main_monolith_mlr_task_2_name_1">
+		<text>Revival: follow the Mentor</text>
+	</string>
+	<string id="main_monolith_mlr_task_2_name_2">
+		<text>Revival: talk to the Mentor</text>
+	</string>
+	<string id="main_monolith_mlr_task_2_name_3">
+		<text>Renaissance: kill the captives</text>
+	</string>
+	<string id="main_monolith_mlr_task_2_name_4">
+		<text>Renaissance: talk to the Mentor</text>
+	</string>
+	<string id="main_monolith_mlr_task_2_descr">
+		<text>I do not know what will happen this time.</text>
+	</string>
+	<string id="main_monolith_mlr_task_1_name_1">
+		<text>Revival: meet the rest</text>
+	</string>
+	<string id="main_monolith_mlr_task_1_name_2">
+		<text>Revival: listen to the Mentor</text>
+	</string>
+	<string id="main_monolith_mlr_task_1_name_3">
+		<text>Revival: talk to the Mentor</text>
+	</string>
+	<string id="main_monolith_mlr_task_1_name_4">
+		<text>Revival: complete the first test</text>
+	</string>
+	<string id="main_monolith_mlr_task_1_name_5">
+		<text>Revival: return to the Mentor</text>
+	</string>
+	<string id="main_monolith_mlr_task_1_descr">
+		<text>That's the very day you've been waiting for. Pass through the thorns and the Monolith will give you what you so much want.</text>
+	</string>
+	<string id="main_monolith_mlr_task_4_dlg_1_in_bun_tip">
+		<text>Griffin: \nNow we need to the very end of the complex. So guys, neat - who knows what is waiting for us here.</text>
+	</string>
+	<string id="main_monolith_mlr_task_4_dlg_1_in_heart_of_station_tip">
+		<text>Griffin: \nThat's the management room. It does not look very honest, to be honest. Fighters, let's discuss the next steps.</text>
+	</string>
+	<string id="to_lim_on_the_bridge_killer_ivent">
+		<text>Doorkeeper: \nWant to the other side of the bridge, to Limansk? Have to pay. Fortunately for you to pay a little. To the right in the littered tunnel there is a brood of chimeras, kill them and then we'll talk. Go, go, and I'll watch you through binoculars, haha.</text>
+	</string>
+	<string id="to_lim_on_the_bridge_killer_ivent_2">
+		<text>Doorkeeper: \nContained? Well done, we'll put the bridge down. And then these jumping creatures are already pretty nerve to us. If you want to go to the bargaining, I beg you.</text>
+	</string>
+	<string id="main_monolith_mlr_task_3_tip">
+		<text>Mentor: \nHey, the far left - I'm waiting for you in the near future, the work for you is already ready.</text>
+	</string>
+	<string id="main_monolith_mlr_task_3_tip_2">
+		<text>Mentor: \nWell, finished? Sorry I did not see his face at that moment, ha-ha-ha. So blow now on the radar, there you already have our intelligence. detachment "Wings" waiting, go to the commander, he will also put things into practice.</text>
+	</string>
+	<string id="first_meet_words_mon_teacher">
+		<text>Mentor: \nI'll greet you, fighters of the new Monolith!</text>
+	</string>
+	<string id="second_meet_words_mon_teacher">
+		<text>Mentor: \nYou are our only hope for the future, brothers. Soon I will test you individually and check whether you are worthy to be in our ranks.</text>
+	</string>
+	<string id="final_meet_words_mon_teacher">
+		<text>Mentor: \nAnd yet are free. All but you, the far left. Perhaps I'll start with you.</text>
+	</string>
+	<string id="st_pole_main_build_factory">
+		<text>Bold: \nListen, I think there should be something in that shop, as in this building in the middle of the complex.</text>
+	</string>
+	<string id="st_pole_meet_controller">
+		<text>Fat: \nI have a fucking foreboding, as if someone is picking in my brains...</text>
+	</string>
+	<string id="st_pole_entrance_factory">
+		<text>Fat: \nSmoke on the skin from this place. Let's check the checkpoint box.</text>
+	</string>
+	<string id="st_pole_out_here">
+		<text>Bold: \nLet's get out of here as soon as possible!</text>
+	</string>
+	<string id="st_pole_here_zero_staff">
+		<text>Bold: \nListen, in my opinion there is nothing here, let's dump it, until those poor devils are in place.</text>
+	</string>
+	<string id="st_pole_dead_stalkers_camp">
+		<text>Bold: \n Your mother, what a horror... who are they? Let's see if they left a trace after themselves.</text>
+	</string>
+
+	<string id="monolith_outfit_wings_name">
+		<text>"Monolith Wings" overall</text>
+	</string>
+	<string id="monolith_outfit_wings_description">
+		<text>An analog of a regular monolithic combat suit, though more lightweight and comfortable unlike its progenitor. Fit for the new realities of brotherhood, and this marks an unprecedented protection against radiation and psi radiation.</text>
+	</string>
+	<string id="mon_blue_box_mlr_no_use">
+		<text>This drawer is locked.</text>
+	</string>
+	<string id="rookie_pole_task_2_name">
+		<text>Explore complex</text>
+	</string>
+	<string id="rookie_pole_task_2_name_1">
+		<text>Go back</text>
+	</string>
+	<string id="rookie_pole_task_2_name_2">
+		<text>Kill the controller</text>
+	</string>
+	<string id="rookie_pole_task_2_name_3">
+		<text>Talk to Fat</text>
+	</string>
+	<string id="rookie_pole_task_2_name_3_0">
+		<text>Go back to the village</text>
+	</string>
+	<string id="rookie_pole_task_2_text">
+		<text>Today we go with Fat to investigate the secrets of the factory complex. Who knows what awaits us there?</text>
+	</string>
+	<string id="pole_factory_doc_1">
+		<text>Records of the security chief</text>
+	</string>
+	<string id="pole_factory_doc_1_desc">
+		<text>Absolutely useless records, which contain the names and paintings of all employees who have been repeatedly noted at the beginning and end of the work day. However, the dates indicate that this complex was used after the first explosion.</text>
+	</string>
+	<string id="pole_factory_doc_2">
+		<text>Production information</text>
+	</string>
+	<string id="pole_factory_doc_2_desc">
+		<text>Nor is there any particular value, nothing extraordinary happened here, apparently the employees of this plant were mainly concerned with energy.</text>
+	</string>
+	<string id="pole_factory_doc_3">
+		<text>Book of accounting</text>
+	</string>
+	<string id="pole_factory_doc_3_desc">
+		<text>Here is the basic information on accountable persons and the material structure of the new enterprise. The lion's share of funds is targeted, received from the state. No strange materials are found to be found, unfortunately, it can not be done, weapons issues were not dealt with exactly.</text>
+	</string>
+	<string id="pole_factory_doc_4">
+		<text>The PDA of the deceased stalker</text>
+	</string>
+	<string id="pole_factory_doc_4_desc">
+		<text>It is in the killed state, but a note was attached under the cover, apparently duplicating the last message just for this case: "Stalker, if you read this, better leave from here for good." If you came here hoping to profit, then know that there is nothing here, although by the time the CCP is discovered, I think you understood everything yourself, I do not know if we will survive this night, but my feelings are extremely disgusting, as if something reads my thoughts and scoffs at us. We can not go, we are exhausted from fatigue, we make a small break here UWC. CCP hide just in case, to rend the mutants. "</text>
+	</string>
+	<string id="rookie_pole_task_1_name">
+		<text>Find a newbie's weapon</text>
+	</string>
+	<string id="rookie_pole_task_1_text">
+		<text>A stalker named Fat asked to get his own weapon for him, which he dropped during the careless investigation of the abnormal substation.</text>
+	</string>
+	<string id="st_plz_save_rookie">
+		<text>Bold: \nHey, stalker? Stalker! Help me please, here the bloodsucker from the neighboring house gobbles me up!</text>
+	</string>
+	<string id="st_plz_save_rookie_done">
+		<text>Bold: \nThank you, come here, I'll open!</text>
+	</string>
+	<string id="jg_task_name">
+		<text>Conduct a stalker</text>
+	</string>
+	<string id="jg_task_text">
+		<text>Stalker needs the services of a conductor who knows a particular area. It is necessary to deliver it where it should be.</text>
+	</string>
+	<string id="mil_freedom_barman_mlr_task_1_name">
+		<text>Climb on the roof of the water tower</text>
+	</string>
+	<string id="mil_freedom_barman_mlr_task_1_name_wait">
+		<text>Wait an hour until it loads</text>
+	</string>
+	<string id="mil_freedom_barman_mlr_task_1_name_end">
+		<text>Back to Cooking</text>
+	</string>
+	<string id="mil_freedom_barman_mlr_task_1_text">
+		<text>Culinary asked to climb onto the roof of the water tower in order to download some entertaining information for "Svobodovtsev".</text>
+	</string>
+	<string id="mil_freedom_barman_mlr_task_1_about">
+		<text>Oh, zdarov dude! Listen, as you know, we have a local network here basically, in the Zone, and so the bitch croaks out godlessly. Usually at us someone climbs on a water tower in a bloodsucking and shakes any chlamen for children as there the goodwill is good. If you want, it can be you. I here have opened to you already the necessary program, here from here to swing, have understood? Well, will you help?</text>
+	</string>
+	<string id="mil_freedom_barman_mlr_task_1_finish">
+		<text>Thank you, brother! If you liked it, you can come later, we climb legely on the tower.</text>
+	</string>
+	<string id="mil_freedom_barman_mlr_task_1_notebook">
+		<text>"Svobodsky" laptop</text>
+	</string>
+	<string id="mil_freedom_barman_mlr_task_1_notebook_descr">
+		<text>The general notebook of the group, which it uses for entertainment purposes. There are some copies of pages in social networks, music, various games, movies from art house to the most popular at the moment, photos of carriers of this information and of course video clips with pictures, as well as pornographic pictures.</text>
+	</string>
+	<string id="st_stalker_baraholka_outfit">
+		<text>Overalls "Staratel"</text>
+	</string>
+	<string id="st_stalker_baraholka_outfit_descr">
+		<text>The prototype of this "product" was the "Zarya" popular in the stalker's environment. To its main advantages, you can undoubtedly include the reduced weight of both bulletproof vest and clothing (rubber in many places was simply cut off) and an additional installed container for the artifact. Unfortunately for the conduct of military operations this sample of mediocre thought is not capable, but it will help in hunting for artifacts on the initial path of becoming a stalker.</text>
+	</string>
+	<string id="st_wpn_baraholka_groza">
+		<text>OC-14 "Thunderstorm"</text>
+	</string>
+	<string id="st_wpn_baraholka_groza_descr">
+		<text>It is a kind of almost ordinary shabby "Storm", if not for one "but". These are not traces of natural exploitation, but experiments conducted by some local silly tech. As a result, the wear of the trunk increased more than 2 times! Simply put, unlike the original, this crap will literally fall apart in the process of use. But do not throw it out, right?</text>
+	</string>
+	<string id="esc_m_trader_task_7_name">
+		<text>Find [ %s]</text>
+	</string>
+	<string id="esc_m_trader_task_7_text">
+		<text>Sidorovich offers simple tasks to find parts of mutant bodies.</text>
+	</string>
+	<string id="esc_m_trader_task_7_about">
+		<text>There is always work. Parts of the bodies of the local fauna are often interested in various private organizations or individuals, the direction of their activities often fluctuates... grrh something took me wrong there. In short, I give a tip, you drag. Ready?</text>
+	</string>
+	<string id="esc_m_trader_task_7_fetch_about">
+		<text>There is always work. Parts of the bodies of the local fauna are often interested in various private organizations or individuals, the direction of their activities often fluctuates... grrh something took me wrong there. In short I need [ %s]. Are you taking?</text>
+	</string>
+	<string id="esc_m_trader_task_7_fetch_finish">
+		<text>Uh-huh, come here this shit. Here's your loot:</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_3_name">
+		<text>Roof</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_3_text">
+		<text>Pahan wanted me to shake the huckster in the dump.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_3_about">
+		<text>So, you need to crank one business. Though our fools on the flea market do not recognize our roof, you must show them that they will need our services very much. Well, you never know what happens in life? Pay immediately and take it. There they have a couple of devils on the page, I do not think there will be any problems for you. And look, I'm rats along your trail, if it turns out that at least I have pinched myself a penny-they'll find me in the ditch. Well, are you coming?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_3_finish">
+		<text>That's all in the obshchak, and here are your hard earned:</text>
+	</string>
+	<string id="pri_monolith_teacher_mlr_task_3_name">
+		<text>Reflect the attack of zombies</text>
+	</string>
+	<string id="pri_monolith_teacher_mlr_task_3_text">
+		<text>Zombies again rod from Radar, you need to clean them.</text>
+	</string>
+	<string id="pri_monolith_teacher_mlr_task_3_about">
+		<text>Zombied again rod from Radar, how they got bored. We need to meet them on the approaches to Pripyat and kill them, if our people are there, I think they will help you. Are you coming?</text>
+	</string>
+	<string id="pri_monolith_teacher_mlr_task_3_finish">
+		<text>Well done, take the artifactic:</text>
+	</string>
+	<string id="gar_smart_terrain_5_4_main_dolg_soldier_task_1_name">
+		<text>Clear the parking lot from the bandits</text>
+	</string>
+	<string id="gar_smart_terrain_5_4_main_dolg_soldier_task_1_text">
+		<text>The bandits are completely fucked up and settled almost in the most arduous post.</text>
+	</string>
+	<string id="gar_smart_terrain_5_4_main_dolg_soldier_task_1_about">
+		<text>Well, if you can, then you can clean the parking lot from the bandits. These freaks are completely fucked up, once they allow themselves to have such neighbors. Yes, and we would cover them, but I do not have extra people. Are you coming?</text>
+	</string>
+	<string id="gar_smart_terrain_5_4_main_dolg_soldier_task_1_finish">
+		<text>Here are the money for the job:</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_2_name">
+		<text>Bury stalkers on the farm</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_2_text">
+		<text>The Sultan wants me to help fuck the stalker on the farm.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_2_about">
+		<text>If you want, you can go to the farm with steep boys and shake the stalkers there. How did they fuck again there to appear. Are you coming?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_2_finish">
+		<text>Take your share, Rambo:</text>
+	</string>
+	<string id="border_freedom_keeper_max_task_1_name">
+		<text>Fight off the first wave</text>
+	</string>
+	<string id="border_freedom_keeper_max_task_1_name_1">
+		<text>Fight off the second wave</text>
+	</string>
+	<string id="border_freedom_keeper_max_task_1_name_2">
+		<text>Fight off the third wave</text>
+	</string>
+	<string id="border_freedom_keeper_max_task_1_name_3">
+		<text>Return to Max</text>
+	</string>
+	<string id="border_freedom_keeper_max_task_1_text">
+		<text>Max asked to help break the barrier from the invasion of zombies.</text>
+	</string>
+	<string id="border_freedom_keeper_max_task_1_about">
+		<text>Listen, then our intelligence recorded a large accumulation of zombies from the "Barrier", the cadavers migrate gradually because of the absence of radiation, and that's how they come out. We now each trunk in the account, will you help?</text>
+	</string>
+	<string id="border_freedom_keeper_max_task_1_finish">
+		<text>Thank you, dude. Take from me what's left:</text>
+	</string>
+	<string id="esc_3_16_military_trader_task_3_name">
+		<text>Pseudo dogs</text>
+	</string>
+	<string id="esc_3_16_military_trader_task_3_text">
+		<text>Jurov asked to cope with pseudo dogs terrorizing patrols.</text>
+	</string>
+	<string id="esc_3_16_military_trader_task_3_about">
+		<text>Yes, the work has appeared. Clean out my specified in your PDA the square of the pseudo dogs, it's opposite the village. Cranky criminals can not roll them out, I can not send them too, so I need someone to solve the problem with them in the singular, or they'll gnaw our patrols at night.</text>
+	</string>
+	<string id="esc_3_16_military_trader_task_3_finish">
+		<text>Well done.</text>
+	</string>
+
+	<string id="esc_3_16_military_trader_task_2_name">
+		<text>Find AK-74</text>
+	</string>
+	<string id="esc_3_16_military_trader_task_2_text">
+		<text>Jurov complained that one of his subordinates lost his registered machine somewhere in the territory of the South checkpoint. I need to find him.</text>
+	</string>
+	<string id="esc_3_16_military_trader_task_2_about">
+		<text>Oh, yes, we happened to have one hellish incident, namely one of the fighters fucked his machine gun. According to him, he should be somewhere in the territory of this Southern checkpoint, but where exactly - is unknown. If this is someone's joke, then I will arrange it. Listen, can you try and track this shit? You're still just idle, but just try to stick around during the test, I'll choke. And only here I do not need to yell, on that trunk my number was and his soldier fortunately wrote down, well, otherwise it's just - the criminal is shining.</text>
+	</string>
+	<string id="esc_3_16_military_trader_task_2_fetch_about">
+		<text>Oh, yes, we happened to have one hellish incident, namely one of the fighters fucked his machine gun. According to him, he should be somewhere in the territory of this Southern checkpoint, but where exactly - is unknown. If this is someone's joke, then I will arrange it. Listen, can you try and track this shit? You're still just idle, but just try to stick around during the test, I'll choke. And only here I do not need to yell, on that trunk my number was and his soldier fortunately wrote down, well, otherwise it's just - the criminal is shining.</text>
+	</string>
+	<string id="esc_3_16_military_trader_task_2_fetch_finish">
+		<text>Hmm, good. Keep your pocket money.</text>
+	</string>
+	<string id="esc_m_trader_task_6_name">
+		<text>Excursion to Hell</text>
+	</string>
+	<string id="esc_m_trader_task_6_text">
+		<text>Sidorovich proposed to follow the yellow-throated, until they gain experience.</text>
+	</string>
+	<string id="esc_m_trader_task_6_about">
+		<text>Work, eh? Well there is one thing here. You're not a green jerk, as far as I can judge by your profile in the CCP, grrh. Ugh. In short, some stupid ones piled up to me, asked me to show what, and how it is here in the Zone. Well, I sent them to the Fan, and this devil cunningly said that they say that KBM among newcomers no longer holds, well, I know that unnecessary deaths are not needed here, it does not restore its reputation, like nerve cells. So I asked them to wait at the village, until I find a suitable candidate. Well, are you leading these jerks around the neighborhood? It is necessary that they do not leave your empty pockets with you and with joyful mines on their faces.</text>
+	</string>
+	<string id="esc_m_trader_task_6_finish">
+		<text>Keep these presents to you:</text>
+	</string>
+	<string id="stalker_companion_task_mlr_1_start_dialog_1">
+		<text>Oh, zdarov man! At you you show us the romance here? Come on, we are at your disposal and relax, we are accommodating.</text>
+	</string>
+	<string id="stalker_companion_task_mlr_1_start_dialog_2">
+		<text>Did you want something? Do we do everything right?</text>
+	</string>
+	<string id="stalker_companion_task_mlr_1_complete">
+		<text>Listen, thank you, man. We will never forget you, but if we reach the Executor, then we will also make your life a sugar one. Goodbye my friend!</text>
+	</string>
+	<string id="stalker_companion_task_mlr_1_actor_reply">
+		<text>Uh-huh.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_7_name">
+		<text>Find 4 detectors, class "Veles"</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_7_text">
+		<text>Miklukha complained that the level of technical support of the group leaves much to be desired, it is necessary to find 4 detectors "Veles".</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_7_about">
+		<text>Oh, you're just in time, and then my soldiers are rarely at work zahazhivayut, but blame for this I can not. If not in the course, then in the old years during Lukash, Cook and other unconscious personalities, the level of material support of our group was negligible and from the "descendants" we got almost nothing. So, I want to resume the tradition of assembling artifacts so to say people's needs, but we only imagine a couple of detectors "Veles" and then one of them was broken. I need four such detectors, for each crying 5 thousand. Well, are you in the business?</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_7_fetch_about">
+		<text>Oh, you're just in time, and then my soldiers are rarely at work zahazhivayut, but blame for this I can not. If not in the course, then in the old years during Lukash, Cook and other unconscious personalities, the level of material support of our group was negligible and from the "descendants" we got almost nothing. So, I want to resume the tradition of assembling artifacts so to say people's needs, but we only imagine a couple of detectors "Veles" and then one of them was broken. I need four such detectors, for each crying 5 thousand. Well, are you in the business?</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_7_fetch_finish">
+		<text>From thank you, take your money.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_name">
+		<text>Defeat the debtors in the village</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_text">
+		<text>Miklukha knows how to repel the hunt for the debtors from the village in the village near Rostock, and for this I may be useful.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_about">
+		<text>About the fighter, hello! It's a delicate matter for me to form. Do you know that the debtors simply monotonously try to consolidate themselves in one of the villages on the way to Rostka for years? No? In general, I know how to discourage their desire to come there once and for all and for this we must show them our tactics so to speak. There just arrived some fresh forces, I really do not know why they are there, but if we defeat them in half the number, imagine how much pressure it will produce? Well, I'm interested in you?</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_finish">
+		<text>Wonderful! Well done, take this trunk. And do not curl yourself so, the trunk is good, of course not for the open spaces of the military, but here and there it certainly should come in handy, hehe.</text>
+	</string>
+	<string id="bar_visitors_sad_veteran_task_1_name">
+		<text>Learn about the fate of fellow debtors</text>
+	</string>
+	<string id="bar_visitors_sad_veteran_task_1_text">
+		<text>Dolgovets asked to find out about the fate of his comrades, whom he saw for the last time in the Cemetery of Technology near the chemical anomalous zone.</text>
+	</string>
+	<string id="bar_visitors_sad_veteran_task_1_about">
+		<text>Work? I do not think you can help me. Although wait, here's a drink. I went with my comrades to reconnoitre to a technology cemetery, well, you know this bloody place - a vast wasteland with skeletons of various techniques. Here we were informed that somewhere there the Liberty detachment was seen, but we did not find these ushlopki... but found something else. A frightening thing that made my friends... fall down on their knees and grab my head. I do not know why the same thing did not happen to me, as well as why I ran away. It's a shame. Listen, I certainly do not believe that the guys are still alive, they have not had news for a couple of days, but can you at least confirm their death? Coordinates of that place, I'll throw you on the PDA, it's near some abnormal zone with chemical evaporation. Will you help?</text>
+	</string>
+	<string id="bar_visitors_sad_veteran_task_1_finish">
+		<text>So they are dead? Damn, you... counters. Forgive me, here take my backup barrel and the optics to it. Thank you.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_7_name">
+		<text>Collect the bark from the mutilated trees</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_7_text">
+		<text>Sakharov asked him to help him with researching the local flora and go to the Red Forest for samples of bark.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_7_about">
+		<text>For a long time we have been arguing about the level of abnormal and radioactive interference in the structure of vegetation, in particular the so-called "Red Forest" trees, but all our attempts to understand this are being broken by the insurmountable obstacles that our scientific groups had to face. Can you go there and take samples of the bark of the trees there for us? They say the most mutilated are standing near the anomaly "Symbiont", here they are and I need.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_7_finish">
+		<text>Thank you very much! Take, we here have thrown off the professorship:</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_2_name">
+		<text>Collect bark from mutilated trees</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_2_text">
+		<text>Herman asked to help him with researching the local flora and go to the Red Forest for samples of bark.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_2_about">
+		<text>And, welcome. We always have a job, our MBU is engaged in somehow or other studies of flora including, for example, some time ago we asked a stalker to deliver us some plant to study its properties. Now we are interested in an anomalous grove in the "Red Forest", in the middle of which there is an anomalous zone "Symbion". We will need samples of bark from the most mutilated trees that you will only find. Do you agree?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_2_finish">
+		<text>Oh, great! Give them here. Take from me a useful artifactic:</text>
+	</string>
+	<string id="hunter_gar_trader_task_5_name">
+		<text>Escort debtors</text>
+	</string>
+	<string id="hunter_gar_trader_task_5_text">
+		<text>It is necessary to cover the debtors when conducting measurements of anomalies on the orders of scientists.</text>
+	</string>
+	<string id="hunter_gar_trader_task_5_about">
+		<text>We need to lead the debtors around the landfill, they carry out some orders of scientists. They have few people, so someone should cover their backs, are you going?</text>
+	</string>
+	<string id="hunter_gar_trader_task_5_finish">
+		<text>Thank you, man. Here is your reward.</text>
+	</string>
+	<string id="hunter_gar_trader_task_4_name">
+		<text>Destroy civil zombies</text>
+	</string>
+	<string id="hunter_gar_trader_task_4_text">
+		<text>Amber came to the dump zombies and nailed to one of the garbage piles, you need to neutralize them.</text>
+	</string>
+	<string id="hunter_gar_trader_task_4_about">
+		<text>There is a good job for a hunter. You're a hunter, right? Keep the crab! In general, you need to clean one of the garbage heaps from the zombies, coordinate you on the PDA. Ready?</text>
+	</string>
+	<string id="hunter_gar_trader_task_4_finish">
+		<text>From the handsome, take honestly earned:</text>
+	</string>
+	<string id="hunter_gar_trader_task_3_name">
+		<text>Kill the Buruer Pyro Maniacs</text>
+	</string>
+	<string id="hunter_gar_trader_task_3_text">
+		<text>At night, warming by the frying around one of the anomalous zones go out burer. They should not go out anymore.</text>
+	</string>
+	<string id="hunter_gar_trader_task_3_about">
+		<text>The work is dangerous and must be done until morning. Not far from here, in the place of accumulation of abandoned equipment, some strange bure- ers crawl out and terrorize local stalkers. Many are already afraid to hunt for artifacts at night and work as a whole is difficult, so you will go with a couple of indifferent stalkers. Will you help them?</text>
+	</string>
+	<string id="hunter_gar_trader_task_3_finish">
+		<text>Well done, keep your share:</text>
+	</string>
+	<string id="merc_pri_a16_trader_mlr_task_1_name">
+		<text>Find [ %s]</text>
+	</string>
+	<string id="merc_pri_a16_trader_mlr_task_1_text">
+		<text>Suitcases are needed [ %s] for guys who are stuck in Pripyat.</text>
+	</string>
+	<string id="merc_pri_a16_trader_mlr_task_1_about">
+		<text>Yes, I have a list of the primary things that I need. In particular, ammunition, repair kits and medicines. Are you taking?</text>
+	</string>
+	<string id="merc_pri_a16_trader_mlr_task_1_fetch_about">
+		<text>I have a list of the primary things I need. In particular, ammunition, repair kits and medicines. I need [ %s] now. Are you taking?</text>
+	</string>
+	<string id="merc_pri_a16_trader_mlr_task_1_fetch_finish">
+		<text>Thank you.</text>
+	</string>
+	<string id="zat_b18_noah_task_3_name">
+		<text>Obtain [ %s]</text>
+	</string>
+	<string id="zat_b18_noah_task_3_text">
+		<text>Noah needs [ %s] for his dog.</text>
+	</string>
+	<string id="zat_b18_noah_task_3_about">
+		<text>Now, when puppies grow up I can not hang around anywhere. I need your help in harvesting my dogs.</text>
+	</string>
+	<string id="zat_b18_noah_task_3_fetch_about">
+		<text>Now, when puppies grow up I can not hang around anywhere. I need your help in harvesting my dogs. [ %s] just fine.</text>
+	</string>
+	<string id="zat_b18_noah_task_3_fetch_finish">
+		<text>What is the assignment? Oh, yes.</text>
+	</string>
+	<string id="zat_b18_noah_task_2_name">
+		<text>Clear the "Southern Plateau" from snorkels</text>
+	</string>
+	<string id="zat_b18_noah_task_2_text">
+		<text>Noah is asked to relieve him of annoying and apparently intelligent snorkels.</text>
+	</string>
+	<string id="zat_b18_noah_task_2_about">
+		<text>Listen, I need your help. These creatures, snorkels have long been watching me. They wait for me to show weakness and then attack. Kill them first.</text>
+	</string>
+	<string id="zat_b18_noah_task_2_finish">
+		<text>Take it and leave it until I suspect you of a congress with snorkels.</text>
+	</string>
+	<string id="zat_b18_noah_task_1_name">
+		<text>Find a Shotgun "Protector"</text>
+	</string>
+	<string id="zat_b18_noah_task_1_text">
+		<text>Noah needs a new shotgun.</text>
+	</string>
+	<string id="zat_b18_noah_task_1_about">
+		<text>My weapon is very bad, get me something better, well, for example, "Protect". And then how do I think that these creatures from everywhere their hands pull, feel... you need something more capacious and quick-firing.</text>
+	</string>
+	<string id="zat_b18_noah_task_1_fetch_about">
+		<text>My weapon is very bad, get me something better, well, for example, "Protect". And then how do I think that these creatures from everywhere their hands pull, feel... you need something more capacious and quick-firing.</text>
+	</string>
+	<string id="zat_b18_noah_task_1_fetch_finish">
+		<text>Come here and get out.</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_1_name">
+		<text>Destroy the base of the bandits</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_1_text">
+		<text>It is necessary to knock out the bandits from their main place of dislocation in the marshes.</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_1_about">
+		<text>This work must be done before the morning, as in the camp at this time, the least of all these bastards. I've gathered the indifferent guys who can get even with the bandits at their main base in a fishing village, will you go with them? Only the guys do not kill, if you are alone, I will not forgive you for this.</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_1_finish">
+		<text>Thank you, here's from me. You are worthy to wear this uniform.</text>
+	</string>
+	<string id="ecolog_companion_task_mlr_1_start_dialog_1">
+		<text>Are you our guide? I'll mark the right place on your PDA. You need to ensure our safety on the way to it and after we finish, take us back. You will receive the reward upon return to the camp.</text>
+	</string>
+	<string id="ecolog_companion_task_mlr_1_start_dialog_2">
+		<text>Did you want something? We need to hurry, it's dangerous to stay here for a long time.</text>
+	</string>
+	<string id="ecolog_companion_task_mlr_1_complete">
+		<text>Thank you, stalker. You've done a good job, here's your reward.</text>
+	</string>
+	<string id="ecolog_companion_task_mlr_1_actor_reply">
+		<text>Good.</text>
+	</string>
+	<string id="ecolog_companion_task_mlr_2_start_dialog_1">
+		<text>You here mean connoisseur of the neighborhood? Hmm, well, lead.</text>
+	</string>
+	<string id="ecolog_companion_task_mlr_2_start_dialog_2">
+		<text>Wanted something? If not, then do not distract.</text>
+	</string>
+	<string id="ecolog_companion_task_mlr_2_complete">
+		<text>Thank you, man - take our barrel good.</text>
+	</string>
+	<string id="ecolog_companion_task_mlr_2_actor_reply">
+		<text>Good.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_6_name">
+		<text>Accompany scientists</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_6_text">
+		<text>It is necessary to place scientists in a certain place and ensure their safety while they conduct research and then bring them back to the camp.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_6_about">
+		<text>I need someone to cover our guys during planned measurements of abnormal activity. Looking back on your experience of staying in this place, I think that you are ideal for this approach. Do you agree with my statement?</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_6_finish">
+		<text>Thank you, stalker. Here is your reward.</text>
+	</string>
+	<string id="mlr_inventory_box_no_use">
+		<text>Nothing remarkable stovepipe</text>
+	</string>
+	<string id="mil_freedom_leader_name_mlr">
+		<text>Miklukha</text>
+	</string>
+	<string id="st_itm_actor_backpack_desc_mlr">
+		<text>Often used by stalkers as a backup option in the event of unforeseen circumstances. Its main feature is weak, but nevertheless simple straps that can be dumped together with a backpack at any moment and quickly run away. Compact enough and space-saving. \n %c [255,238,153,26] When used, allows you to reset your backpack with some content.</text>
+	</string>
+	<string id="st_dont_has_knife">
+		<text>Remove the knife</text>
+	</string>
+
+	<string id="esc_2_12_medic_mlr_medbag_hidden_search_tips">
+		<text>Examine the masonry ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="disgusting_trees_tips">
+		<text>Cut the bark ($$ ACTION_USE $$)</text>
+	</string>
+	<string id="bridge_down_red_forest_tips">
+		<text>Lower the bridge ($$ ACTION_USE $$)</text>
+	</string>
+	<string id="bridge_stop_red_forest_tips">
+		<text>Stop the bridge ($$ ACTION_USE $$)</text>
+	</string>
+	<string id="bridge_up_red_forest_tips">
+		<text>Raise the bridge ($$ ACTION_USE $$)</text>
+	</string>
+	<string id="totaliz_helper_mlr_text">
+		<text>For a more detailed review of the battle, click on the "tilde" button and type in the appeared console: "demo_record 1" (without quotes). Camera control is performed: "w", "s", "a", "d" and in combination with the clamped "ctrl". Exit this mode through the "esc" key.</text>
+	</string>
+	<string id="ui_mm_transitions_closed_disable">
+		<text>Open all transitions</text>
+	</string>
+	<string id="ui_mm_rank_loot_option">
+		<text>Weapon status depends on rank</text>
+	</string>
+	<string id="ui_mm_lootmoney_option">
+		<text>Money from corpses</text>
+	</string>
+	<string id="ui_mm_show_tip_reputation_option">
+		<text>Reputation information (in messages)</text>
+	</string>
+
+	<string id="ui_mm_mask_hud">
+		<text>Dynamic hud</text>
+	</string>
+
+	<string id="ui_mm_death_ini_alternative_option">
+		<text>More loot in corpses</text>
+	</string>
+
+	<string id="ui_mm_robbery_at_sleep_option">
+		<text>Robbery in a dream</text>
+	</string>
+	<string id="ui_mm_fake_news_option">
+		<text>Random fake news</text>
+	</string>
+	<string id="ui_mm_fast_travel_option">
+		<text>Fast travel</text>
+	</string>
+	<string id="mlr_strelok_item_01">
+		<text>Notebook with entries</text>
+	</string>
+	<string id="mlr_strelok_item_01_desc">
+		<text>Notebook with notes, probably owned by Strelka himself. It describes in detail how to get into the underground complex, which he calls the "x-18" laboratory.</text>
+	</string>
+	<string id="item_pda_map_mlr_name">
+		<text>PDAs</text>
+	</string>
+	<string id="item_pda_map_mlr_descr">
+		<text>Personal PDAs, in the map section of which there is interesting information. We need to throw it to ourselves.</text>
+	</string>
+	<string id="st_pda_mlr_descr">
+		<text>Personal PDA, in the "map" section of which there is interesting information. In the "history of messages" tab a password is set.</text>
+	</string>
+	<string id="st_new_path_mlr">
+		<text>A new transition has been opened.</text>
+	</string>
+	<string id="blackbox_mlr_descr">
+		<text>Or a "black box", as people like to call it in the media. Airborne recorders are used for recording the internal systems of the aircraft and crew negotiations, in general for all that allows to determine the possible cause of aircraft crash. In the Zone such devices are equipped with each aircraft, although the "black box" is not always suitable. In the Zone, they can be interested in the military themselves for quite justifiable reasons, as well as all sorts of shady ones, and at hour and time the traders popular in the stalker's environment.</text>
+	</string>
+	<string id="blackbox_mlr">
+		<text>Airborne recorder</text>
+	</string>
+
+	<string id="hunter_gar_trader_task_2_name">
+		<text>Find %s</text>
+	</string>
+	<string id="hunter_gar_trader_task_2_text">
+		<text>The butcher needs %s.</text>
+	</string>
+	<string id="hunter_gar_trader_task_2_about">
+		<text>Some people pay well for meat mutants.</text>
+	</string>
+	<string id="hunter_gar_trader_task_2_fetch_about">
+		<text>Do not want money to earn extra money? Meat mutants are very much appreciated in "narrow circles", it is better not to go into details, but better bring me %s. Well, how?</text>
+	</string>
+	<string id="hunter_gar_trader_task_2_fetch_finish">
+		<text>Not bad, not bad. Well done, hunter.</text>
+	</string>
+	<string id="merc_pri_a16_tesak_mlr_task_2_name">
+		<text>Find the artifact "Soul"</text>
+	</string>
+	<string id="merc_pri_a16_tesak_mlr_task_2_text">
+		<text>Gryphon asked to find for him an artifact "Soul"</text>
+	</string>
+	<string id="merc_pri_a16_tesak_mlr_task_2_fetch_about">
+		<text>We do not have a doctor here, but we must somehow survive. Sometimes medical equipment is not enough, as well as our knowledge in this matter, and we have every person on the account. I heard that stalkers are in demand artifact "Soul", which can well heal wounds. Bring it for us?</text>
+	</string>
+	<string id="merc_pri_a16_tesak_mlr_task_2_fetch_finish">
+		<text>Thank you, the soldiers will be grateful to you.</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_task_2_name">
+		<text>Find the artifact "Film"</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_task_2_text">
+		<text>The fan asked to find an artifact for the newcomer "Film"</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_task_2_fetch_about">
+		<text>In general, this is the case. The newcomer at us alone in the village is, went recently to the dump in the swamp such acid, well, and found an artifact there. On the joy ran to the village at once to brag, but that's bad luck, the military braked him. Well, the devil knows, there was a patrol. Here, art and some equipment they took from him, and this man is grieving now sits - the first art and immediately lumpy. Well, who could have known that it would turn out that way? Art is very rare, "Film" is called. I would have gone myself, but I can not leave the young ones alone, they are learning this here... will not you help your stalker brother?</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_task_2_fetch_finish">
+		<text>Thank you, I think that man will be pleased. And then I do not need to dismiss the snot here... and it's hard life.</text>
+	</string>
+	<string id="esc_m_trader_task_4_name">
+		<text>Find three cat's tail</text>
+	</string>
+	<string id="esc_m_trader_task_4_text">
+		<text>Need to get for Sidorovich three cat's tail</text>
+	</string>
+	<string id="esc_m_trader_task_4_fetch_about">
+		<text>Bring me three cat's tail, and I'll give you money and a good trunk. Good?</text>
+	</string>
+	<string id="esc_m_trader_task_4_fetch_finish">
+		<text>Excellent, come on here. But your trunk and money. Everything, ches.</text>
+	</string>
+	<string id="esc_m_trader_task_3_name">
+		<text>Find five dog tails</text>
+	</string>
+	<string id="esc_m_trader_task_3_text">
+		<text>Need to get for Sidorovich five dog tails</text>
+	</string>
+	<string id="esc_m_trader_task_3_fetch_about">
+		<text>So it is. I need five dog tails, or to be more precise, one good person - a zoologist. Are you taking?</text>
+	</string>
+	<string id="esc_m_trader_task_3_fetch_finish">
+		<text>Well, the stink here now will be. Rejoice that I have not imposed a fine on you for the damage of air, grrhm.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_3_name">
+		<text>Find the two brains of the controller</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_3_text">
+		<text>Sakharov needs 2 brains of the controller for scientific research</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_3_fetch_about">
+		<text>Greetings again. You know, I've been studying the phenomenon of psy-radiation for a long time and I would like you to help me with this. Of course, no mental activity is required from you, but what about the two brains of the controller?</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_3_fetch_finish">
+		<text>Ooo, let's get them here soon! A disgusting sight, is not it? But my job is this. Ah, yes - reward...</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_5_name">
+		<text>Find artifact "Compass"</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_5_text">
+		<text>Sakharov needs an artifact "Compass"</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_5_fetch_about">
+		<text>You know, we've heard a lot of times that a legendary artifact called "Compass" comes from hand to hand, but even to see us such a miracle has never happened. Perhaps you will get it for us?</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_5_fetch_finish">
+		<text>Thank you for this scientific contribution. Take one of our best overalls, I'm sure that it will save your life more than once.</text>
+	</string>
+
+	<string id="merc_pri_a16_tesak_mlr_task_3_name">
+		<text>Clean out the grocery store</text>
+	</string>
+	<string id="merc_pri_a16_tesak_mlr_task_3_text">
+		<text>It is necessary to clean the nearest grocery store from the annoying dogs.</text>
+	</string>
+	<string id="merc_pri_a16_tesak_mlr_task_3_about">
+		<text>Hello, we have a problem again. More precisely, this is a long-standing problem. Dogs like to hang around the grocery store, could you shoot them all there? Too close they have settled down from our camp, and even barking to us attract attention. I understand that this will not take long, but please understand.</text>
+	</string>
+	<string id="merc_pri_a16_tesak_mlr_task_3_finish">
+		<text>Well done, thank you. Keep a little money:</text>
+	</string>
+
+	<string id="merc_pri_a16_tesak_mlr_task_1_name">
+		<text>Collect [ %s]</text>
+	</string>
+	<string id="merc_pri_a16_tesak_mlr_task_1_text">
+		<text>The gryphon asked to collect [ %s]</text>
+	</string>
+	<string id="merc_pri_a16_tesak_mlr_task_1_about">
+		<text>These fanatics just do not have a number. Could you get through them? And I will give you something with which you will be much easier to do this. Ditch for me 25 patches of these bastards and bring it as evidence.</text>
+	</string>
+	<string id="merc_pri_a16_tesak_mlr_task_1_fetch_about">
+		<text>These fanatics just do not have numbers. Could you get through them? And I will give you something with which you will be much easier to do this. Ditch for me 25 patches of these bastards and bring it as evidence.</text>
+	</string>
+	<string id="merc_pri_a16_tesak_mlr_task_1_fetch_finish">
+		<text>Thank you, stalker. Here's to you an excellent machine:</text>
+	</string>
+	<string id="esc_m_trader_task_5_name">
+		<text>Destroy the mutant's lair</text>
+	</string>
+	<string id="esc_m_trader_task_5_text">
+		<text>Sidorovich acts as an intermediary, among various stalkers and military men interested in shooting mutants.</text>
+	</string>
+	<string id="esc_m_trader_task_5_about">
+		<text>The request has arrived about cleaning of locality from mutants. In business?</text>
+	</string>
+	<string id="esc_m_trader_task_5_finish">
+		<text>Well, take the loot.</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_task_1_name">
+		<text>Destroy the mutant's lair</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_task_1_text">
+		<text>The fan asked to destroy the mutant's lair in order to protect the newcomers in the village, and other stalkers that walk through the Cordon.</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_task_1_about">
+		<text>There is one thing. Every day on the cordon becomes more dangerous. Here, the den is increasingly dangerous mutants, and we must never allow them to multiply! You will have to clean up the zone I marked on your CCP. Kill every creature that you will see. If you do, I will not stay in debt. so what?</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_task_1_finish">
+		<text>Thank you, thanks to you beginners will be relatively safe. Here is your reward.</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_2_name">
+		<text>Collect [ %s]</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_2_text">
+		<text>Aslan asked to collect [ %s]</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_2_about">
+		<text>Do you want to hunt people? I tell you how many stripes to strip, you bring them to me and get money.</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_2_fetch_about">
+		<text>Do you want to hunt people? Tear me [ %s], and I'll pay you well.</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_2_fetch_finish">
+		<text>Well done, bro. Hold the money:</text>
+	</string>
+	<string id="zat_stancia_trader_merc_task_1_name">
+		<text>Collect [ %s]</text>
+	</string>
+	<string id="zat_stancia_trader_merc_task_1_text">
+		<text>Merck asked to collect [ %s]</text>
+	</string>
+	<string id="zat_stancia_trader_merc_task_1_about">
+		<text>Want to arrange a real safari? You will hunt people and as a mandatory condition - their patches. We will raise the prestige of the group.</text>
+	</string>
+	<string id="zat_stancia_trader_merc_task_1_fetch_about">
+		<text>Want to have a real safari? Surrender to me [ %s], and I'll pay you well. We will raise the prestige of the group.</text>
+	</string>
+	<string id="zat_stancia_trader_merc_task_1_fetch_finish">
+		<text>From this I understand! Keep money:</text>
+	</string>
+	<string id="pri_monolith_teacher_mlr_task_2_name">
+		<text>Disrupt [ %s]</text>
+	</string>
+	<string id="pri_monolith_teacher_mlr_task_2_text">
+		<text>The mentor asked to break [ %s]</text>
+	</string>
+	<string id="pri_monolith_teacher_mlr_task_2_about">
+		<text>It's time to get these annoying bastards. Tear me off their patches and get a bonus.</text>
+	</string>
+	<string id="pri_monolith_teacher_mlr_task_2_fetch_about">
+		<text>It's time to get these annoying bastards. Tear me [ %s] and get a bonus.</text>
+	</string>
+	<string id="pri_monolith_teacher_mlr_task_2_fetch_finish">
+		<text>Well done, brother. Here is your bonus:</text>
+	</string>
+	<string id="esc_3_16_military_trader_task_1_name">
+		<text>Disrupt [ %s]</text>
+	</string>
+	<string id="esc_3_16_military_trader_task_1_text">
+		<text>Jurov asked to be ripped off [ %s]</text>
+	</string>
+	<string id="esc_3_16_military_trader_task_1_about">
+		<text>"Above" launched an unofficial program, do you want to participate in it and prove to everyone that you are a good soldier? I'm interested in strips of criminals as evidence.</text>
+	</string>
+	<string id="esc_3_16_military_trader_task_1_fetch_about">
+		<text>"From above" launched an unofficial program, do you want to pouch in it and prove to everyone that you are a good soldier? Gather me [ %s]. Well, you will not overstrained?</text>
+	</string>
+	<string id="esc_3_16_military_trader_task_1_fetch_finish">
+		<text>Ha, you're not a slip. Keep your bonus.</text>
+	</string>
+	<string id="baraholka_trader_night_task_1_name">
+		<text>Find the artifact %s</text>
+	</string>
+	<string id="baraholka_trader_night_task_1_text">
+		<text>A hacker needs an artifact %s.</text>
+	</string>
+	<string id="baraholka_trader_night_task_1_about">
+		<text>Do not want to earn on the search for rare artworks? I give them a good outfit.</text>
+	</string>
+	<string id="baraholka_trader_night_task_1_fetch_about">
+		<text>Do not want to earn on the search for rare artworks? I give them a good outfit. I need an artifact %s</text>
+	</string>
+	<string id="baraholka_trader_night_task_1_fetch_finish">
+		<text>Oh, thank you, stalker. Here, take it.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_4_name">
+		<text>Find [ %s]</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_4_text">
+		<text>Petrenko is needed [ %s]</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_4_about">
+		<text>"Debt" needs help in shooting a particularly dangerous beast. Are you in the business?</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_4_fetch_about">
+		<text>"Debt" needs help in shooting a particularly dangerous beast. For [ %s] you will get a good reward. Are you in the business?</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_4_fetch_finish">
+		<text>Thank you very much and here is your reward.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_2_name">
+		<text>Find the artifact %s</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_2_text">
+		<text>Sakharov needs an artifact %s.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_2_about">
+		<text>Will you help me with the research, young man? I pay well.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_2_fetch_about">
+		<text>Will you help me with the research, young man? I'm crying well, I need an artifact %s</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_2_fetch_finish">
+		<text>thanks you young man we are in your dept !</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_1_name">
+		<text>Find the artifact %s</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_1_text">
+		<text>Herman needs an artifact %s.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_1_about">
+		<text>Hello! We would be very useful samples of some artifacts for research, will you help?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_1_fetch_about">
+		<text>Hello! We would be very useful samples of some artifacts for research, help with %s?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_1_fetch_finish">
+		<text>Thank you very much.</text>
+	</string>
+	<string id="hunter_gar_trader_task_2_name">
+		<text>Find [ %s]</text>
+	</string>
+	<string id="hunter_gar_trader_task_2_text">
+		<text>The butcher needs [ %s]</text>
+	</string>
+	<string id="hunter_gar_trader_task_2_about">
+		<text>Want to help us with all sorts of creatures?</text>
+	</string>
+	<string id="hunter_gar_trader_task_2_fetch_about">
+		<text>Want to help us with all sorts of creatures and at the same time bring trophies from them? Bring [ %s]. Can you?</text>
+	</string>
+	<string id="hunter_gar_trader_task_2_fetch_finish">
+		<text>Excellent work, a hunter.</text>
+	</string>
+	<string id="killer_bridge_trader_mlr_task_1_name">
+		<text>Find %s</text>
+	</string>
+	<string id="killer_bridge_trader_mlr_task_1_text">
+		<text>The mercenary asked me to get the %s.</text>
+	</string>
+	<string id="killer_bridge_trader_mlr_task_1_about">
+		<text>The soldiers need equipment. Can you get it for us?</text>
+	</string>
+	<string id="killer_bridge_trader_mlr_task_1_fetch_about">
+		<text>Soldiers need %s. Can you get it for us?</text>
+	</string>
+	<string id="killer_bridge_trader_mlr_task_1_fetch_finish">
+		<text>Thank you, here is your reward:</text>
+	</string>
+	<string id="killer_bridge_trader_mlr_task_2_name">
+		<text>Find the artifact %s</text>
+	</string>
+	<string id="killer_bridge_trader_mlr_task_2_text">
+		<text>The mercenary needs this %s artifact.</text>
+	</string>
+	<string id="killer_bridge_trader_mlr_task_2_about">
+		<text>I need artifacts for our fighters, in Limansk without them tight. Will you help?</text>
+	</string>
+	<string id="killer_bridge_trader_mlr_task_2_fetch_about">
+		<text>I need artifacts for our fighters, in Limansk without them tight. Can you help with %s?</text>
+	</string>
+	<string id="killer_bridge_trader_mlr_task_2_fetch_finish">
+		<text>Thank you, keep it from us:</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_1_name">
+		<text>Find the artifact %s</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_1_text">
+		<text>The bartender needs this %s artifact.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_1_about">
+		<text>I'm interested in artifacts. I give a tip to a certain artifact, you bring. Well, how?</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_1_fetch_about">
+		<text>I need an artifact %s.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_1_fetch_finish">
+		<text>Well done, stalker. Here is your reward:</text>
+	</string>
+	<string id="pri_monolith_teacher_mlr_task_1_name">
+		<text>Destroy the enemy</text>
+	</string>
+	<string id="pri_monolith_teacher_mlr_task_1_text">
+		<text>Destroy the enemy at the key point</text>
+	</string>
+	<string id="pri_monolith_teacher_mlr_task_1_about">
+		<text>Do you know what I like most? Sudden attacks. You will throw all your anger on this square and you will be rewarded.</text>
+	</string>
+	<string id="pri_monolith_teacher_mlr_task_1_finish">
+		<text>Excellent, take what you owe.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_4_name">
+		<text>Strip the plot</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_4_text">
+		<text>To help scientists and the military to protect these localities</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_4_about">
+		<text>Could you help us with the destruction of zombies? They have been annoying me for many years now, the good that even now there is some sort of guard at the bunker, but what was before is just awful. Shouts, groans, sounds scratching the metal surface of the nails... in general for this I can share one of those artifacts that the stalkers are so fond of carrying here. How are you?</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_4_finish">
+		<text>Remarkably, it remains only to conduct an educational program among idiots who climb into zones of stable and variable psi-radiation.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_3_name">
+		<text>Destroy mutants</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_3_text">
+		<text>It is necessary to clean the mutant's lair</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_3_about">
+		<text>Stalkers need your help in destroying mutants, giving coordinates.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_3_finish">
+		<text>Good work, that's money.</text>
+	</string>
+	<string id="hunter_gar_trader_task_1_name">
+		<text>Destroy mutants</text>
+	</string>
+	<string id="hunter_gar_trader_task_1_text">
+		<text>It is necessary to clean the mutant's lair</text>
+	</string>
+	<string id="hunter_gar_trader_task_1_about">
+		<text>I need your help in destroying mutants, giving coordinates.</text>
+	</string>
+	<string id="hunter_gar_trader_task_1_finish">
+		<text>Good work, that's money.</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_3_name">
+		<text>Kill the Black Chimera</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_3_text">
+		<text>We need to save the hidden base of the "Clear Sky" from the probable danger.</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_3_about">
+		<text>The situation is shorter. Near the tower in the south-west of the marshes some sort of creature settled, which attacks mainly at night. You need to go now and kill her, if you want to...</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_3_finish">
+		<text>Thank you from the bottom of the heart, brother.</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_2_name">
+		<text>Destroy the target</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_2_text">
+		<text>It is necessary to destroy this goal.</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_2_about">
+		<text>I have tasks to clean up the marshes from any rubbish. Are you taking?</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_2_finish">
+		<text>Thank you, keep the reward.</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_1_name">
+		<text>Eliminate the goal</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_1_text">
+		<text>It is necessary to eliminate the next goal</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_1_about">
+		<text>Yes, we always have work. I give you coordinates, you destroy the goal.</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_1_finish">
+		<text>Well done, keep your money.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_2_name">
+		<text>Kill the stalker</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_2_text">
+		<text>You need to kill this stalker</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_2_about">
+		<text>From the top of "Debt" and some stalkers, I have tasks to eliminate goals. Well, you take?</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_2_finish">
+		<text>Here is your money, just do not get carried away by murder.</text>
+	</string>
+
+	<string id="st_pri_special_trader_mlr_message">
+		<text>Gryphon: \nShalker, you are on the territory of the syndicate. Do not be afraid, we will not attack you, but you must behave adequately. Come to me, if you want, I have for you a couple of assignments.</text>
+	</string>
+
+	<string id="st_dyn_y04_pole_blizko_1">
+		<text>in the village</text>
+	</string>
+	<string id="st_dyn_y04_pole_blizko_2">
+		<text>at the canteen</text>
+	</string>
+	<string id="st_dyn_y04_pole_blizko_3">
+		<text>in the parking lot</text>
+	</string>
+	<string id="st_dyn_y04_pole_blizko_4">
+		<text>at the factory</text>
+	</string>
+	<string id="st_dyn_y04_pole_daleko_1">
+		<text>villages</text>
+	</string>
+	<string id="st_dyn_y04_pole_daleko_2">
+		<text>the dining room</text>
+	</string>
+	<string id="st_dyn_y04_pole_daleko_3">
+		<text>parking spaces</text>
+	</string>
+	<string id="st_dyn_y04_pole_daleko_4">
+		<text>factory</text>
+	</string>
+	<string id="st_dyn_news_y04_pole">
+		<text>on Glade,</text>
+	</string>
+	<string id="st_bar100rent_name">
+		<text>Bar "100 roentgen"</text>
+	</string>
+	<string id="st_gar_baraholka_name">
+		<text>Flea market</text>
+	</string>
+	<string id="st_gar_outpost_name">
+		<text>Outside in front of the bar</text>
+	</string>
+	<string id="st_gar_angar_name">
+		<text>Depot</text>
+	</string>
+	<string id="st_gar_spot_electric_station_name">
+		<text>Old substation</text>
+	</string>
+	<string id="st_gar_train_tonnel_spot_mlr_name">
+		<text>Railway tunnel</text>
+	</string>
+	<string id="st_yanbunker_name">
+		<text>Research Base</text>
+	</string>
+	<string id="st_yancomplex_name">
+		<text>Production complex</text>
+	</string>
+	<string id="st_novice_village_name">
+		<text>Village of beginners</text>
+	</string>
+	<string id="st_south_blokpost_name">
+		<text>Southern roadblock</text>
+	</string>
+	<string id="st_ATP_name">
+		<text>ATP</text>
+	</string>
+	<string id="st_elevator_name">
+		<text>Elevator</text>
+	</string>
+	<string id="st_tunnel_electr_name">
+		<text>Tunnel with electrodes</text>
+	</string>
+	<string id="st_neut_base_name">
+		<text>Farm</text>
+	</string>
+	<string id="st_factory_10_name">
+		<text>Factory</text>
+	</string>
+	<string id="st_north_blockpost_name">
+		<text>Northern checkpoint</text>
+	</string>
+	<string id="st_dar_farm_name">
+		<text>Farm</text>
+	</string>
+	<string id="st_val_bandit_base_name">
+		<text>Base of bandits</text>
+	</string>
+	<string id="st_dar_complex_name">
+		<text>Production complex</text>
+	</string>
+	<string id="st_bs_village_name">
+		<text>The Village of the Bloodsuckers</text>
+	</string>
+	<string id="st_base_freedom_name">
+		<text>Warehouses</text>
+	</string>
+	<string id="st_border_name">
+		<text>Barrier</text>
+	</string>
+	<string id="st_mon_base_name">
+		<text>Palace of Culture</text>
+	</string>
+	<string id="st_hotel_poless_name">
+		<text>Hotel "Polesie"</text>
+	</string>
+	<string id="st_big_bus_station_name">
+		<text>Bus station</text>
+	</string>
+	<string id="st_ds_administration_name">
+		<text>Administration</text>
+	</string>
+	<string id="st_ds_market_name">
+		<text>Co-op</text>
+	</string>
+	<string id="st_ds_HoC_name">
+		<text>House of Culture</text>
+	</string>
+	<string id="st_lim_zastava_name">
+		<text>Outposts</text>
+	</string>
+	<string id="st_lim_bubbles_name">
+		<text>Anomaly "Spatial Fault"</text>
+	</string>
+	<string id="st_lim_nonbuild_name">
+		<text>Construction</text>
+	</string>
+	<string id="st_mar_old_church_name">
+		<text>The Old Church</text>
+	</string>
+	<string id="st_mar_hide_base_spot_name">
+		<text>Hidden base</text>
+	</string>
+	<string id="st_mar_water_pump_station_name">
+		<text>Pump truck</text>
+	</string>
+	<string id="st_mar_mechanic_yard_name">
+		<text>Mechanization yard</text>
+	</string>
+	<string id="st_lim_bridge_name">
+		<text>Checkpoint and bridge to Limansk</text>
+	</string>
+	<string id="st_lim_house_lesnik_name">
+		<text>Forester's Hideaway</text>
+	</string>
+	<string id="st_mar_post_vishka_name">
+		<text>Observatory post</text>
+	</string>
+	<string id="st_mar_fishing_village_name">
+		<text>Fisherman's Farm</text>
+	</string>
+	<string id="st_agr_SRI_name">
+		<text>Research Institute "Agroprom"</text>
+	</string>
+	<string id="st_red_crap_name">
+		<text>Devil's Parking</text>
+	</string>
+	<string id="st_red_dark_yar_name">
+		<text>Dark yar</text>
+	</string>
+	<string id="st_red_central_mine_name">
+		<text>Mine</text>
+	</string>
+	<string id="st_tc_bandit_base_name">
+		<text>Parking on the outskirts</text>
+	</string>
+	<string id="st_tc_kpp_name">
+		<text>CPR</text>
+	</string>
+	<string id="st_tc_vert_name">
+		<text>Helicopter in the Forest</text>
+	</string>
+	<string id="st_radar_first_zastava_name">
+		<text>Counterpost</text>
+	</string>
+	<string id="st_rad_bunker_name">
+		<text>Bunker</text>
+	</string>
+	<string id="st_dasc_treesucker_state_name">
+		<text>Sawmill</text>
+	</string>
+	<string id="st_dasc_fuel_station_name">
+		<text>Refueling</text>
+	</string>
+	<string id="st_red_witch_round_name">
+		<text>The Witch's Circle</text>
+	</string>
+	<string id="st_red_dead_area_spot_name">
+		<text>Glade of corpses</text>
+	</string>
+	<string id="st_bandage_opt">
+		<text>Bandages, 20 pieces</text>
+	</string>
+	<string id="st_medkit_opt">
+		<text>AI-2, 20 pieces</text>
+	</string>
+	<string id="st_medkit_scientic_opt">
+		<text>AI-4, 20 pieces</text>
+	</string>
+	<string id="st_medkit_army_opt">
+		<text>AI-2 Sun, 20 pieces</text>
+	</string>
+	<string id="st_antirad_opt">
+		<text>Antirads, 10 pieces</text>
+	</string>
+	<string id="st_bread_opt">
+		<text>Bread, 20 pieces</text>
+	</string>
+	<string id="st_kolbasa_opt">
+		<text>Sausage, 20 pieces</text>
+	</string>
+	<string id="st_conserva_opt">
+		<text>Canned food, 20 pieces</text>
+	</string>
+	<string id="st_vodka_opt">
+		<text>Vodka, 15 pieces</text>
+	</string>
+	<string id="st_energy_drink_opt">
+		<text>Energy drinks, 15 pieces</text>
+	</string>
+	<string id="st_ammo_9x18_fmj_opt">
+		<text>6 packs of 9x18 fmj</text>
+	</string>
+	<string id="st_ammo_9x18_pmm_opt">
+    <text>5 packs of 9x18 ?mm</text>
+	</string>
+	<string id="st_ammo_9x19_fmj_opt">
+		<text>6 packs of 9x19 fmj</text>
+	</string>
+	<string id="st_ammo_9x19_pbp_opt">
+    <text>5 packs of 9x19 ?b?</text>
+	</string>
+	<string id="st_ammo_7.62x25_p_opt">
+		<text>7.62x25 mm, 6 packs</text>
+	</string>
+	<string id="st_ammo_7.62x25_ps_opt">
+		<text>7.62x25 mm pst, 5 packs</text>
+	</string>
+	<string id="st_ammo_12x70_buck_opt">
+    <text>12x70, 15 packs</text>
+	</string>
+	<string id="st_ammo_12x76_zhekan_opt">
+    <text>12?76, 15 packs</text>
+	</string>
+	<string id="st_ammo_5.45x39_fmj_opt">
+    <text>5.45?39 fmj, 8 packs</text>
+	</string>
+	<string id="st_ammo_5.45x39_ap_opt">
+    <text>5.45x39 aP, 5 packs</text>
+	</string>
+	<string id="st_ammo_5.56x45_ss190_opt">
+    <text>5.56?45 SS109, 8 packs</text>
+	</string>
+	<string id="st_ammo_5.56x45_ap_opt">
+    <text>5.56?45 M995, 5 packs</text>
+	</string>
+	<string id="st_ammo_7.62x39_fmj_opt">
+		<text>7.62x39 mm PS, 8 packs</text>
+	</string>
+	<string id="st_ammo_7.62x39_ap_opt">
+		<text>7.62x39 mm BP 7N23, 5 packs</text>
+	</string>
+	<string id="st_ammo_7.62x54_7h1_opt">
+    <text>7.62?54 R 7H1, 10  packs</text>
+	</string>
+	<string id="st_grenade_rgd5_opt">
+    <text>RGD-5, 10 pieces</text>
+	</string>
+	<string id="st_grenade_f1_opt">
+    <text>F-1, 10 pieces</text>
+	</string>
+	<string id="st_ammo_vog-25_opt">
+    <text>VOG-25, 20 pieces</text>
+	</string>
+
+	<string id="mechanic_monolith_kbo_task_1_name">
+    <text>Find %s</text>
+	</string>
+	<string id="mechanic_monolith_kbo_task_1_text">
+    <text>The technician in the "Jubilee" CCD asked to bring for him %s, to carry out more complex operations to upgrade weapons for the glory of the Monolith!</text>
+	</string>
+	<string id="mechanic_monolith_kbo_task_1_about">
+    <text>Listen, brother. Help me get the tools to help our brothers on the battlefield so that they can more effectively deliver His word to the masses of the infidels.</text>
+	</string>
+	<string id="mechanic_monolith_kbo_task_1_fetch_about">
+    <text>Listen, brother. Help me get the tools to help our brothers on the battlefield so that they can more effectively deliver His word to the masses of the infidels.</text>
+	</string>
+	<string id="mechanic_monolith_kbo_task_1_fetch_finish">
+    <text>Wonderful, brother. All money from improvements go to charity, but your contribution deserved a small discount.</text>
+	</string>
+	<string id="mechanic_monolith_kbo_task_2_name">
+    <text>Find %s</text>
+	</string>
+	<string id="mechanic_monolith_kbo_task_2_text">
+    <text>The technician in the "Jubilee" CCD asked to bring for him %s, to carry out more complex operations to upgrade weapons for the glory of the Monolith!</text>
+	</string>
+	<string id="mechanic_monolith_kbo_task_2_about">
+    <text>The previous set was not enough, I need tools for fine work. Will you serve us again?</text>
+	</string>
+	<string id="mechanic_monolith_kbo_task_2_fetch_about">
+    <text>The previous set was not enough, I need tools for fine work. Will you serve us again?</text>
+	</string>
+	<string id="mechanic_monolith_kbo_task_2_fetch_finish">
+    <text>Wonderful, brother. All money from improvements go to charity, but your contribution deserved another discount.</text>
+	</string>
+	<string id="mechanic_monolith_kbo_task_3_name">
+    <text>Find %s</text>
+	</string>
+	<string id="mechanic_monolith_kbo_task_3_text">
+    <text>The technician in the "Jubilee" CCD asked to bring for him %s, to carry out more complex operations to upgrade weapons for the glory of the Monolith!</text>
+	</string>
+	<string id="mechanic_monolith_kbo_task_3_about">
+    <text>These tools are quite enough, but why stop there, when you can do even better? I think calibration tools are suitable, can you get them for me?</text>
+	</string>
+	<string id="mechanic_monolith_kbo_task_3_fetch_about">
+    <text>These tools are quite enough, but why stop there, when you can do even better? I think calibration tools are suitable, can you get them for me?</text>
+	</string>
+	<string id="mechanic_monolith_kbo_task_3_fetch_finish">
+    <text>Wonderful, brother. All the money from improvements goes to charity, but I will definitely mention your contribution and someday I'll help you out.</text>
+	</string>
+
+	<string id="jup_b19_freedom_yar_task_2_name">
+		<text>Find %s</text>
+	</string>
+	<string id="jup_b19_freedom_yar_task_2_text">
+		<text>Yar wants %s</text>
+	</string>
+	<string id="jup_b19_freedom_yar_task_2_about">
+		<text>Hello, Stalker. I could use your help if you're not busy. I have a lot of manuals for upgrading weapons, I need tools. Will you help?</text>
+	</string>
+	<string id="jup_b19_freedom_yar_task_2_fetch_about">
+		<text>Stalker, hello. I could use your help if you're not busy. I have a lot of manuals for upgrading weapons, I need tools. Will you help?</text>
+	</string>
+	<string id="jup_b19_freedom_yar_task_2_fetch_finish">
+		<text>From thank you, bring me a weapon to repair, with me a lifetime discount.</text>
+	</string>
+
+	<string id="jup_b19_freedom_yar_task_3_name">
+		<text>Find %s</text>
+	</string>
+	<string id="jup_b19_freedom_yar_task_3_text">
+		<text>Yar asked me to bring him %s</text>
+	</string>
+	<string id="jup_b19_freedom_yar_task_3_about">
+		<text>I asked here one question, I would like to recall the past and try to upgrade the SVD. Will you help with the tools?</text>
+	</string>
+	<string id="jup_b19_freedom_yar_task_3_fetch_about">
+		<text>I asked here one question, I would like to recall the past and try to upgrade the SVD. Will you help with the tools?</text>
+	</string>
+	<string id="jup_b19_freedom_yar_task_3_fetch_finish">
+		<text>From thank you, all the guys helped. Discount I'll probably increase.</text>
+	</string>
+
+	<string id="jup_b19_freedom_yar_task_4_name">
+		<text>Find %s</text>
+	</string>
+	<string id="jup_b19_freedom_yar_task_4_text">
+		<text>Yar wants %s</text>
+	</string>
+	<string id="jup_b19_freedom_yar_task_4_about">
+		<text>Yes, that's not enough for me to create something masterpiece third set of tools. Will you help Uncle again?</text>
+	</string>
+	<string id="jup_b19_freedom_yar_task_4_fetch_about">
+		<text>Yes, that's not enough for me to create something masterpiece third set of tools. Will you help Uncle again?</text>
+	</string>
+	<string id="jup_b19_freedom_yar_task_4_fetch_finish">
+		<text>Well, everything, you now have a special client for me. The only stalker with such a huge discount. Thank you!</text>
+	</string>
+
+	<string id="mechanic_monolith_jup_depo_task_1_name">
+		<text>Find %s</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_1_text">
+    <text>The technician in the depot needs %s, to carry out more sophisticated upgrades of weapons and bulletproof vests.</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_1_about">
+    <text>The base was recently built here, but the problem of the lack of tools for our brothers was already acute. For me, tools for rough work would be useful first. Will you get it?</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_1_fetch_about">
+    <text>The base was recently built here, but the problem of the lack of tools for our brothers was already acute. For me, tools for rough work would be useful first. Will you get it?</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_1_fetch_finish">
+    <text>Excellent, it will help us to gain a foothold here and become even stronger. I think you deserve a discount.</text>
+	</string>
+
+	<string id="mechanic_monolith_jup_depo_task_2_name">
+    <text>Find %s</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_2_text">
+    <text>The technician in the depot needs %s, to carry out more sophisticated upgrades of weapons and bulletproof vests.</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_2_about">
+    <text>As practice has shown, our weapons are inferior to the weapon of the infidels only by a few points. They too are full of good techies. I will need tools for fine work to save our brothers from such a need. Are you taking?</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_2_fetch_about">
+    <text>As practice has shown, our weapons are inferior to the weapon of the infidels only by a few points. They too are full of good techies. I will need tools for fine work to save our brothers from such a need. Are you taking?</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_2_fetch_finish">
+    <text>Good work, now the equipment of our brothers will be one of the best in this "region". For the help you again relies discount.</text>
+	</string>
+
+	<string id="mechanic_monolith_jup_depo_task_3_name">
+    <text>Find %s</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_3_text">
+    <text>The technician in the depot needs %s, to carry out more sophisticated upgrades of weapons and bulletproof vests.</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_3_about">
+    <text>We will be able to surpass them all, brother! And for this I need tools for calibration. Bring them to me?</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_3_fetch_about">
+    <text>We will be able to surpass them all, brother! And for this I need tools for calibration. Bring them to me?</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_3_fetch_finish">
+    <text>Well that's all. Soon, we will take care of all the neighborhood, with such and such a guarantee. I do not have any money, they all go to the needs of the brotherhood, but at any time you can turn to me, I will first of all help you.</text>
+	</string>
+
+	<string id="trucks_cemetery_bandit_mechanic_task_1_name">
+    <text>Find %s</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_1_text">
+    <text>It is necessary to tie %s, for the technician in the cemetery of technology.</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_1_about">
+    <text>Oh, brotherello! Here, one and a half people with a disability make a mistake, and I desperately need tools for brute work, so how?</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_1_fetch_about">
+    <text>Oh, brotherello! Here, one and a half people with a disability make a mistake, and I desperately need tools for brute work, so how?</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_1_fetch_finish">
+    <text>Opa, that's so warmed up. Well, you have a discount then, handsome!</text>
+	</string>
+
+	<string id="trucks_cemetery_bandit_mechanic_task_2_name">
+    <text>Find %s</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_2_text">
+    <text>It is necessary to tie %s, for the technician in the cemetery of technology.</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_2_about">
+    <text>The deafness is unimaginable, but this one, like her... strategic point, in! Therefore, I'll equip the brothers for the upgrade, I'll need tools for more fine work, can not you help out again?</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_2_fetch_about">
+    <text>The deafness is unimaginable, but this one, like her... strategic point, in! Therefore, I'll equip the brothers for the upgrade, I'll need tools for more fine work, can not you help out again?</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_2_fetch_finish">
+    <text>Oh, fuck. Well, you're straight from the heart of course. And you still have a discount, broto!</text>
+	</string>
+
+	<string id="trucks_cemetery_bandit_mechanic_task_3_name">
+    <text>Find %s</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_3_text">
+    <text>It is necessary to tie %s, for the technician in the cemetery of technology.</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_3_about">
+    <text>We sit all fuffly, like fouffels here and you know what for completeness of the picture is not enough? That's right, the calibration tools! Well, how are you?</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_3_fetch_about">
+    <text>We sit all fuffly, like fouffels here and you know what for completeness of the picture is not enough? That's right, the calibration tools! Well, how are you?</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_3_fetch_finish">
+    <text>Well, I did not think that for a brother, someone would try so hard in this zhoposranske. Keep money, you deserve it!</text>
+	</string>
+
+	<string id="army_south_mechan_mlr_task_1_name">
+    <text>Find %s</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_1_text">
+    <text>Mechanic Seryoga asked me to find %s</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_1_about">
+    <text>Well, perhaps. We recently rested on our instruments all for the needs of the research complex, which is on Amber, and I do not even have to repair the BTR. Do not you bring me tools for rough work?</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_1_fetch_about">
+    <text>Well, perhaps. We recently rested on our instruments all for the needs of the research complex, which is on Amber, and I do not even have to repair the BTR. Do not you bring me tools for rough work?</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_1_fetch_finish">
+    <text>Thank you very much, I have a discount.</text>
+	</string>
+
+	<string id="army_south_mechan_mlr_task_2_name">
+    <text>Find %s</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_2_text">
+    <text>Mechanic Seryoga asked me to find %s</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_2_about">
+    <text>Those instruments were not enough. For fine work, it's not that rare I think, could you get them for me?</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_2_fetch_about">
+    <text>Those instruments were not enough. For fine work, it's not that rare I think, could you get them for me?</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_2_fetch_finish">
+    <text>Handsome, I respect. Thank you very much from all our guys.</text>
+	</string>
+
+	<string id="army_south_mechan_mlr_task_3_name">
+    <text>Find %s</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_3_text">
+    <text>Mechanic Seryoga asked me to find %s</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_3_about">
+    <text>I'm tired of digging in an armored troop carrier, it's time I'll equip guys to patch up, or even more - to modernize artisanal. But I need tools for calibration, organize?</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_3_fetch_about">
+    <text>I'm tired of digging in an armored troop carrier, it's time I'll equip guys to patch up, or even more - to modernize artisanal. But I need tools for calibration, organize?</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_3_fetch_finish">
+    <text>Stunned, I did not think that I would see them again here. Well, from a good discount you can not get away from me, hehe.</text>
+	</string>
+
+	<string id="jup_cont_mech_bandit_task_1_name">
+    <text>Find %s</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_1_text">
+    <text>The tech gangster asked me to bring him %s</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_1_about">
+    <text>Of course, or else the stalkers kept robbing themselves, with the bitches, and they dug in on Janov. Bring me the tools for rough work?</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_1_fetch_about">
+    <text>Of course, or else the stalkers kept robbing themselves, with the bitches, and they dug in on Janov. Bring me the tools for rough work?</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_1_fetch_finish">
+    <text>Ai, malatz! Well, I'll give it to you, I'll give you a discount.</text>
+	</string>
+
+	<string id="jup_cont_mech_bandit_task_2_name">
+    <text>Find %s</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_2_text">
+    <text>The tech gangster asked me to bring him %s</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_2_about">
+    <text>Slush, but could not you still drive after one pack? Only for thin. Well, it's hard for us here without any good upgrades, hehe.</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_2_fetch_about">
+    <text>Slush, but could not you still drive after one pack? Only for thin. Well, it's hard for us here without any good upgrades, hehe.</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_2_fetch_finish">
+    <text>Thank you man. You're a man, after all? He.</text>
+	</string>
+
+	<string id="jup_cont_mech_bandit_task_3_name">
+    <text>Find %s</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_3_text">
+    <text>The tech gangster asked me to bring him %s</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_3_about">
+    <text>And could you still have a calibration? Well, purely brotherly, I'll make you such upgrades, uuuh...</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_3_fetch_about">
+    <text>And could you still have a calibration? Well, purely brotherly, I'll make you such upgrades, uuuh...</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_3_fetch_finish">
+    <text>Well fuck yourself! This is a rarity in the Zone, a real rarity. I'll give you another skidock, deserve it.</text>
+	</string>
+
+	<string id="zat_stancia_mech_merc_task_1_name">
+    <text>Find %s</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_1_text">
+    <text>The mechanic of the mercenaries asked to bring for him %s</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_1_about">
+    <text>Listen, what kind of fuck are we to mercenaries without good regulated modules? We had instruments for the thin, so in the shops of the substation some kind of fucked them off, count them. So, I need tools for fine work, will you bring it?</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_1_fetch_about">
+    <text>Listen, what kind of fuck are we to mercenaries without good regulated modules? We had instruments for the thin, so in the shops of the substation some kind of fucked them off, count them. So, I need tools for fine work, will you bring it?</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_1_fetch_finish">
+    <text>Well, I'll write you a discount, thank you.</text>
+	</string>
+
+	<string id="zat_stancia_mech_merc_task_2_name">
+    <text>Find %s</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_2_text">
+    <text>The mechanic of the mercenaries asked to bring for him %s</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_2_about">
+    <text>Reliable and neat trunks - this is certainly good, but where can it be without artisanal upgrades. Can you help me with the tools for fine work?</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_2_fetch_about">
+    <text>Reliable and neat trunks - this is certainly good, but where can it be without artisanal upgrades. Can you help me with the tools for fine work?</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_2_fetch_finish">
+    <text>Thank you, now look how much I can improve you!</text>
+	</string>
+
+	<string id="zat_stancia_mech_merc_task_3_name">
+    <text>Find %s</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_3_text">
+    <text>The mechanic of the mercenaries asked to bring for him %s</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_3_about">
+    <text>Listen, well, let's finish the job to the end? Calibration is necessary to me, that from ours precisely any paskuda has not left.</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_3_fetch_about">
+    <text>Listen, well, let's finish the job to the end? Calibration is necessary to me, that from ours precisely any paskuda has not left.</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_3_fetch_finish">
+    <text>Oh, fucked up. Yes, you're just a hero for any technique! Oh, well done... well, I'll double the discount.</text>
+	</string>
+
+	<string id="bandit_tech_gar_hangr_mlr_task_1_name">
+    <text>Find %s</text>
+	</string>
+	<string id="bandit_tech_gar_hangr_mlr_task_1_text">
+    <text>The technician at the dump asked to find %s</text>
+	</string>
+	<string id="bandit_tech_gar_hangr_mlr_task_1_about">
+    <text>Yes, man, there is of course a work here for you. It's inconvenient for me to ask you to six, but let's fuck, still no one here can get me the things I need. In general, I need tools for rough work, if you trump it, ram it here.</text>
+	</string>
+	<string id="bandit_tech_gar_hangr_mlr_task_1_fetch_about">
+    <text>Yes, man, there is of course a work here for you. It's inconvenient for me to ask you to six, but let's fuck, still no one here can get me the things I need. In general, I need tools for rough work, if you trump it, ram it here.</text>
+	</string>
+	<string id="bandit_tech_gar_hangr_mlr_task_1_fetch_finish">
+    <text>Fuck, man - helped the brother. The brother does not forget his own, so I'll give you a discount.</text>
+	</string>
+
+	<string id="bandit_tech_gar_hangr_mlr_task_2_name">
+    <text>Find %s</text>
+	</string>
+	<string id="bandit_tech_gar_hangr_mlr_task_2_text">
+    <text>The technician at the dump asked to find %s</text>
+	</string>
+	<string id="bandit_tech_gar_hangr_mlr_task_2_about">
+    <text>Yes, perhaps for completeness, only tools for fine work are not enough. The others followed after you, but they found nothing. Well, will you help another brother?</text>
+	</string>
+	<string id="bandit_tech_gar_hangr_mlr_task_2_fetch_about">
+    <text>Yes, perhaps for completeness, only tools for fine work are not enough. The others followed after you, but they found nothing. Well, will you help another brother?</text>
+	</string>
+	<string id="bandit_tech_gar_hangr_mlr_task_2_fetch_finish">
+    <text>Well, from the heart, I respected directly. I'm always glad to see you here. Sorry pivasika is not here.</text>
+	</string>
+
+	<string id="esc_factory_smart_terrain_10_bandit_mechanic_task_1_name">
+    <text>Find %s</text>
+	</string>
+	<string id="esc_factory_smart_terrain_10_bandit_mechanic_task_1_text">
+    <text>The Baltika asked to get it for him %s</text>
+	</string>
+	<string id="esc_factory_smart_terrain_10_bandit_mechanic_task_1_about">
+    <text>Pritar me some tools, if not zapadlo. Will you do it?</text>
+	</string>
+	<string id="esc_factory_smart_terrain_10_bandit_mechanic_task_1_fetch_about">
+    <text>Pritar me some tools, if not zapadlo. Will you do it?</text>
+	</string>
+	<string id="esc_factory_smart_terrain_10_bandit_mechanic_task_1_fetch_finish">
+    <text>And you are lucky! I'll ask Shch to give you a rebate.</text>
+	</string>
+
+	<string id="esc_factory_smart_terrain_10_bandit_mechanic_task_2_name">
+    <text>Find %s</text>
+	</string>
+	<string id="esc_factory_smart_terrain_10_bandit_mechanic_task_2_text">
+    <text>The Baltika asked to get it for him %s</text>
+	</string>
+	<string id="esc_factory_smart_terrain_10_bandit_mechanic_task_2_about">
+    <text>Can you help with less fuzzing tools? From the whole "hut" to you a request.</text>
+	</string>
+	<string id="esc_factory_smart_terrain_10_bandit_mechanic_task_2_fetch_about">
+    <text>Can you help with less fuzzing tools? From the whole "hut" to you a request.</text>
+	</string>
+	<string id="esc_factory_smart_terrain_10_bandit_mechanic_task_2_fetch_finish">
+    <text>That will bake the boys to the boys, I'll get a booger to double the discount.</text>
+	</string>
+
+	<string id="esc_factory_smart_terrain_10_bandit_mechanic_task_3_name">
+    <text>Find %s</text>
+	</string>
+	<string id="esc_factory_smart_terrain_10_bandit_mechanic_task_3_text">
+    <text>The Baltika asked to get it for him %s</text>
+	</string>
+	<string id="esc_factory_smart_terrain_10_bandit_mechanic_task_3_about">
+    <text>Personally, I ask you to bring me thieves' tools, unless, of course, it is not a zapad. Well, how are you?</text>
+	</string>
+	<string id="esc_factory_smart_terrain_10_bandit_mechanic_task_3_fetch_about">
+    <text>Personally, I ask you to bring me thieves' tools, unless, of course, it is not a zapad. Well, how are you?</text>
+	</string>
+	<string id="esc_factory_smart_terrain_10_bandit_mechanic_task_3_fetch_finish">
+    <text>From the heart, it will be better for the peasants to solder.</text>
+	</string>
+
+	<string id="talk_to_maps_0">
+    <text>Hello, but can you give that for free? Not in terms of hiding places, but about territories?</text>
+	</string>
+	<string id="talk_to_maps_1">
+    <text>Actually, my bread, this information, but okay - all the same until the calm will enlighten a little about the course of affairs.</text>
+	</string>
+	<string id="talk_to_maps_2">
+    <text>I listen with my ears pushed open.</text>
+	</string>
+	<string id="talk_to_maps_3">
+    <text>... hmm. Look, this is the Bar. It is completely safe for "Friends of Debt" and neutrals. \nWestern - Wild Territory, this is the former western part of the Rostock plant. According to rumors, it's better not to go there at night. The most advantageous points for shooting are measured, you will get in between two dangers. At the bottom mutants, from which it is most advantageous to climb to the hill in the form of former warehouses, the heights themselves are controlled by snipers and arrows of mercenaries. About wild territory all. \nFeather - Army Warehouses. The best "friends" of "Debt" - "Freedom" keep them. Nothing special there, except that this is the last "Bastion" of normal people. \nEven more - Cemetery Techniques, stock up on horseracing and shot, if you go there. Mutants there are many and sometimes not childish. \nSouth - Dump, complete anarchy there, mutants, thieves, but there is also a "flea market", on which you can pretty well bargain plus. \nThis is all in the neighboring territories. What else to tell?</text>
+	</string>
+	<string id="talk_to_maps_4">
+    <text>Everything is clear in principle, but you were talking about "normal thinking" and "Bastion".</text>
+	</string>
+	<string id="talk_to_maps_5">
+    <text>North of the Army warehouses the territory of the "Monolith" - "Radar", an eerie place, stay away from it. If you're going there, then first of all you have to stock up with cartridges and first-aid kits.</text>
+	</string>
+	<string id="talk_to_maps_6">
+    <text>Thank you for the information, I will consider and recommend you to friends if they need what you make a living.</text>
+	</string>
+
+	<string id="story_dolg_m_0">
+    <text>Tell us about yourself, Gromov, if not difficult.</text>
+	</string>
+	<string id="story_dolg_m_1">
+    <text>I moved from the Agroprom, promoted me. Before he got to the Zone, he was an auto mechanic. Appreciate my hands in the group, so they decided to translate here. I prefer heavy and assault weapons, snipers I hate in terms of upgrades.</text>
+	</string>
+	<string id="story_dolg_m_2">
+    <text>And then the bottles are so close, Duty is for a healthy lifestyle ?.</text>
+	</string>
+	<string id="story_dolg_m_3">
+    <text>I can, work tiresome, and boring here - just do not go back, there is no base on the Agroprom. Although I do not know, I would have been alive then, they say the base was lost during the release in 2011. Something we have moved away from the topic, do not be shy, give your toys here.</text>
+	</string>
+	<string id="story_dolg_m_4">
+    <text>Now I will determine what and how, wait.</text>
+	</string>
+
+	<string id="story_b_cs_0">
+    <text>What can you say about the Cold?</text>
+	</string>
+	<string id="story_b_cs_1">
+    <text>And what can I say, the guys consider his views on the groupings correct.</text>
+	</string>
+	<string id="story_b_cs_2">
+    <text>And what did he gain such "love"?</text>
+	</string>
+	<string id="story_b_cs_3">
+    <text>You know, Lebedev, though I did not find him, but people began to dislike him. He did not take an interest in the opinion of the members of the group when he moved them on the very last campaign. That mercenary certainly helped us, but it was not worth the "candle-ovchinka." Those who stayed at the base could not do anything with the reinforcements of this rabble returning after the defeat of the "renegades". The meaning of the capture of the Bolot was reduced to zero, the sacrifices also turned out to be in vain both on the way to the Chernobyl NPP, and here.</text>
+	</string>
+	<string id="story_b_cs_4">
+    <text>I think the indignation of the guys about the former leader becomes clear.</text>
+	</string>
+	<string id="story_b_cs_5">
+    <text>Listen further... Upon the return of the remnants of the detachment, we had to conduct a protracted struggle and return everything back. We ourselves would not be able to manage ourselves in life, The cold through the familiar "free" stalkers came out to the guys from Svalka and Cordon, helped the loners and the charisma of the new leader. Moreover, he gave the floor to all fighters without exception, not to leave from here. Any help, but not the life of our guys.</text>
+	</string>
+	<string id="story_b_cs_6">
+    <text>You know, whoever Lebedev was, but you have already ceased to be that grouping that was originally.</text>
+	</string>
+	<string id="story_b_cs_7">
+    <text>Well, this is your opinion, not devoid of meaning. There are no global goals for us now, as an even count and common views. So, it's time to tie with fables and probably buy something.</text>
+	</string>
+	<string id="story_b_cs_8">
+    <text>Hand in hand.</text>
+	</string>
+
+	<string id="story_dog_0">
+    <text>You have a dumb dog.</text>
+	</string>
+	<string id="story_dog_1">
+    <text>It's not ours, it's Druzhok. The doctor is a dog. The old one became, Doctor heartily and asked for the Cold about the place here for him.</text>
+	</string>
+	<string id="story_dog_2">
+    <text>You can not tell by the way, that he needs it.</text>
+	</string>
+	<string id="story_dog_3">
+    <text>Appearance is deceptive. The little creature of the good-hearted creature, can you now explain to you about the "dogs" of these and ask for something?</text>
+	</string>
+	<string id="story_dog_4">
+    <text>Go ahead.</text>
+	</string>
+	<string id="story_dog_5">
+    <text>"Pseudo dogs", "Psi-Dogs" and "Chernobyltsy" are not dogs at all, from wolves they kind of happened. In the "Debt" so taught.</text>
+	</string>
+	<string id="story_dog_6">
+    <text>In how, it is necessary to write down, and that for the request?</text>
+	</string>
+	<string id="story_dog_7">
+    <text>By virtue of the profession, I collect all sorts of stories, once I have come up with pseudo-phrases. At the very approaches to the Station there is a place similar to our Marshes, called Zaton. Heard there an eccentric on the barge Old dwells, he also has a pseudo dog, fiction or not - you can find out.</text>
+	</string>
+	<string id="story_dog_8">
+    <text>Ok, I'll check if possible.</text>
+	</string>
+
+	<string id="aslan_st_0">
+    <text>How and what is the best way to go to work.</text>
+	</string>
+	<string id="aslan_st_1">
+    <text>Look here: the "syndicate" in the Zone has only one central base - ours. The path is cut off to the South, again the psi-installation on Yantar works and crowds of zombarees sometimes from there in an embrace with mutants. Limansk in the North is occupied by us, but beyond the place of the dying - a continuous labyrinth and fanatics. In the East, Army Warehouses, the territory of Liberty.</text>
+	</string>
+	<string id="aslan_st_2">
+    <text>[more...]</text>
+	</string>
+	<string id="aslan_st_3">
+    <text>As for the dangers, you'll appreciate yourself, but keep in mind: when you carry out orders - you're at work and feeling with snot throw out or put on the shelf, no morality - just calculation. About the trails, through Limansk, the safest in terms of displacement. The space there is closed, the sniper can not lead you, the shelters are full of both ejection and in case of a prolonged shootout. There are also disadvantages - this is the unpredictability of the terrain, you do not know what is waiting around the corner.</text>
+	</string>
+	<string id="aslan_st_4">
+    <text>You say the base is central, there are still outposts?</text>
+	</string>
+	<string id="aslan_st_5">
+    <text>Of all the known I have three small dots. The first on the Zaton, at the edge of the boundless foul "northern" marshes. The second is on the devil on cake, on the outskirts of Pripyat. And we also had a group, among which the supply agent is behind the bridge to Limansk, on the outskirts of the "Red Forest". You can also meet our groups throughout the Zone during the execution of various contracts.</text>
+	</string>
+	<string id="aslan_st_6">
+    <text>Behind the Limansk is already the territory of the "Monolith", as I understand it.</text>
+	</string>
+	<string id="aslan_st_7">
+    <text>The hospital there is old, but there's no point in climbing there - the track at the Chernobyl Nuclear Power Plant, as well as the Amber Plant is cut off by psy-radiation. As you will find yourself in Limansk, keep your way to the South, but get covered with ammunition and first-aid kits.</text>
+	</string>
+	<string id="aslan_st_8">
+    <text>Accepted, a huge "thank you".</text>
+	</string>
+
+	<string id="sultan_st_0">
+    <text>Tell me about yourself.</text>
+	</string>
+	<string id="sultan_st_1">
+    <text>Listen carefully. I'm a local groom, you already know my name. Not so long ago I came here from Zaton and brought guys with me. We got rid of the mutants from here and revived the base. On Zaton I was thrown by one devil. I pretended to be my own and framed it. I had to fuck out from there.</text>
+	</string>
+	<string id="sultan_st_2">
+    <text>Absolutely without concepts, scuffles were pushed, pakhanov thrown. As this chmoshnika called then, in case of ass I'll tear it.</text>
+	</string>
+	<string id="sultan_st_3">
+    <text>Sashenka like, do not touch it. You have a little hump, and his ass is iron and with labyrinths.</text>
+	</string>
+	<string id="sultan_st_4">
+    <text>Whisk. Tell me about the progress of the Bandits in the Zone.</text>
+	</string>
+	<string id="sultan_st_5">
+    <text>Do not trust anyone, except our boys, that skulls are worn on the sleeves. All around you remember the pizzyok, some of our enemies. In general, evaluate the situation itself, if you feel a condition close to pizdule, tekai boar.</text>
+	</string>
+	<string id="sultan_st_6">
+    <text>This is understandable, but where more or less calm can be for my ass.</text>
+	</string>
+	<string id="sultan_st_7">
+    <text>Listen carefully. From the North from us, the Cemetery of Technology, our little patrols there on the old checkpoint near the road and the exits from the Army Depots are held, in the Cemetery, try not to walk at night and generally get past the old ones. The background there is cracking sometimes so that the ringing of eggs in your pants is heard, plus the anomalies around and "zverushki" local do not slumber. From the West Dump, there is an anarchy full and I will not be able to tell you anything specific about it, I know for sure about the blockhouse of the debtors in the north. In the south, a huge grove is there, the Dark Hollow is called, the wilderness - the soldiers there periodically patrol and stalkery tusuet. About Loshchinu forgot to say, on the approach to it, but we already on the farm of the old stalkers eyes callus, neater. The Grove has a huge plus, the road and the exit from it lead to the Cordon, you will find ours without problems. On the cordon ATP old try to keep.</text>
+	</string>
+	<string id="sultan_st_8">
+    <text>Something like somehow.</text>
+	</string>
+	<string id="sultan_st_9">
+    <text>And as you like the shallow, this is life.</text>
+	</string>
+	<string id="sultan_st_10">
+    <text>Yes, in fact, thanks for the advice, pahan.</text>
+	</string>
+
+	<string id="bandit_trader_st_0">
+    <text>The tooth, why did you drive such a defective?</text>
+	</string>
+	<string id="bandit_trader_st_1">
+    <text>You hear fraera green, why did you bite a mouse? Ohdy pussy - do not touch anyone, Borzyanku cut. You touch it - it's an asshole that's been finished by shitty people.</text>
+	</string>
+	<string id="bandit_trader_st_2">
+    <text>Stop, sorry - did not want to roll the ball. I just did not know how to start a conversation.</text>
+	</string>
+	<string id="bandit_trader_st_3">
+    <text>Okay, I apologize, you also understand me - the old one has become, the nerves are not in a pussy.</text>
+	</string>
+	<string id="bandit_trader_st_4">
+    <text>Zametano, but still why is the Tooth called?</text>
+	</string>
+	<string id="bandit_trader_st_5">
+    <text>How did you fuck my ears, I will tell you so. Before my first walk at Sovkoy, my story has its roots. I wanted to live beautiful. He traded in speculation, he fell asleep on a deal and got caught in jail. The period of its winding began dating new to look for, found new kents and stolen traded. I lived like this for three years - then again. I leaned back, but the "scoop" is gone. And do you know what the most zashtvarnoe?</text>
+	</string>
+	<string id="bandit_trader_st_6">
+    <text>No Tooth, I did not see at the reasonable age of the times "Scoop".</text>
+	</string>
+	<string id="bandit_trader_st_7">
+    <text>On the first move, I ended up being for "entrepreneurship", profiteering for "soviet". Now all the successful for this can be closed. That's where "the tail burns."</text>
+	</string>
+	<string id="bandit_trader_st_8">
+    <text>[more...]</text>
+	</string>
+	<string id="bandit_trader_st_9">
+    <text>Went out after the second time, dropped to the bottom. Profits are not present, at every step the same "businessmen" as I am. As the Zone was formed, I decided to fall down here.</text>
+	</string>
+	<string id="bandit_trader_st_10">
+    <text>[more...]</text>
+	</string>
+	<string id="bandit_trader_st_11">
+    <text>A tooth is called for the habit of goods, which I'm dragged to try to "tooth," to pick on love for quality and condition.</text>
+	</string>
+	<string id="bandit_trader_st_12">
+    <text>Thank you for the story, sorry again.</text>
+	</string>
+
+	<string id="bandit_mechanic_st_0">
+    <text>Bro, tell your story.</text>
+	</string>
+	<string id="bandit_mechanic_st_1">
+    <text>Are you a whore prosecutor or something, although I'm not going to tell you about the hair dryer.</text>
+	</string>
+	<string id="bandit_mechanic_st_2">
+    <text>[more...]</text>
+	</string>
+	<string id="bandit_mechanic_st_3">
+    <text>Sometime my photo from the "board of honor" did not disappear, he worked as a mechanical engineer at the plant and was the best specialist of this profession at his enterprise. They awarded me prizes and certificates.</text>
+	</string>
+	<string id="bandit_mechanic_st_4">
+    <text>And suddenly you wanted to burn, I guess?</text>
+	</string>
+	<string id="bandit_mechanic_st_5">
+    <text>You do not interrupt and now pay attention to my drive.</text>
+	</string>
+	<string id="bandit_mechanic_st_6">
+    <text>Typically Transparent from "transparent"?</text>
+	</string>
+	<string id="bandit_mechanic_st_7">
+    <text>And you do not raspizdyay, as I thought. I liked to be drawn off with my homies at the plant after a difficult change. Zavtseha somehow caught our razvlekuhu and dropped on me, fired on the article one day as the last fraera.</text>
+	</string>
+	<string id="bandit_mechanic_st_8">
+    <text>Life, she's such a fuck.</text>
+	</string>
+	<string id="bandit_mechanic_st_9">
+    <text>Popereda fucking life band. I settled down as a fitter in ZhEK, I found a friend there - Vitka. Money was paid from the "gulkin dick", the booze was good enough. Somehow we bumped with a cant, I do not even remember what happened because of what. In general, I screwed it with a screwdriver, it's good that he did not skimp. They gave me a few years of planter. The bitch's wife, while I was sitting, sold everything and was gone. He leaned back when he drove the house and everything that was left in it. He drank money for a long time and after that looted him. As the Zone formed, decided to tug here, everyone is equal - all the whips are the same. I went to the thieves at the Landfill, evaluating me as a local mechanic allowed to stay. The best time in my life, trunks and vodka was dragged by boxes.</text>
+	</string>
+	<string id="bandit_mechanic_st_10">
+    <text>Here, not Dump, brother.</text>
+	</string>
+	<string id="bandit_mechanic_st_11">
+    <text>Again you interrupt. Grew up the Big Ejection, we hid like a fraather last on the holes. How to calm down gathered in a meeting and decided to gyrate drunken strain on why "claws to tear", Dump was an unsuitable shelter from the emissions of such. She had to give up forever and move in small groups and different paths here, to the Dark Valley.</text>
+	</string>
+	<string id="bandit_mechanic_st_12">
+    <text>Not a frail story.</text>
+	</string>
+
+	<string id="army_south_mechan_mlr_st_0">
+    <text>"Hello I wish," so I understand the technician of the South Blockhouse?</text>
+	</string>
+	<string id="army_south_mechan_mlr_st_1">
+    <text>So it is.</text>
+	</string>
+	<string id="army_south_mechan_mlr_st_2">
+    <text>How can you be treated?</text>
+	</string>
+	<string id="army_south_mechan_mlr_st_3">
+    <text>No need for officiality and ranks, not on the parade ground. And in the case of an attack of mutants or "creeps" of what will be long to pronounce. I'm Sergey or just Serega.</text>
+	</string>
+	<string id="army_south_mechan_mlr_st_4">
+    <text>Nice to meet you.</text>
+	</string>
+	<string id="army_south_mechan_mlr_st_5">
+    <text>Mutually, if you fix it, post it.</text>
+	</string>
+	<string id="army_south_mechan_mlr_st_6">
+    <text>I would also like to ask about the state of affairs.</text>
+	</string>
+	<string id="army_south_mechan_mlr_st_7">
+    <text>Skovotishche here, just above the village stalkerskaya and begins... for us right up to the Agroprom solid enemies.</text>
+	</string>
+	<string id="army_south_mechan_mlr_st_8">
+    <text>It turns out we are locked up and can be attacked at any moment?</text>
+	</string>
+	<string id="army_south_mechan_mlr_st_9">
+    <text>No, recently "Fathers Commanders" drove us BTR, which is already broken, patrols strengthened, and "Vertushka" is constantly able to cover. Plus forgot to say how to leave the territory of the checkpoint you will go north, go strictly along the asphalt - a minefield on both sides of the road.</text>
+	</string>
+	<string id="army_south_mechan_mlr_st_10">
+    <text>I will keep in mind.</text>
+	</string>
+
+	<string id="loki_st_0">
+    <text>Are you for the main thing here?</text>
+	</string>
+	<string id="loki_st_1">
+    <text>So it is - Loki is my name, Miklouki's deputy at this Station.</text>
+	</string>
+	<string id="loki_st_2">
+    <text>Interesting name - like the Scandinavian deity so called.</text>
+	</string>
+	<string id="loki_st_3">
+    <text>So it is. Attached to me during the breakthrough through the "Burnout". Dashing times were.</text>
+	</string>
+	<string id="loki_st_4">
+    <text>Tell me?</text>
+	</string>
+	<string id="loki_st_5">
+    <text>Good. When the "Scorcher" was disconnected, my detachment launched a campaign to the North. They walked for a long time, wild places around. As the horizon ChNPP loomed, a place for the camp began to grow. They found this station abandoned and settled there. Then the Zone began to fever and the "Debt" appeared. The places are unfamiliar, there are few people, and the emissions have become frequent. After concluding a truce, they agreed on the Station to keep weapons in the holster and knives in the scabbard.</text>
+	</string>
+	<string id="loki_st_6">
+    <text>And where are these debtors now?</text>
+	</string>
+	<string id="loki_st_7">
+    <text>No them, who did not have time to shoot, they themselves fled. Not so long ago we had a stalker looming alone, Sasha was called. He helped us a lot, did a lot of good things. But the last straw was information from the CCP of their founder, judging by which "Debt" was founded by former military forces on a forced basis. Their captain (now deceased "general") simply broke off communication with the headquarters. This is what infuriated the local stalkery, exactly as puzzled some of the enemy fighters. At us after all as at station was: especially balance. And after the help of that stalker and the soldiers we had, as if straight from the air, and the defectors with the sympathizers was full. Here we are by force "Duty" from here and expelled.</text>
+	</string>
+	<string id="loki_st_8">
+    <text>And where did this Stalker go?</text>
+	</string>
+	<string id="loki_st_9">
+    <text>I do not know, but the last time he was seen together with the "company" was going to the side of "Jupiter". And I did not care for him, to be honest.</text>
+	</string>
+	<string id="loki_st_10">
+    <text>Tell me about the surroundings. Why be afraid?</text>
+	</string>
+	<string id="loki_st_11">
+    <text>The beast is full. And if frankly, then we missed the "Monolith", had time to bastards to settle in the depot old. In general, they have a decent base there. In the north in Kopachi are full of zombies, in the area of the ventilation complex and the "Volkhov" air defense system there are also a lot of them, keep your eyes open.</text>
+	</string>
+	<string id="loki_st_12">
+    <text>Thank you, uchtu.</text>
+	</string>
+
+	<string id="y04_pole">
+    <text>Glade</text>
+	</string>
+	<string id="esc_space_restrictor_to_pol_1_descr">
+    <text>To Glade</text>
+	</string>
+	<string id="val_space_restrictor_to_pole_1_descr">
+    <text>To Glade</text>
+	</string>
+	<string id="pol_space_restrictor_to_esc_1_descr">
+    <text>On the Cordon</text>
+	</string>
+	<string id="pol_space_restrictor_to_val_1_descr">
+    <text>Into the Dark Valley</text>
+	</string>
+	<string id="st_pol_smart_terrain_1_1_anomaly_spot_name">
+    <text>Anomaly "Meat mincer"</text>
+	</string>
+	<string id="st_pol_smart_terrain_1_2_anomaly_spot_name">
+    <text>Anomaly "Volt"</text>
+	</string>
+	<string id="st_dyn_y04_pole_blizko_1">
+    <text>in the village</text>
+	</string>
+	<string id="st_dyn_y04_pole_blizko_2">
+    <text>at the canteen</text>
+	</string>
+	<string id="st_dyn_y04_pole_blizko_3">
+    <text>in the parking lot</text>
+	</string>
+	<string id="st_dyn_y04_pole_blizko_4">
+    <text>at the factory</text>
+	</string>
+
+	<string id="st_device_torch_low_name">
+    <text>Halogen Flashlight</text>
+	</string>
+	<string id="st_device_torch_low_descr">
+    <text>A typical halogen flashlight of low quality, with almost no ability to illuminate the terrain and bought in the nearest supermarket from the perimeter.</text>
+	</string>
+	<string id="st_device_torch_normal_name">
+    <text>Ordinary torch</text>
+	</string>
+	<string id="st_device_torch_normal_descr">
+    <text>A more or less acceptable option. A little further away, the radius is slightly wider.</text>
+	</string>
+	<string id="st_dev_torch_light_better_name">
+    <text>Chinese Flashlight</text>
+	</string>
+	<string id="st_dev_torch_light_better_descr">
+    <text>Also apparently bought at a local hardware store. Range is not very, but the radius of lighting is simply impressive. However, the usual business for these your Chinese apparatus is indistinct.</text>
+	</string>
+	<string id="st_dev_torch_light_better_1_name">
+    <text>Quality flashlight</text>
+	</string>
+	<string id="st_dev_torch_light_better_1_descr">
+    <text>Production of some private military Ukrainian company. Massively used by the military of all stripes because of the lack of alternatives. The radius of illumination is average, but the range is as much as 20 meters.</text>
+	</string>
+
+	<string id="st_jg_1">
+    <text>As for the conductor</text>
+	</string>
+	<string id="st_jg_2">
+    <text>What is it?</text>
+	</string>
+	<string id="st_jg_3">
+    <text>I saw your message. Do you need a guide?</text>
+	</string>
+	<string id="st_jg_4">
+    <text>I agree. Come forward.</text>
+	</string>
+	<string id="st_jg_5">
+    <text>All right, come on!</text>
+	</string>
+	<string id="st_jg_6">
+    <text>Do not be a man, you do not have enough money to pay me a penalty.</text>
+	</string>
+	<string id="st_jg_mlr_1">
+    <text>You're strange, I did not hear about you. No thanks.</text>
+	</string>
+	<string id="st_jg_7">
+    <text>Remind me, where do we go?</text>
+	</string>
+	<string id="st_jg_8">
+    <text>We are there.</text>
+	</string>
+	<string id="st_jg_9">
+    <text>Finally! Thanks stalker, great work. Here's your money.</text>
+	</string>
+	<string id="st_jg_10">
+    <text>I refuse the assignment.</text>
+	</string>
+	<string id="st_jg_11">
+    <text>Are you sure?</text>
+	</string>
+	<string id="st_jg_12">
+    <text>Yes</text>
+	</string>
+	<string id="st_jg_13">
+    <text>Forget it.</text>
+	</string>
+	<string id="st_jg_14">
+    <text>I'm looking for an experienced stalker who will spend on location %s. I'm now %s. %s</text>
+	</string>
+	<string id="st_jg_15">
+    <text>We're late! We have agreed! Pay a penalty in %s rubles. %s</text>
+	</string>
+	<string id="st_jg_16">
+    <text>Yes, I need to get lost in one place. I will not offend money. \nIf %s hours I should be %s, I will pay %s rubles \nAlthough, if we do not have time, I'll take from you %s as a penalty</text>
+	</string>
+	<string id="st_jg_17">
+    <text>I need to be</text>
+	</string>
+	<string id="st_jg_18">
+    <text>We agreed! Pay a penalty in %s rubles.</text>
+	</string>
+	<string id="st_jg_19">
+    <text>Path length (including start and end level):</text>
+	</string>
+
+	<string id="fanat_kmb_3_1">
+    <text>KMB: clean ATP</text>
+	</string>
+	<string id="fanat_kmb_3_2">
+    <text>KMB: Talk to the Fan</text>
+	</string>
+	<string id="fanat_kmb_3_3">
+    <text>KMB: return to the village</text>
+	</string>
+	<string id="fanat_kmb_3_4">
+    <text>KMB: Talk to the Fan</text>
+	</string>
+	<string id="task_fanat_kmb_3_descr">
+    <text>KMB: The final lesson and it seems the most responsible. Together, we will have to get rid of the superior in number of bandits to the ATP, nda. I hope the fan knows his business.</text>
+	</string>
+	<string id="fanat_kmb_2_1">
+    <text>KMB: find a cache</text>
+	</string>
+	<string id="fanat_kmb_2_2">
+    <text>KMB: Talk to the Fan</text>
+	</string>
+	<string id="task_fanat_kmb_2_descr">
+    <text>KMB: The next task is to learn how to search for caches. He is somewhere in the village of the newcomers, most likely behind the Fan. In any case, I think so.</text>
+	</string>
+	<string id="fanat_kmb_1_1">
+    <text>KMB: deal with wild boars</text>
+	</string>
+	<string id="fanat_kmb_1_3">
+    <text>KMB: Talk to the Fan</text>
+	</string>
+	<string id="fanat_kmb_1_4">
+    <text>KMB: get to the anomalous zone</text>
+	</string>
+	<string id="fanat_kmb_1_5">
+    <text>KMB: Talk to the Fan</text>
+	</string>
+	<string id="fanat_kmb_1_9">
+    <text>KMB: get the "jellyfish"</text>
+	</string>
+	<string id="fanat_kmb_1_6">
+    <text>KMB: return to the village</text>
+	</string>
+	<string id="fanat_kmb_1_7">
+    <text>KMB: Talk to the Fan</text>
+	</string>
+	<string id="fanat_kmb_1_8">
+    <text>KMB: Talk to the Fan</text>
+	</string>
+	<string id="task_fanat_kmb_1_descr">
+    <text>The fan is apparently the most experienced among the stalkers in the village and he decided to teach me something.</text>
+	</string>
+
+	<string id="simulation_task_24_name">
+    <text>Find a PDA</text>
+	</string>
+	<string id="simulation_task_24_text">
+    <text>Stalker asked me to find a PDA for him.</text>
+	</string>
+	<string id="simulation_task_24_about">
+    <text>Hello, could you help me? I recently lost my PDA, do not you have one more, or do you know where you can get it? Only not anyhow, but normal. Will you help?</text>
+	</string>
+	<string id="simulation_task_24_fetch_about">
+    <text>Hello, could you help me? I recently lost my PDA, do not you have one more, or do you know where you can get it? Only not anyhow, but normal. Will you help?</text>
+	</string>
+	<string id="simulation_task_24_fetch_finish">
+    <text>Oh, thank you, man. Keep money.</text>
+	</string>
+
+	<string id="simulation_task_23_name">
+    <text>Find [ %s]</text>
+	</string>
+	<string id="simulation_task_23_text">
+    <text>Stalker asked to find [ %s]</text>
+	</string>
+	<string id="simulation_task_23_about">
+    <text>Hello, man, there is such a thing, in general we are going with the guys to a long sortie, but we can not find some useful things in everyday life. Would you?</text>
+	</string>
+	<string id="simulation_task_23_fetch_about">
+    <text>Hello, man, this is the case, in general we are going to the distant sorties with the guys, but we can not find [ %s] in any way. Would you?</text>
+	</string>
+	<string id="simulation_task_23_fetch_finish">
+    <text>Thank you! Keep money here a little.</text>
+	</string>
+
+	<string id="simulation_task_22_name">
+    <text>Collect [ %s]</text>
+	</string>
+	<string id="simulation_task_22_text">
+    <text>The gangster asked to collect [ %s]</text>
+	</string>
+	<string id="simulation_task_22_about">
+    <text>Hey, little chap. The case for you is, the cormorants divorced apparently invisible, honest businessmen do not give trouble to the business. Well, Dyk, you'll fill up a couple of them and bring them to me, how about you?</text>
+	</string>
+	<string id="simulation_task_22_fetch_about">
+    <text>Hey, little chap. The case for you is, the cormorants divorced apparently invisible, honest businessmen do not give trouble to the business. Well, Dyk, you'll fill up a couple of them and bring them to me, how about you? Here's what I need: [ %s]</text>
+	</string>
+	<string id="simulation_task_22_fetch_finish">
+    <text>Hammer, fraer. Well, my respect for you and take the artifactic here.</text>
+	</string>
+
+	<string id="simulation_task_21_name">
+    <text>Collect [ %s]</text>
+	</string>
+	<string id="simulation_task_21_text">
+    <text>Stalker asked to collect [ %s]</text>
+	</string>
+	<string id="simulation_task_21_about">
+    <text>Hello brother, will not you gather some patches? And I'll give you this artifactic.</text>
+	</string>
+	<string id="simulation_task_21_fetch_about">
+    <text>Hello brother, will not you pull [ %s]? They got me already. And I'll give you this artifactic.</text>
+	</string>
+	<string id="simulation_task_21_fetch_finish">
+    <text>Well, thank you brother, I did it. Keep your art.</text>
+	</string>
+
+	<string id="simulation_task_20_name">
+    <text>Collect [ %s]</text>
+	</string>
+	<string id="simulation_task_20_text">
+    <text>Dolgovets asked to collect [ %s]</text>
+	</string>
+	<string id="simulation_task_20_about">
+    <text>Greetings, tramp. Do not you beat a couple of anarchists, and then do not breathe from these freaks in recent times. And as evidence, bring me their patches, how?</text>
+	</string>
+	<string id="simulation_task_20_fetch_about">
+    <text>Greetings, tramp. Do not you beat a couple of anarchists, and then do not breathe from these freaks in recent times. And as evidence, bring me their patches, how?</text>
+	</string>
+	<string id="simulation_task_20_fetch_finish">
+    <text>Thank you, man. Here, take the artifact, until no one sees.</text>
+	</string>
+
+	<string id="simulation_task_19_name">
+    <text>Collect [ %s]</text>
+	</string>
+	<string id="simulation_task_19_text">
+    <text>Freeman asked to collect [ %s]</text>
+	</string>
+	<string id="simulation_task_19_about">
+    <text>Hey, dude - will not you get me some badges of a debt plow? To live calmer.</text>
+	</string>
+	<string id="simulation_task_19_fetch_about">
+    <text>Hey, dude - will not you get me some badges of a debt plow? To live calmer.</text>
+	</string>
+	<string id="simulation_task_19_fetch_finish">
+    <text>I respect, bro! Hold the artifact for it.</text>
+	</string>
+
+	</string_table>
