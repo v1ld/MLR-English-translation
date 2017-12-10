@@ -2420,10 +2420,10 @@
     <text>To Glade</text>
 	</string>
 	<string id="pol_space_restrictor_to_esc_1_descr">
-    <text>On the Cordon</text>
+    <text>To Cordon</text>
 	</string>
 	<string id="pol_space_restrictor_to_val_1_descr">
-    <text>Into the Dark Valley</text>
+    <text>To Dark Valley</text>
 	</string>
 	<string id="st_pol_smart_terrain_1_1_anomaly_spot_name">
     <text>Anomaly "Meat mincer"</text>
