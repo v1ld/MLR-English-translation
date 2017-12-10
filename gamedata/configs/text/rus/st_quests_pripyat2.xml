@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON PRIPYAT MAP
+<	CoC 1.3.11
+<
+<	Modified by: DoctorX
+<	March 17, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- ASSAULT TERRITORY FOR MONOLITH TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_1_name">
+		<text>Уничтожить врагов Монолита</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_1_text">
+		<text>Необходимо зачистить местность от неверных во славу всемогущего Монолита.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_1_about">
+		<text>У меня есть важная миссия для тебя, брат. Ты должен уничтожить лагерь неверных, чтобы наши силы могли лучше закрепиться в этом месте. Ты готов?</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_1_finish">
+		<text>Задача выполнена? Хорошо.</text>
+	</string>
+
+
+	<!-- ASSASSINATION FOR MONOLITH TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_2_name">
+		<text>Уничтожить диверсанта</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_2_text">
+		<text>Неверный планирует устроить диверсию, отключив Выжигатель Мозгов. Необходимо остановить его.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_2_about">
+		<text>Монолит поведал мне, что один из неверных снова пытается отключить Выжигатель Мозгов. Он должен быть уничтожен. Ты должен найти и убить его.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_2_finish">
+		<text>Ты хорошо справился. Монолит доволен тобой.</text>
+	</string>
+
+
+	<!-- FIND WEAPON FOR MONOLITH TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_3_name">
+		<text>Найти оружие: %s</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_3_text">
+		<text>Кролик поручил найти новую винтовку для арсенала Монолита.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_3_fetch_about">
+		<text>С каждым днём мы становимся всё могущественней, и нам нужно всё больше оружия для достижения наших целей. %s – это именно то, чего нам сейчас так не хватает. Ты должен найти и принести мне это оружие, чтобы мы могли пополнить наш арсенал.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_3_fetch_finish">
+		<text>Хорошо, брат, ты отлично справился.</text>
+	</string>
+
+
+	<!-- FIND MUTANT MEAT FOR MONOLITH TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_4_name">
+		<text>Охота на дичь</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_4_text">
+		<text>Необходимо достать %s и как можно скорее принести его Кролику, чтобы ему было чем кормить братьев.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_4_fetch_about">
+		<text>Наши запасы провизии на исходе. Ты должен поймать дикое животное и принести мне его мясо, чтобы братьям было чем питаться. %s было бы наиболее подходящей пищей. Но запомни, брат, эти существа - дар Зоны, убивай их осторожно и с должным уважением.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_4_fetch_finish">
+		<text>Ты хорошо справился, брат. Молодец.</text>
+	</string>
+
+
+	<!-- FIND SUPPLIES FOR MONOLITH TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_5_name">
+		<text>Достать предмет: %s</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_5_text">
+		<text>Кролик поручил отыскать и принести ему некоторые предметы. Ему требуется %s.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_5_fetch_about">
+		<text>Да. Враг наступает, а наши запасы продовольствия на исходе. Ты должен принести нам дополнительные припасы, чтобы мы могли продолжать сражаться за Монолит. Нам понадобится %s. Найди это и как можно быстрее доставь сюда.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_5_fetch_finish">
+		<text>Спасибо, брат. Монолит не забудет твою преданность.</text>
+	</string>
+
+
+	<!-- FIND ARTEFACT FOR MONOLITH TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_6_name">
+		<text>Найти артефакт: %s</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_6_text">
+		<text>Необходимо найти артефакт %s и принести его Кролику, чтобы он смог начать ритуальную церемонию.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_6_fetch_about">
+		<text>Мы должны отыскать определённый артефакт для сегодняшнего жертвоприношения во славу великого Монолита. Найди и принеси мне артефакт %s, чтобы мы могли начать церемонию.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_6_fetch_finish">
+		<text>Ты отлично послужил Монолиту, брат. Церемония состоится сегодня ночью, присоединяйся.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR DIODORUS TASK -->
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_name">
+		<text>Найти %s</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_text">
+		<text>Необходимо принести Священнику %s. Механик заплатит за инструмент и, кроме того, сможет обеспечить более сложную модернизацию оружия или бронежилета.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_fetch_about">
+		<text>Да, брат, мне нужна твоя помощь. Мне нужны инструменты для починки нашего оружия. Подойдёт любой набор для грубой работы. Ты согласен помочь мне, брат?</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_fetch_finish">
+		<text>Ты отлично справился.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR DIODORUS TASK -->
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_name">
+		<text>Найти %s</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_text">
+		<text>Необходимо принести Священнику %s. Механик заплатит за инструмент и, кроме того, сможет обеспечить более сложную модернизацию оружия или бронежилета.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_fetch_about">
+		<text>Да. Нужно, чтобы ты принёс мне инструменты для тонкой работы. Надеюсь, ты сможешь их отыскать.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_fetch_finish">
+		<text>Отлично. Ты принес их.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR DIODORUS TASK -->
+	<string id="pri_monolith_monolith_mechanic_stalker_task_3_name">
+		<text>Найти %s</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_3_text">
+		<text>Необходимо принести Священнику %s. Механик заплатит за инструмент и, кроме того, сможет обеспечить более сложную модернизацию оружия или бронежилета.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_3_fetch_about">
+		<text>Мне нужен профессиональный набор инструментов для улучшения нашего снаряжения, с моим нынешним набором это невозможно. Для этого подойдёт любой набор инструментов для калибровки. Если сможешь их отыскать, я буду тебе благодарен.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_3_fetch_finish">
+		<text>Отлично. Это именно то, что мне нужно.</text>
+	</string>
+
+
+</string_table>

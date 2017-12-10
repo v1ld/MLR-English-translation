@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON ESCAPE (CORDON) MAP
+<	CoC 1.3.11
+<
+<	Modified by: DoctorX
+<	March 18, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- FIND WEAPON FOR NIMBLE TASK -->
+	<string id="esc_2_12_stalker_nimble_task_1_name">
+		<text>Найти оружие: %s</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_text">
+		<text>Шустрый попросил достать ему определенное оружие. Оно должно быть в хорошем состоянии, иначе клиент не станет его покупать.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_fetch_about">
+		<text>В общем, есть один клиент, который ищет определенное оружие, если точнее - %s. И мне нужен кто-то, кто сможет достать такую пушку. Только с условием, что состояние оружия должно быть отличным. Клиент заплатил немалые деньги, и я не думаю, что ему понравится какой-нибудь ржавый кусок дерьма, который клинит через выстрел. Получишь больший процент от его суммы, если сделаешь всё как надо.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_fetch_finish">
+		<text>Отлично, то что надо! Я уверен, клиент будет доволен. Держи, как обещал.</text>
+	</string>
+
+
+	<!-- ASSAULT BANDIT BASE FOR SIDOROVICH TASK -->
+	<string id="esc_m_trader_task_1_name">
+		<text>Уничтожить бандитов на АТП</text>
+	</string>
+	<string id="esc_m_trader_task_1_text">
+		<text>Нужно организовать нападение на АТП и уничтожить бандитов, занимающих локацию.</text>
+	</string>
+	<string id="esc_m_trader_task_1_about">
+		<text>Бандиты снова захватили АТП. Эти сволочи грабят и убивают всех, кто пользуется этой дорогой к деревне. Они отпугивают моих клиентов и новичков, которые надеются найти тут убежище. А это, знаешь ли, неслабо ударяет по бизнесу! В общем, нужно, чтоб ты о них "позаботился". Если нужна будет помощь - поговори с Фанатом.</text>
+	</string>
+	<string id="esc_m_trader_task_1_finish">
+		<text>Отлично, сталкер! Я смотрю, мы с тобой сработаемся. Вот, как обещал:</text>
+	</string>
+
+
+	<!-- ASSASSINATION FOR SIDOROVICH TASK -->
+	<string id="esc_m_trader_task_2_name">
+		<text>Убить сталкера</text>
+	</string>
+	<string id="esc_m_trader_task_2_text">
+		<text>Сидорович поручил убрать одного сталкера, а затем вернуться к нему за наградой.</text>
+	</string>
+	<string id="esc_m_trader_task_2_about">
+		<text>У меня тут есть список сталкеров, с которыми надо разобраться. В него обычно попадают всякие сволочи и конченые подонки... по разным причинам. Одним словом - мусор. Мусор, от которого Зону время от времени нужно очищать, понимаешь? Ну так что, берешься?</text>
+	</string>
+	<string id="esc_m_trader_task_2_finish">
+		<text>Отлично, ты от него избавился! Вот награда, как обещал:</text>
+	</string>
+
+
+	<!-- ELIMINATE MUTANTS FOR WOLF TASK -->
+	<string id="esc_2_12_stalker_wolf_task_1_name">
+		<text>Зачистить логово мутантов</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_1_text">
+		<text>Волк попросил уничтожить логово мутантов, чтобы обезопасить новичков в деревне и прочих сталкеров, которые ходят через Кордон.</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_1_about">
+		<text>Есть одно дело. Новички его вряд ли потянут, но ты, я думаю, справишься. Дело в том, что с каждым днем на Кордоне становится всё опаснее. Здесь устраивают логова всё более опасные мутанты, и нам ни в коем случае нельзя допустить их размножения! Ты должен будешь зачистить зону, которую я отметил на твоем КПК. Убивай каждую тварь, что увидишь. Если сделаешь, в долгу не останусь. Ну так что?</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_1_finish">
+		<text>Спасибо, благодаря тебе новички теперь будут в относительной безопасности. Вот твоя награда.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 1 TOOLS FOR XENOTECH TASK -->
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_name">
+		<text>Найти %s</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_text">
+		<text>Технарь попросил принести ему %s. Механик заплатит за инструмент и, кроме того, сможет обеспечить более сложную модернизацию оружия или бронежилета.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_fetch_about">
+		<text>Да, мне нужна кое-какая помощь. Множество сталкеров приходят ко мне с просьбой починить их снарягу, но я не могу - у меня нет для этого подходящих инструментов. Я бы с радостью мог чинить и апгрейдить практически всё, будь у меня нужный набор. Братан, можешь мне с этим помочь? Мне подойдёт любой набор для грубой работы, главное чтоб с ним хоть что-то можно было сделать. Если сможешь принести, наградой не обижу.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_fetch_finish">
+		<text>Спасибо, это именно то, что мне нужно. Вот, я обещал тебе награду, держи:</text>
+	</string>
+
+
+	<!-- FIND LEVEL 2 TOOLS FOR XENOTECH TASK -->
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_name">
+		<text>Найти %s</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_text">
+		<text>Технарь попросил принести ему %s. Механик заплатит за инструмент и, кроме того, сможет обеспечить более сложную модернизацию оружия или бронежилета.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_fetch_about">
+		<text>Дела ощутимо пошли вверх, всё больше сталкеров приходят ко мне за улучшениями, но я был бы способен на большее, будь у меня больше инструментов. Тот набор, что ты принес, просто отличный, но для тонкой работы никуда не годится. Если бы ты принес более подходящий набор, я был бы тебе благодарен.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_fetch_finish">
+		<text>Отлично! Вот твоя награда, ты ее заслужил!</text>
+	</string>
+
+
+	<!-- FIND LEVEL 3 TOOLS FOR XENOTECH TASK -->
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_name">
+		<text>Найти %s</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_text">
+		<text>Технарь попросил принести ему %s. Механик заплатит за инструмент и, кроме того, сможет обеспечить более сложную модернизацию оружия или бронежилета.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_fetch_about">
+		<text>Мне тут инструменты для калибровки понадобились. В твоём наборе их не оказалось, а где их найти здесь, на Кордоне, я понятия не имею. Если сможешь их достать, в долгу не останусь.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_fetch_finish">
+		<text>Спасибо, дружище! Вот, держи чем богат:</text>
+	</string>
+
+
+</string_table>

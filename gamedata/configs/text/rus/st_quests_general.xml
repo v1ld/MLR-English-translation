@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--===========================================================
+<
+< GENERAL TEXT  STRINGS FOR TASKS
+<	CoC 1.3.11
+<
+<	Modified by: DoctorX
+<	March 18, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- FIND SUPPLIES FOR STALKER, CLEAR SKY, DUTY, OR ECOG TASK -->
+	<string id="simulation_task_1_name">
+		<text>Достать предмет: %s</text>
+	</string>
+	<string id="simulation_task_1_text">
+		<text>Сталкер попросил принести ему %s.</text>
+	</string>
+	<string id="simulation_task_1_fetch_about">
+		<text>Да, мне тут как раз кое-каких вещей не хватает. У тебя есть %s? Если сможешь принести, я в долгу не останусь.</text>
+	</string>
+	<string id="simulation_task_1_fetch_finish">
+		<text>Спасибо, мужик!</text>
+	</string>
+
+
+	<!-- FIND SUPPLIES FOR FREEDOM OR MERC TASK -->
+	<string id="simulation_task_2_name">
+		<text>Достать предмет: %s</text>
+	</string>
+	<string id="simulation_task_2_text">
+		<text>Сталкер попросил достать ему %s.</text>
+	</string>
+	<string id="simulation_task_2_fetch_about">
+		<text>Мне пары вещей не хватает. У тебя есть %s? Если сможешь достать, я в долгу не останусь.</text>
+	</string>
+	<string id="simulation_task_2_fetch_finish">
+		<text>Отлично! Спасибо, братан.</text>
+	</string>
+
+
+	<!-- FIND MUTANT MEAT FOR STALKER, CLEAR SKY, MERC, FREEDOM, OR BANDIT TASK -->
+	<string id="simulation_task_3_name">
+		<text>Достать мясо мутанта</text>
+	</string>
+	<string id="simulation_task_3_text">
+		<text>Сталкер сказал, что владеет особым рецептом приготовления мяса мутантов и попросил достать ему %s.</text>
+	</string>
+	<string id="simulation_task_3_fetch_about">
+		<text>Мужик, ты когда-нибудь пробовал мясо местных зверушек? Большинство не стало бы к нему прикасаться, если бы только реально не умирали от голода, но вот лично мне оно очень нравится. Может, достанешь мне пожрать чего? %s, к примеру. А я тебе за это деньжат отвалю, м?</text>
+	</string>
+	<string id="simulation_task_3_fetch_finish">
+		<text>О, зашибись! Хоть поем нормально в кои-то веки. Спасибо, сталкер, вот твоя награда... О, кстати, у меня тут еще лишние патроны завалялись, к моей винтовке не подходят, можешь себе забрать.</text>
+	</string>
+
+
+	<!-- FIND ARTEFACT FOR STALKER TASK -->
+	<string id="simulation_task_4_name">
+		<text>Найти артефакт: %s</text>
+	</string>
+	<string id="simulation_task_4_text">
+		<text>Сталкер предложил обменять свою винтовку на артефакт %s.</text>
+	</string>
+	<string id="simulation_task_4_fetch_about">
+		<text>Ты как вообще, за артефактами нормально охотишься? Мне тут как раз позарез нужен один, %s называется, не подсобишь? Не задаром, разумеется. Денег предложить не смогу, однако у меня есть одна очень неплохая винтовка. Думаю, тебе понравится.</text>
+	</string>
+	<string id="simulation_task_4_fetch_finish">
+		<text>Наконец-то! Знал бы ты, как долго я искал эту хрень! Вот она, обещанная винтовка. Не хотелось бы с ней расставаться, но уговор дороже денег. Забирай.</text>
+	</string>
+
+
+	<!-- FIND WEAPON FOR STALKER TASK -->
+	<string id="simulation_task_5_name">
+		<text>Найти оружие: %s</text>
+	</string>
+	<string id="simulation_task_5_text">
+		<text>Нужно принести сталкеру %s в приемлемом состоянии.</text>
+	</string>
+	<string id="simulation_task_5_fetch_about">
+		<text>Да, есть кое-что. Мой тайник на днях грабанули и спёрли мой любимый ствол - %s. Поможешь найти новый? Если сможешь найти такой же в хорошем состоянии, я в долгу не останусь.</text>
+	</string>
+	<string id="simulation_task_5_fetch_finish">
+		<text>Спасибо, сталкер! Вот награда, как обещал. Наконец-то я смогу пристрелить этого сраного излома...</text>
+	</string>
+
+
+	<!-- FIND WEAPON FOR DUTY, MERC, CLEAR SKY, OR MILITARY TASK -->
+	<string id="simulation_task_6_name">
+		<text>Найти оружие: %s</text>
+	</string>
+	<string id="simulation_task_6_text">
+		<text>Необходимо достать %s в приемлемом состоянии.</text>
+	</string>
+	<string id="simulation_task_6_fetch_about">
+		<text>Моя нынешняя винтовка - полное дерьмо. Мне нужно оружие, которое не будет клинить через выстрел. %s, например. Принесёшь - я в долгу не останусь.</text>
+	</string>
+	<string id="simulation_task_6_fetch_finish">
+		<text>Отлично! Она просто красавица. Вот, возьми это в награду:</text>
+	</string>
+
+
+	<!-- HOSTAGE RESCUE FOR STALKER TASK -->
+	<string id="simulation_task_7_name">
+		<text>Спасти заложника</text>
+	</string>
+	<string id="simulation_task_7_text">
+		<text>Приятель сталкера попал в плен к бандитам. Необходимо спасти его.</text>
+	</string>
+	<string id="simulation_task_7_about">
+		<text>В общем, тут такое дело... Бандиты взяли в плен моего другана, а один я вытащить его не смогу. Может поможешь? За мной не заржавеет!</text>
+	</string>
+	<string id="simulation_task_7_finish">
+		<text>У тебя получилось! Спасибо, братан. Я уж и не надеялся увидеть его в живых! С меня причитается:</text>
+	</string>
+
+
+	<!-- HOSTAGE RESCUE FOR DUTY TASK -->
+	<string id="simulation_task_8_name">
+		<text>Спасти заложника</text>
+	</string>
+	<string id="simulation_task_8_text">
+		<text>Необходимо спасти долговца из бандитского плена.</text>
+	</string>
+	<string id="simulation_task_8_about">
+		<text>Одного из наших бойцов ранили и взяли в плен мародёры. Нужно вытащить его оттуда до того, как бандиты его убьют. Сможешь?</text>
+	</string>
+	<string id="simulation_task_8_finish">
+		<text>Спасибо, сталкер, ты хорошо сработал! Держи, заслужил:</text>
+	</string>
+
+
+	<!-- HOSTAGE RESCUE FOR FREEDOM TASK -->
+	<string id="simulation_task_9_name">
+		<text>Спасти заложника</text>
+	</string>
+	<string id="simulation_task_9_text">
+		<text>Необходимо спасти свободовца из бандитского плена.</text>
+	</string>
+	<string id="simulation_task_9_about">
+		<text>Одного из наших ранили и взяли в плен местные гопари. Не думаю, что он долго протянет, так что надо бы вытащить его оттуда. Поможешь, чувак? Я в долгу не останусь.</text>
+	</string>
+	<string id="simulation_task_9_finish">
+		<text>Нифига себе, ты справился?! Спасибо, мэн! Я уж и не думал его в живых увидеть. Держи награду, заслужил:</text>
+	</string>
+
+
+	<!-- HOSTAGE RESCUE FOR ECOG TASK -->
+	<string id="simulation_task_10_name">
+		<text>Спасти заложника</text>
+	</string>
+	<string id="simulation_task_10_text">
+		<text>Необходимо спасти учёного из бандитского плена.</text>
+	</string>
+	<string id="simulation_task_10_about">
+		<text>Да, пожалуйста, помогите! Во время исследований на нашу группу было совершено нападение, и моего коллегу похитили! Вы можете помочь его спасти? Пожалуйста, иначе они его убьют!</text>
+	</string>
+	<string id="simulation_task_10_finish">
+		<text>Благодарю Вас, сталкер! Я рад снова видеть своего коллегу живым. Пожалуйста, возьмите это в награду за помощь:</text>
+	</string>
+
+
+	<!-- ASSASSINATION  FOR STALKER TASK -->
+	<string id="simulation_task_11_name">
+		<text>Охота на охотника</text>
+	</string>
+	<string id="simulation_task_11_text">
+		<text>Сталкер, за чью голову предлагают награду, обещал заплатить в два раза больше, если удастся прикончить его заказчика.</text>
+	</string>
+	<string id="simulation_task_11_about">
+		<text>Да. Братан, помоги, будь добр! Какая-то скотина предлагает бабки за мою голову. Я заплачу тебе вдвое больше, если согласишься прикончить его! По рукам?</text>
+	</string>
+	<string id="simulation_task_11_finish">
+		<text>О, спасибо тебе, дружище! Вот твоя награда. Наконец-то я могу поспать, не боясь, что меня кто-то прирежет во сне.</text>
+	</string>
+
+
+	<!-- VENGEANCE  FOR STALKER TASK -->
+	<string id="simulation_task_12_name">
+		<text>Месть</text>
+	</string>
+	<string id="simulation_task_12_text">
+		<text>Сталкер попросил отомстить за его убитого товарища.</text>
+	</string>
+	<string id="simulation_task_12_about">
+		<text>Прошлой ночью в наш лагерь пробрался бандит и прирезал моего спящего друга... Эта сволочь не должна больше жить. Найди и прикончи его для меня, будь добр. А я взамен отдам тебе винтовку моего бывшего напарника...</text>
+	</string>
+	<string id="simulation_task_12_finish">
+		<text>Спасибо, сталкер, теперь он может спать спокойно. Давай, что ли, помянем другана моего? Присоединяйся.</text>
+	</string>
+
+
+	<!-- FIND SUPPLIES FOR BANDIT TASK -->
+	<string id="simulation_task_13_name">
+		<text>Достать предмет: %s</text>
+	</string>
+	<string id="simulation_task_13_text">
+		<text>Один из пацанов попросил принести ему кое-какие вещи.</text>
+	</string>
+	<string id="simulation_task_13_fetch_about">
+		<text>Бабла, небось, заработать хочешь? Смари, мне тута вещи кое-какие надо. У тебя щас есть %s? Надыбаешь - подваливай.</text>
+	</string>
+	<string id="simulation_task_13_fetch_finish">
+		<text>Зашибись, братан! Спасибо.</text>
+	</string>
+
+
+	<!-- FIND SUPPLIES FOR MILITARY TASK -->
+	<string id="simulation_task_14_name">
+		<text>Достать предмет: %s</text>
+	</string>
+	<string id="simulation_task_14_text">
+		<text>Военный попросил достать ему кое-какие предметы.</text>
+	</string>
+	<string id="simulation_task_14_fetch_about">
+		<text>Да, у меня как раз кончаются припасы. У тебя есть %s? Если найдешь, могу поменять на пару коробок списанных патронов.</text>
+	</string>
+	<string id="simulation_task_14_fetch_finish">
+		<text>Спасибо, выручил! Вот, как обещал:</text>
+	</string>
+
+
+	<!-- FIND ARTEFACT FOR MILITARY TASK -->
+	<string id="simulation_task_15_name">
+		<text>Найти артефакт: %s</text>
+	</string>
+	<string id="simulation_task_15_text">
+		<text>Военный предложил обменять свою винтовку на артефакт.</text>
+	</string>
+	<string id="simulation_task_15_fetch_about">
+		<text>Слушай, браток. Я знаю, что это против правил, но у нас скоро ротация, я наконец смогу вернуться домой, и мне бы хотелось захватить с собой небольшой сувенир. Короче, сможешь достать для меня артефакт %s? Если принесешь, подарю тебе свою винтовку.</text>
+	</string>
+	<string id="simulation_task_15_fetch_finish">
+		<text>Отлично! Вот, держи, как обещал. И не вздумай кому-нибудь об этом проболтаться.</text>
+	</string>
+
+
+	<!-- FIND WEAPON FOR BANDIT TASK -->
+	<string id="simulation_task_16_name">
+		<text>Подогнать пацану ствол</text>
+	</string>
+	<string id="simulation_task_16_text">
+		<text>Братан попросил найти ему %s в нормальном состоянии.</text>
+	</string>
+	<string id="simulation_task_16_fetch_about">
+		<text>Сыш, мне короче нужна новая волына, и так шоб никто не мог проследить, шо она ко мне попала. Понимаешь, шо я имею в виду? В общем, мне нада %s. Купи, укради, с трупа подними - похер. Главное, принеси мне ствол. Отвалю вдвое больше себестоимости.</text>
+	</string>
+	<string id="simulation_task_16_fetch_finish">
+		<text>Малаца, браток! Вот твоя доля. И запомни: ты меня не видел.</text>
+	</string>
+
+
+	<!-- ASSASINATION  FOR MILITARY TASK -->
+	<string id="simulation_task_17_name">
+		<text>Пари</text>
+	</string>
+	<string id="simulation_task_17_text">
+		<text>Необходимо найти и уничтожить цель, чтобы выиграть спор с военным.</text>
+	</string>
+	<string id="simulation_task_17_about">
+		<text>Чё? Ты типа по служебной лестнице продвинуться хочешь, что ли? Имей в виду, здесь таких выскочек не любят... А вообще, знаешь что? Я знаю местонахождение одной высокоприоритетной цели, которую нужно уничтожить. И я ставлю свою винтовку, что ты не сможешь даже близко к нему подобраться.</text>
+	</string>
+	<string id="simulation_task_17_finish">
+		<text>Серьёзно? Погоди, ты серьёзно кончил его? Чёрт, если б я знал, что ты так легко справишься, хрен бы я с тобой спорил... Что ж, уговор есть уговор. Держи свою винтовку. Только теперь тебе придется прикрывать из неё мою задницу в следующем бою.</text>
+	</string>
+
+
+	<!-- ASSASSINATION FOR MERC OR BANDIT TASK -->
+	<string id="simulation_task_18_name">
+		<text>Субподрядчик</text>
+	</string>
+	<string id="simulation_task_18_text">
+		<text>Необходимо найти и ликвидировать цель.</text>
+	</string>
+	<string id="simulation_task_18_about">
+		<text>Да, есть кое-что. Я вот недавно по глупости набрал слишком много заданий, а времени их все выполнять у меня нет. Не желаешь взять один из моих контрактов? Если согласишься, получишь большую часть награды.</text>
+	</string>
+	<string id="simulation_task_18_finish">
+		<text>Отличная работа. Вот обещанные деньги:</text>
+	</string>
+
+
+	<!-- HOSTAGE INTERACTION  TEXT -->
+	<string id="hostage_companion_task_1_start_dialog_1">
+		<text>Т-ты кто? Ты спасти меня пришел?</text>
+	</string>
+	<string id="hostage_companion_task_1_actor_reply">
+		<text>Иди за мной, если жить охота!</text>
+	</string>
+
+
+	<!-- NIMBLE SPECIAL ORDER TEXT -->
+	<string id="esc_2_12_nimble_items_get_order_name">
+		<text>Особый заказ: забрать товар</text>
+	</string>
+	<string id="esc_2_12_nimble_items_get_order_text">
+		<text>Заказ доставлен, необходимо забрать его у Шустрого.</text>
+	</string>
+	<string id="esc_2_12_nimble_items_wait_order_name">
+		<text>Особый заказ: ожидать доставки</text>
+	</string>
+	<string id="esc_2_12_nimble_items_wait_order_text">
+		<text>Заказ сделан. Нужно подождать, пока Шустрый достанет товар.</text>
+	</string>
+
+
+	<!-- SURGE HIDE MESSAGES -->
+	<string id="hide_from_surge_message">
+		<text>Внимание! Приближается выброс!</text>
+	</string>
+	<string id="hide_from_surge_descr_1_a">
+		<text>Необходимо срочно бежать к ближайшему укрытию и спрятаться от выброса.</text>
+	</string>
+	<string id="hide_from_surge_descr_2_a">
+		<text>Во время выброса ни в коем случае нельзя покидать укрытие.</text>
+	</string>
+	<string id="hide_from_surge_name_1">
+		<text>Выброс: найти укрытие</text>
+	</string>
+	<string id="hide_from_surge_name_2">
+		<text>Выброс: переждать в укрытии</text>
+	</string>
+
+
+	<!-- ATMOSFEAR RADIOACTIVE FALLOUT MESSAGES -->
+	<string id="hide_from_fallout_rad_message_caption">
+		<text>Внимание!</text>
+	</string>
+	<string id="hide_from_fallout_rad_message">
+		<text>Начинаются радиоактивные осадки.</text>
+	</string>
+	<string id="hide_from_fallout_rad_descr_1_a">
+		<text>Опасный уровень радиации. Необходимо укрытие.</text>
+	</string>
+	<string id="hide_from_fallout_rad_descr_2_a">
+		<text>Во время радиоактивных осадков ни в коем случае нельзя покидать укрытие.</text>
+	</string>
+	<string id="hide_from_fallout_rad_name_1">
+		<text>Радиоактивные осадки: найти укрытие</text>
+	</string>
+	<string id="hide_from_fallout_rad_name_2">
+		<text>Радиоактивные осадки: переждать в укрытии</text>
+	</string>
+	<string id="end_fallout_rad_message_caption">
+		<text>Внимание!</text>
+	</string>
+	<string id="end_fallout_rad_message">
+		<text>Радиоактивные осадки прекратились.</text>
+	</string>
+
+
+	<!-- ATMOSFEAR CHEMICAL FALLOUT MESSAGES -->
+	<string id="hide_from_fallout_acid_message_caption">
+		<text>Внимание!</text>
+	</string>
+	<string id="hide_from_fallout_acid_message">
+		<text>Начинается кислотный дождь.</text>
+	</string>
+	<string id="hide_from_fallout_acid_descr_1_a">
+		<text>Опасный уровень хим. загрязнения. Необходимо укрытие.</text>
+	</string>
+	<string id="hide_from_fallout_acid_descr_2_a">
+		<text>Во время кислотного дождя ни в коем случае нельзя покидать укрытие.</text>
+	</string>
+	<string id="hide_from_fallout_acid_name_1">
+		<text>Кислотный дождь: найти укрытие</text>
+	</string>
+	<string id="hide_from_fallout_acid_name_2">
+		<text>Кислотный дождь: переждать в укрытии</text>
+	</string>
+	<string id="end_fallout_acid_message_caption">
+		<text>Внимание!</text>
+	</string>
+	<string id="end_fallout_acid_message">
+		<text>Кислотный дождь прекратился.</text>
+	</string>
+
+
+	<!-- ATMOSFEAR PSI STORM MESSAGES -->
+	<string id="hide_from_psi_storm_message_caption">
+		<text>Внимание!</text>
+	</string>
+	<string id="hide_from_psi_storm_message">
+		<text>Начинается пси-шторм.</text>
+	</string>
+	<string id="hide_from_psi_storm_descr_1_a">
+		<text>Необходимо срочно бежать к ближайшему укрытию и спрятаться от пси-шторма.</text>
+	</string>
+	<string id="hide_from_psi_storm_descr_2_a">
+		<text>Во время пси-шторма ни в коем случае нельзя покидать укрытие.</text>
+	</string>
+	<string id="hide_from_psi_storm_name_1">
+		<text>Пси-шторм: найти укрытие</text>
+	</string>
+	<string id="hide_from_psi_storm_name_2">
+		<text>Пси-шторм: переждать в укрытии</text>
+	</string>
+	<string id="end_psi_storm_caption">
+		<text>Внимание!</text>
+	</string>
+	<string id="end_psi_storm_message">
+		<text>Пси-шторм закончился.</text>
+	</string>
+
+
+	<!-- YANTAR MIRACLE MACHINE MESSAGES -->
+	<string id="tips_labx16switcher_press">
+		<text>Отключить пси-установку ($$ACTION_USE$$)</text>
+	</string>
+
+	<!-- FACTION BASE DEFENSE VS MUTANTS -->
+    	<string id="faction_base_defense_name">
+		<text>Защитить базу от мутантов</text>
+	</string>
+	<string id="faction_base_defense_yantar_name">
+		<text>Защитить лагерь учёных от зомби</text>
+	</string>
+	<string id="faction_base_defense_text">
+		<text>На базу надвигается волна мутантов. Необходимо помочь отразить нападение.</text>
+	</string>
+	<string id="faction_base_defense_yantar_text">
+		<text>На лагерь экологов надвигается волна зомбированных, нужно помочь учёным отбиться. Слабый выброс, который только что начался, Вам не повредит. На крыше бункера находится станковый пулемёт, используйте его для обороны бункера.</text>
+	</string>
+</string_table>

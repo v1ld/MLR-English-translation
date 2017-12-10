@@ -1,0 +1,572 @@
+#include "trade_discounts.ltx"
+
+[trader]
+buy_condition                            = trade_generic_buy
+buy_item_condition_factor                = 0.7
+buy_supplies                             = supplies_generic
+price_profile                            = default
+sell_condition                           = trade_generic_sell
+
+[trade_generic_sell]
+vodka ;NO_TRADE
+dev_torch_light_better_use = 1, 2
+dev_torch_light_better_1_use = 2, 3
+itm_actor_backpack = 1, 2
+itm_sleepbag = 2, 5
+itm_backpack = 2, 5
+bread = 2, 4
+kolbasa = 2, 4
+conserva = 1, 3
+energy_drink = 1, 3
+energy_drink_nonstop = 1, 3
+bandage = 2, 4
+
+[supplies_generic]
+dev_torch_light_better_use = 1, 0.8
+dev_torch_light_better_1_use = 1, 1
+itm_actor_backpack = 2, 1
+itm_sleepbag = 1, 1
+itm_backpack = 2, 1
+
+bread = 10, 1
+kolbasa = 8, 1
+conserva = 15, 1
+energy_drink = 5, 1
+energy_drink_nonstop = 4, 1
+bandage = 5, 1
+
+[trade_generic_buy]
+;E_STLK
+device_torch_low_use = 0.4, 0.4
+device_torch_normal_use = 0.4, 0.4
+dev_torch_light_better_use = 0.4, 0.4
+dev_torch_light_better_1_use = 0.4, 0.2
+itm_actor_backpack ;NO_TRADE
+bandit_novice_outfit                     ;NO_TRADE
+banditmerc_outfit                       ;NO_TRADE
+cs_heavy_outfit                          ;NO_TRADE
+cs_light_outfit                         ;NO_TRADE
+cs_light_novice_outfit					 ;NO_TRADE
+cs_medium_outfit                         ;NO_TRADE
+cs_novice_outfit                        ;NO_TRADE
+dolg_exo_outfit                          ;NO_TRADE
+dolg_heavy_outfit                        ;NO_TRADE
+dolg_outfit                              ;NO_TRADE
+ecolog_guard_outfit                     ;NO_TRADE
+ecolog_outfit_green                     ;NO_TRADE
+ecolog_outfit_orange                    ;NO_TRADE
+exo_outfit                               ;NO_TRADE
+merc_exo_outfit                          ;NO_TRADE
+merc_outfit                              ;NO_TRADE
+military_outfit                          ;NO_TRADE
+monolith_outfit                         ;NO_TRADE
+monolith_scientific_outfit              ;NO_TRADE
+novice_outfit                           ;NO_TRADE
+scientific_outfit                       ;NO_TRADE
+specops_outfit                          ;NO_TRADE
+stalker_outfit                           ;NO_TRADE
+stalker_outfit_barge                    ;NO_TRADE
+svoboda_exo_outfit                      ;NO_TRADE
+svoboda_heavy_outfit                    ;NO_TRADE
+svoboda_heavy_outfit_2                   ;NO_TRADE
+svoboda_light_outfit                     ;NO_TRADE
+trenchcoat_outfit                        ;NO_TRADE
+dolg_scientific_outfit					;NO_TRADE
+merc_scientific_outfit					;NO_TRADE
+svoboda_scientific_outfit				;NO_TRADE
+monolith_exo_outfit						;NO_TRADE
+bandit_exo_outfit						;NO_TRADE
+
+
+;E_HLMET
+helm_battle                              ;NO_TRADE
+helm_hardhat                             ;NO_TRADE
+helm_hardhat_snag                       ;NO_TRADE
+helm_m40                               ;NO_TRADE
+helm_protective                          ;NO_TRADE
+helm_respirator                          ;NO_TRADE
+helm_respirator_joker                    ;NO_TRADE
+helm_tactic                              ;NO_TRADE
+
+;ARTS
+af_drops ;NO_TRADE
+af_ameba_slime ;NO_TRADE
+af_ameba_slug ;NO_TRADE
+af_ameba_mica ;NO_TRADE
+af_dummy_pellicle ;NO_TRADE
+af_dummy_spring ;NO_TRADE
+af_rusty_thorn ;NO_TRADE
+af_rusty_kristall ;NO_TRADE
+af_rusty_sea ;NO_TRADE
+af_medusa ;NO_TRADE
+af_cristall_flower ;NO_TRADE
+af_night_star ;NO_TRADE
+af_vyvert ;NO_TRADE
+af_gravi ;NO_TRADE
+af_gold_fish ;NO_TRADE
+af_cristall ;NO_TRADE
+af_fireball ;NO_TRADE
+af_dummy_glassbeads ;NO_TRADE
+af_eye ;NO_TRADE
+af_fire ;NO_TRADE
+af_blood ;NO_TRADE
+af_mincer_meat ;NO_TRADE
+af_soul ;NO_TRADE
+af_fuzz_kolobok ;NO_TRADE
+af_baloon ;NO_TRADE
+af_glass ;NO_TRADE
+af_electra_sparkler ;NO_TRADE
+af_electra_flash ;NO_TRADE
+af_electra_moonlight ;NO_TRADE
+af_dummy_battery ;NO_TRADE
+af_dummy_dummy ;NO_TRADE
+af_ice ;NO_TRADE
+af_compass ;NO_TRADE
+af_oasis_heart ;NO_TRADE
+drug_booster ;NO_TRADE
+drug_coagulant ;NO_TRADE
+drug_psy_blockade ;NO_TRADE
+drug_antidot ;NO_TRADE
+drug_radioprotector ;NO_TRADE
+;ITEMS
+vodka ;NO_TRADE
+energy_drink_nonstop ;NO_TRADE
+antirad = 0.6, 0.8
+medkit_army ;NO_TRADE
+medkit_scientic ;NO_TRADE
+device_pda ;NO TRADE
+monolith_patch ;NO TRADE
+merc_patch ;NO TRADE
+stalker_patch ;NO TRADE
+duty_patch ;NO TRADE
+bandit_patch ;NO TRADE
+stalker_patch ;NO TRADE
+itm_sleepbag ;NO_TRADE
+itm_backpack ;NO_TRADE
+bread ;NO_TRADE
+kolbasa ;NO_TRADE
+conserva ;NO_TRADE
+energy_drink ;NO_TRADE
+bandage ;NO_TRADE
+detector_simple ;NO_TRADE
+detector_advanced ;NO_TRADE
+detector_elite ;NO_TRADE
+mutant_part_krovosos_jaw ;NO_TRADE
+mutant_part_boar_leg ;NO_TRADE
+mutant_part_chimera_kogot ;NO_TRADE
+mutant_part_chimera_claw ;NO_TRADE
+mutant_part_dog_tail ;NO_TRADE
+mutant_part_flesh_eye ;NO_TRADE
+mutant_part_psevdodog_tail ;NO_TRADE
+mutant_part_snork_leg ;NO_TRADE
+mutant_part_snork_hand ;NO_TRADE
+mutant_part_tushkano_head ;NO_TRADE
+mutant_part_pseudogigant_hand ;NO_TRADE
+mutant_part_pseudogigant_eye ;NO_TRADE
+mutant_part_controller_glass ;NO_TRADE
+mutant_part_controller_hand ;NO_TRADE
+mutant_part_burer_hand ;NO_TRADE
+mutant_part_cat_tail ;NO_TRADE
+mutant_part_fracture_hand ;NO_TRADE
+mutant_part_zombi_hand ;NO_TRADE
+mutant_part_boar_chop ;NO_TRADE
+mutant_part_general_meat ;NO_TRADE
+mutant_part_psevdodog_meat ;NO_TRADE
+mutant_part_flesh_meat ;NO_TRADE
+mutant_part_tushkano_meat ;NO_TRADE
+mutant_part_chimera_meat ;NO_TRADE
+mutant_part_krovosos_meat ;NO_TRADE
+mutant_part_dog_meat ;NO_TRADE
+
+;WEAPONS
+ammo_9x18_fmj ;NO_TRADE
+ammo_9x18_pmm ;NO_TRADE
+ammo_9x19_fmj ;NO_TRADE
+ammo_9x19_pbp ;NO_TRADE
+ammo_11.43x23_fmj ;NO_TRADE
+ammo_11.43x23_hydro ;NO_TRADE
+ammo_5.45x39_fmj ;NO_TRADE
+ammo_5.45x39_ap ;NO_TRADE
+ammo_5.56x45_ss190 ;NO_TRADE
+ammo_5.56x45_ap ;NO_TRADE
+ammo_5.7x28_fmj ;NO_TRADE
+ammo_5.7x28_ap ;NO_TRADE
+ammo_pkm_100 ;NO_TRADE
+ammo_7.62x25_p ;NO_TRADE
+ammo_7.62x25_ps ;NO_TRADE
+ammo_7.62x51_ap ;NO_TRADE
+ammo_7.62x51_fmj ;NO_TRADE
+ammo_7.62x39_fmj ;NO_TRADE
+ammo_7.62x39_ap ;NO_TRADE
+ammo_7.62x54_7h1 ;NO_TRADE
+ammo_7.62x54_7h14 ;NO_TRADE
+ammo_7.62x54_ap ;NO_TRADE
+ammo_gauss ;NO_TRADE
+ammo_gauss_cardan ;NO_TRADE
+ammo_9x39_pab9 ;NO_TRADE
+ammo_9x39_ap ;NO_TRADE
+ammo_12x76_zhekan ;NO_TRADE
+ammo_12x70_buck ;NO_TRADE
+ammo_12.7x55_fmj ;NO_TRADE
+ammo_og-7b ;NO_TRADE
+ammo_vog-25 ;NO_TRADE
+ammo_m209 ;NO_TRADE
+ammo_338_lapua ;NO_TRADE
+
+1p29 ;NO_TRADE
+9x39scope ;NO_TRADE
+ac10632 ;NO_TRADE
+ac11090 ;NO_TRADE
+acog ;NO_TRADE
+c-more ;NO_TRADE
+docter_sight ;NO_TRADE
+ekp ;NO_TRADE
+eot ;NO_TRADE
+kobra ;NO_TRADE
+po4x34 ;NO_TRADE
+pso ;NO_TRADE
+pu ;NO_TRADE
+wpn_addon_grenade_launcher ;NO_TRADE
+wpn_addon_grenade_launcher_m203 ;NO_TRADE
+wpn_addon_silencer ;NO_TRADE
+sil_6p9 ;NO_TRADE
+sil_9a91 ;NO_TRADE
+sil_45 ;NO_TRADE
+sil_57 ;NO_TRADE
+sil_atg ;NO_TRADE
+sil_atg ;NO_TRADE
+sil_gemtech ;NO_TRADE
+sil_kzrzp ;NO_TRADE
+sil_nato ;NO_TRADE
+sil_sr25 ;NO_TRADE
+sil_pbs1 ;NO_TRADE
+sil_pbs-4 ;NO_TRADE
+sil_tgp-a ;NO_TRADE
+sil_vihr ;NO_TRADE
+
+wpn_9a91 ;NO_TRADE
+wpn_9a91_1p29 ;NO_TRADE
+wpn_9a91_9x39scope ;NO_TRADE
+wpn_9a91_ekp ;NO_TRADE
+wpn_9a91_kobra ;NO_TRADE
+wpn_abakan ;NO_TRADE
+wpn_abakan_1p29 ;NO_TRADE
+wpn_abakan_ekp ;NO_TRADE
+wpn_abakan_kobra ;NO_TRADE
+wpn_abakan_pso ;NO_TRADE
+wpn_aek971 ;NO_TRADE
+wpn_aek971_1p29 ;NO_TRADE
+wpn_aek971_ekp ;NO_TRADE
+wpn_aek971_kobra ;NO_TRADE
+wpn_aek971_pso ;NO_TRADE
+wpn_ak ;NO_TRADE
+wpn_ak101 ;NO_TRADE
+wpn_ak101_1p29 ;NO_TRADE
+wpn_ak101_ac10632 ;NO_TRADE
+wpn_ak101_ac11090 ;NO_TRADE
+wpn_ak101_acog ;NO_TRADE
+wpn_ak101_c-more ;NO_TRADE
+wpn_ak101_ekp ;NO_TRADE
+wpn_ak101_eot ;NO_TRADE
+wpn_ak101_kobra ;NO_TRADE
+wpn_ak101_pso ;NO_TRADE
+wpn_ak102 ;NO_TRADE
+wpn_ak102_1p29 ;NO_TRADE
+wpn_ak102_ac10632 ;NO_TRADE
+wpn_ak102_ac11090 ;NO_TRADE
+wpn_ak102_acog ;NO_TRADE
+wpn_ak102_c-more ;NO_TRADE
+wpn_ak102_ekp ;NO_TRADE
+wpn_ak102_eot ;NO_TRADE
+wpn_ak102_kobra ;NO_TRADE
+wpn_ak102_pso ;NO_TRADE
+wpn_ak103 ;NO_TRADE
+wpn_ak103_1p29 ;NO_TRADE
+wpn_ak103_ekp ;NO_TRADE
+wpn_ak103_kobra ;NO_TRADE
+wpn_ak103_pso ;NO_TRADE
+wpn_ak104 ;NO_TRADE
+wpn_ak104_1p29 ;NO_TRADE
+wpn_ak104_ekp ;NO_TRADE
+wpn_ak104_kobra ;NO_TRADE
+wpn_ak104_pso ;NO_TRADE
+wpn_ak105 ;NO_TRADE
+wpn_ak105_1p29 ;NO_TRADE
+wpn_ak105_ekp ;NO_TRADE
+wpn_ak105_kobra ;NO_TRADE
+wpn_ak105_pso ;NO_TRADE
+wpn_ak12 ;NO_TRADE
+wpn_ak12_ac10632 ;NO_TRADE
+wpn_ak12_ac11090 ;NO_TRADE
+wpn_ak12_acog ;NO_TRADE
+wpn_ak12_c-more ;NO_TRADE
+wpn_ak12_eot ;NO_TRADE
+wpn_ak74 ;NO_TRADE
+wpn_ak74m ;NO_TRADE
+wpn_ak74m_1p29 ;NO_TRADE
+wpn_ak74m_camo ;NO_TRADE
+wpn_ak74m_ekp ;NO_TRADE
+wpn_ak74m_kobra ;NO_TRADE
+wpn_ak74m_pso ;NO_TRADE
+wpn_ak74m_sk1 ;NO_TRADE
+wpn_ak74m_sk1_1p29 ;NO_TRADE
+wpn_ak74m_sk1_ekp ;NO_TRADE
+wpn_ak74m_sk1_kobra ;NO_TRADE
+wpn_ak74m_sk1_pso ;NO_TRADE
+wpn_ak74m_sk2 ;NO_TRADE
+wpn_ak74m_sk2_1p29 ;NO_TRADE
+wpn_ak74m_sk2_ekp ;NO_TRADE
+wpn_ak74m_sk2_kobra ;NO_TRADE
+wpn_ak74m_sk2_pso ;NO_TRADE
+wpn_ak74u ;NO_TRADE
+wpn_ak74u_1p29 ;NO_TRADE
+wpn_ak74u_ekp ;NO_TRADE
+wpn_ak74u_kobra ;NO_TRADE
+wpn_ak74u_pso ;NO_TRADE
+wpn_ak74u_sk1 ;NO_TRADE
+wpn_ak74u_sk2 ;NO_TRADE
+wpn_ak74u_sk3 ;NO_TRADE
+wpn_ak74_1p29 ;NO_TRADE
+wpn_ak74_ekp ;NO_TRADE
+wpn_ak74_kobra ;NO_TRADE
+wpn_ak74_pso ;NO_TRADE
+wpn_ak74_sk1 ;NO_TRADE
+wpn_ak74_sk2 ;NO_TRADE
+wpn_ak74_sk3 ;NO_TRADE
+wpn_ak74_up ;NO_TRADE
+wpn_ak74_up2 ;NO_TRADE
+wpn_akm ;NO_TRADE
+wpn_akms ;NO_TRADE
+wpn_akms_1p29 ;NO_TRADE
+wpn_akms_ekp ;NO_TRADE
+wpn_akms_kobra ;NO_TRADE
+wpn_akms_pso ;NO_TRADE
+wpn_akm_1p29 ;NO_TRADE
+wpn_akm_ekp ;NO_TRADE
+wpn_akm_kobra ;NO_TRADE
+wpn_akm_pso ;NO_TRADE
+wpn_aks ;NO_TRADE
+wpn_aks74 ;NO_TRADE
+wpn_aks74_1p29 ;NO_TRADE
+wpn_aks74_ekp ;NO_TRADE
+wpn_aks74_kobra ;NO_TRADE
+wpn_aks74_pso ;NO_TRADE
+wpn_aug ;NO_TRADE
+wpn_bizon ;NO_TRADE
+wpn_bizon_1p29 ;NO_TRADE
+wpn_bizon_ekp ;NO_TRADE
+wpn_bizon_kobra ;NO_TRADE
+wpn_bizon_pso ;NO_TRADE
+wpn_bm16 ;NO_TRADE
+wpn_bm16_full ;NO_TRADE
+wpn_famas ;NO_TRADE
+wpn_famas_ac10632 ;NO_TRADE
+wpn_famas_ac11090 ;NO_TRADE
+wpn_famas_acog ;NO_TRADE
+wpn_famas_c-more ;NO_TRADE
+wpn_famas_eot ;NO_TRADE
+wpn_fn2000 ;NO_TRADE
+wpn_g3 ;NO_TRADE
+wpn_g36 ;NO_TRADE
+wpn_g36c ;NO_TRADE
+wpn_g36c_ac10632 ;NO_TRADE
+wpn_g36c_ac11090 ;NO_TRADE
+wpn_g36c_acog ;NO_TRADE
+wpn_g36c_c-more ;NO_TRADE
+wpn_g36c_eot ;NO_TRADE
+wpn_g36k ;NO_TRADE
+wpn_g3sg1 ;NO_TRADE
+wpn_g3_ac10632 ;NO_TRADE
+wpn_g3_ac11090 ;NO_TRADE
+wpn_g3_acog ;NO_TRADE
+wpn_g3_c-more ;NO_TRADE
+wpn_g3_eot ;NO_TRADE
+wpn_galil ;NO_TRADE
+wpn_gauss ;NO_TRADE
+wpn_groza ;NO_TRADE
+wpn_groza_po4x34 ;NO_TRADE
+wpn_hk416 ;NO_TRADE
+wpn_hk416_ac10632 ;NO_TRADE
+wpn_hk416_ac11090 ;NO_TRADE
+wpn_hk416_acog ;NO_TRADE
+wpn_hk416_c-more ;NO_TRADE
+wpn_hk416_eot ;NO_TRADE
+wpn_l85 ;NO_TRADE
+wpn_l96 ;NO_TRADE
+wpn_lr300 ;NO_TRADE
+wpn_lr300_ac10632 ;NO_TRADE
+wpn_lr300_ac11090 ;NO_TRADE
+wpn_lr300_acog ;NO_TRADE
+wpn_lr300_c-more ;NO_TRADE
+wpn_lr300_eot ;NO_TRADE
+wpn_m16 ;NO_TRADE
+wpn_m16a2 ;NO_TRADE
+wpn_m16_ac10632 ;NO_TRADE
+wpn_m16_ac11090 ;NO_TRADE
+wpn_m16_acog ;NO_TRADE
+wpn_m16_c-more ;NO_TRADE
+wpn_m16_eot ;NO_TRADE
+wpn_m249 ;NO_TRADE
+wpn_m249_ac10632 ;NO_TRADE
+wpn_m249_ac11090 ;NO_TRADE
+wpn_m249_acog ;NO_TRADE
+wpn_m249_c-more ;NO_TRADE
+wpn_m249_eot ;NO_TRADE
+wpn_m4 ;NO_TRADE
+wpn_m4a1 ;NO_TRADE
+wpn_m4a1_ac10632 ;NO_TRADE
+wpn_m4a1_ac11090 ;NO_TRADE
+wpn_m4a1_acog ;NO_TRADE
+wpn_m4a1_c-more ;NO_TRADE
+wpn_m4a1_eot ;NO_TRADE
+wpn_m4_ac10632 ;NO_TRADE
+wpn_m4_ac11090 ;NO_TRADE
+wpn_m4_acog ;NO_TRADE
+wpn_m4_c-more ;NO_TRADE
+wpn_m4_eot ;NO_TRADE
+wpn_m95 ;NO_TRADE
+wpn_m98b ;NO_TRADE
+wpn_mp133 ;NO_TRADE
+wpn_mp153 ;NO_TRADE
+wpn_mp5 ;NO_TRADE
+wpn_mp5sd ;NO_TRADE
+wpn_mp5sd_ac10632 ;NO_TRADE
+wpn_mp5sd_ac11090 ;NO_TRADE
+wpn_mp5sd_acog ;NO_TRADE
+wpn_mp5sd_c-more ;NO_TRADE
+wpn_mp5sd_eot ;NO_TRADE
+wpn_mp5_ac10632 ;NO_TRADE
+wpn_mp5_ac11090 ;NO_TRADE
+wpn_mp5_acog ;NO_TRADE
+wpn_mp5_c-more ;NO_TRADE
+wpn_mp5_eot ;NO_TRADE
+wpn_p90 ;NO_TRADE
+wpn_p90_ac10632 ;NO_TRADE
+wpn_p90_ac11090 ;NO_TRADE
+wpn_p90_acog ;NO_TRADE
+wpn_p90_c-more ;NO_TRADE
+wpn_p90_eot ;NO_TRADE
+wpn_pkm ;NO_TRADE
+wpn_pp2000 ;NO_TRADE
+wpn_pp2000_ac10632 ;NO_TRADE
+wpn_pp2000_ac11090 ;NO_TRADE
+wpn_pp2000_acog ;NO_TRADE
+wpn_pp2000_c-more ;NO_TRADE
+wpn_pp2000_eot ;NO_TRADE
+wpn_protecta ;NO_TRADE
+wpn_remington870 ;NO_TRADE
+wpn_remington870_ac10632 ;NO_TRADE
+wpn_remington870_ac11090 ;NO_TRADE
+wpn_remington870_c-more ;NO_TRADE
+wpn_remington870_eot ;NO_TRADE
+wpn_rpd ;NO_TRADE
+wpn_rpk ;NO_TRADE
+wpn_rpk74 ;NO_TRADE
+wpn_rpk74_1p29 ;NO_TRADE
+wpn_rpk74_ekp ;NO_TRADE
+wpn_rpk74_kobra ;NO_TRADE
+wpn_rpk74_pso ;NO_TRADE
+wpn_saiga ;NO_TRADE
+wpn_saiga_1p29 ;NO_TRADE
+wpn_saiga_ekp ;NO_TRADE
+wpn_saiga_kobra ;NO_TRADE
+wpn_saiga_pso ;NO_TRADE
+wpn_scar ;NO_TRADE
+wpn_scar_ac10632 ;NO_TRADE
+wpn_scar_ac11090 ;NO_TRADE
+wpn_scar_acog ;NO_TRADE
+wpn_scar_c-more ;NO_TRADE
+wpn_scar_eot ;NO_TRADE
+wpn_sig550 ;NO_TRADE
+wpn_sig550_ac10632 ;NO_TRADE
+wpn_sig550_ac11090 ;NO_TRADE
+wpn_sig550_acog ;NO_TRADE
+wpn_sig550_c-more ;NO_TRADE
+wpn_sig550_eot ;NO_TRADE
+wpn_sig550_luckygun ;NO_TRADE
+wpn_spas12 ;NO_TRADE
+wpn_sr25 ;NO_TRADE
+wpn_sv98 ;NO_TRADE
+wpn_svd ;NO_TRADE
+wpn_svd_1p29 ;NO_TRADE
+wpn_svd_ekp ;NO_TRADE
+wpn_svd_kobra ;NO_TRADE
+wpn_svt40 ;NO_TRADE
+wpn_svu ;NO_TRADE
+wpn_svu_1p29 ;NO_TRADE
+wpn_svu_ekp ;NO_TRADE
+wpn_svu_kobra ;NO_TRADE
+wpn_toz194 ;NO_TRADE
+wpn_toz34 ;NO_TRADE
+wpn_toz34_obrez ;NO_TRADE
+wpn_toz34_obrez_sk1 ;NO_TRADE
+wpn_toz34_sk1 ;NO_TRADE
+wpn_ump45 ;NO_TRADE
+wpn_ump45_ac10632 ;NO_TRADE
+wpn_ump45_ac11090 ;NO_TRADE
+wpn_ump45_acog ;NO_TRADE
+wpn_ump45_c-more ;NO_TRADE
+wpn_ump45_eot ;NO_TRADE
+wpn_val ;NO_TRADE
+wpn_val_1p29 ;NO_TRADE
+wpn_val_9x39scope ;NO_TRADE
+wpn_val_ekp ;NO_TRADE
+wpn_val_kobra ;NO_TRADE
+wpn_vepr ;NO_TRADE
+wpn_vepr_1p29 ;NO_TRADE
+wpn_vepr_ekp ;NO_TRADE
+wpn_vepr_kobra ;NO_TRADE
+wpn_vepr_pso ;NO_TRADE
+wpn_vihr ;NO_TRADE
+wpn_vihr_1p29 ;NO_TRADE
+wpn_vihr_ekp ;NO_TRADE
+wpn_vihr_kobra ;NO_TRADE
+wpn_vintorez ;NO_TRADE
+wpn_vintorez_1p29 ;NO_TRADE
+wpn_vintorez_ekp ;NO_TRADE
+wpn_vintorez_kobra ;NO_TRADE
+wpn_vsk94 ;NO_TRADE
+wpn_vsk94_1p29 ;NO_TRADE
+wpn_vsk94_9x39scope ;NO_TRADE
+wpn_vsk94_ekp ;NO_TRADE
+wpn_vsk94_kobra ;NO_TRADE
+wpn_vssk ;NO_TRADE
+wpn_wa2000 ;NO_TRADE
+wpn_wincheaster1300 ;NO_TRADE
+				
+wpn_aps ;NO_TRADE
+wpn_beretta ;NO_TRADE
+wpn_beretta_sk1 ;NO_TRADE
+wpn_colt1911 ;NO_TRADE
+wpn_colt1911_sk1 ;NO_TRADE
+wpn_colt1911_sk2 ;NO_TRADE
+wpn_colt1911_sk3 ;NO_TRADE
+wpn_colt_kimber ;NO_TRADE
+wpn_cz75 ;NO_TRADE
+wpn_desert_eagle ;NO_TRADE
+wpn_desert_eagle_docter_sight ;NO_TRADE
+wpn_fn57 ;NO_TRADE
+wpn_fnp45 ;NO_TRADE
+wpn_fnx45 ;NO_TRADE
+wpn_fort ;NO_TRADE
+wpn_fort_snag ;NO_TRADE
+wpn_glock ;NO_TRADE
+wpn_gsh18 ;NO_TRADE
+wpn_gsh18_sk1 ;NO_TRADE
+wpn_hpsa ;NO_TRADE
+wpn_hpsa_sk1 ;NO_TRADE
+wpn_mp443 ;NO_TRADE
+wpn_oc33 ;NO_TRADE
+wpn_oc33_sk1 ;NO_TRADE
+wpn_pb ;NO_TRADE
+wpn_pb_sk1 ;NO_TRADE
+wpn_pm ;NO_TRADE
+wpn_pmm ;NO_TRADE
+wpn_pm_sk1 ;NO_TRADE
+wpn_sig220 ;NO_TRADE
+wpn_sig220_sk1 ;NO_TRADE
+wpn_sig220_sk2 ;NO_TRADE
+wpn_tt33 ;NO_TRADE
+wpn_tt33_sk1 ;NO_TRADE
+wpn_walther ;NO_TRADE
+wpn_usp ;NO_TRADE	

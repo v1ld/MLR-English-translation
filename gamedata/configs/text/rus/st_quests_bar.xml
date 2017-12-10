@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON BAR (ROSTOK) MAP
+<	CoC 1.3.11
+<
+<	Modified by: DoctorX
+<	March 17, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- DEFEND TERRITORY FOR DUTY TASK -->
+	<string id="bar_dolg_general_petrenko_stalker_task_1_name">
+		<text>Защитить территорию</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_1_text">
+		<text>Вражеский отряд планирует нападение на одну из точек, подконтрольных «Долгу». Необходимо уничтожить территориальную угрозу.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_1_about">
+		<text>Мне доложили, что на один из наших лагерей готовится нападение. Тебе нужно уничтожить врага до того, как он доберется до точки. Берешься?</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_1_finish">
+		<text>Отлично сработано, молодец!</text>
+	</string>
+
+
+	<!-- CAPTURE TERRITORY FOR DUTY TASK -->
+	<string id="bar_dolg_general_petrenko_stalker_task_2_name">
+		<text>Отвоевать территорию</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_2_text">
+		<text>Необходимо захватить вражескую территорию и вернуть её под контроль «Долга».</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_2_about">
+		<text>Не так давно на одну из наших точек было совершено нападение. Связь с бойцами оборвалась, следовательно лагерь, скорее всего, захватил противник. Тебе потребуется вернуть его под наш контроль. Возьмешься?</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_2_finish">
+		<text>Выполнено? Отличная работа.</text>
+	</string>
+
+
+	<!-- ASSASSINATION FOR DUTY TASK -->
+	<string id="bar_dolg_general_petrenko_stalker_task_3_name">
+		<text>Убить сталкера</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_3_text">
+		<text>Полковник Петренко приказал найти и ликвидировать сталкера.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_3_about">
+		<text>У меня есть список людей, о которых надо, так сказать, позаботиться. Это информаторы, высокоранговые "свободовцы", лидеры вражеских отрядов и просто подонки, положившие немало наших бойцов. Твоя задача - найти и убить одного из них и, при возможности, добыть какую-либо информацию. Берешься?</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_3_finish">
+		<text>Отличная работа, боец! Вот твоя награда:</text>
+	</string>
+
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR GROMOV TASK -->
+	<string id="bar_visitors_stalker_mechanic_task_1_name">
+		<text>Найти %s</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_text">
+		<text>Нужно принести Стволу %s, чтобы техник смог проводить более сложную модернизацию оружия или бронежилета.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_fetch_about">
+		<text>Знаешь, браток, а я ведь на самом деле неплохой техник. И оружие, и броню чинить умею, даже апгрейды какие-никакие делаю!.. Вернее, делал бы, если бы инструменты были нормальные. Да только где ж их здесь возьмешь? Может, поможешь раздобыть какой-нибудь простенький набор, а?</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_fetch_finish">
+		<text>Отлично, чувак!.. Ох, прости, мне нечем тебе заплатить. Но я могу сделать тебе хорошую скидку, лады?</text>
+	</string>
+
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR GROMOV TASK -->
+	<string id="bar_visitors_stalker_mechanic_task_2_name">
+		<text>Найти %s</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_text">
+		<text>Необходимо принести Стволу %s, чтобы техник мог проводить более сложную модернизацию оружия или бронежилета.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_fetch_about">
+		<text>Мне нужны кое-какие инструменты. Тот набор, который ты мне принёс, неплохо со своей задачей справляется, но вот для тонкой работы никуда не годится. Может, поможешь найти более подходящий набор? А тебе за это еще большую скидку организую, м?</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_fetch_finish">
+		<text>Ни ху... Блин, спасибо, братан! Теперь-то я точно разбогатею. Чёрт возьми, я таки стану успешным!.. Если, конечно, и этот шанс не упущу. Но пока я не могу предложить тебе ничего лучше, чем скидка. Извини, приятель.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR GROMOV TASK -->
+	<string id="bar_visitors_stalker_mechanic_task_3_name">
+		<text>Найти %s</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_text">
+		<text>Необходимо принести Стволу %s, чтобы техник мог проводить более сложную модернизацию оружия или бронежилета.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_fetch_about">
+		<text>Братан, с твоими инструментами дела ощутимо пошли вверх, спасибо тебе еще раз. Я теперь почти любой апгрейд сделать могу. Ну, кроме самых глобальных. Но для них нужны профессиональные инструменты, подходящие для калибровки, а их тут хрен знает, где можно достать. Может, поможешь их найти?</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_fetch_finish">
+		<text>Ну братан, ну спасибо тебе! Уж с такими-то инструментами я смогу сделать всё что угодно! Ну, ты это, нужно будет что-то починить или улучшить - обращайся, всё что хочешь сделаю. Я, считай, теперь твой должник.</text>
+	</string>
+
+
+</string_table>

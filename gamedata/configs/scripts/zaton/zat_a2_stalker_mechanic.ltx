@@ -1,0 +1,33 @@
+[logic@zat_a2_stalker_mechanic]
+suitable = {=check_npc_name(zat_a2_stalker_mechanic)}
+prior = 200
+active = animpoint@base
+can_select_weapon = false
+level_spot = mechanic
+
+[animpoint@base]
+cover_name = zat_a2_sc_tech
+reach_distance = 2
+avail_animations = zat_b3_tech_idle
+use_camp = false
+out_restr = zat_a2_sr_noweap
+meet = meet
+combat_ignore_cond = {=actor_enemy =check_enemy_name(actor)} false, true
+combat_ignore_keep_when_attacked = true
+invulnerable = {!actor_enemy} true, false
+gather_items_enabled = false
+help_wounded_enabled = false
+corpse_detection_enabled = false
+
+[meet]
+close_snd_hello = zat_b3_tech_drink_no_more
+close_snd_bye   = nil
+close_anim 		= nil
+close_victim 	= nil
+far_anim 		= nil
+far_victim 		= nil
+close_distance  = 0
+far_distance 	= 0
+use = {=actor_enemy =check_enemy_name(actor)} false, true
+allow_break = false
+meet_on_talking = false

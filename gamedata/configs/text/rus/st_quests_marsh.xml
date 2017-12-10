@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<string_table>
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Spore (Clear Sky Trader) Deliver PDA Task -->
+
+	<!-- DELIVER PDA FOR SPORE TASK -->
+	<string id="mar_base_owl_stalker_trader_task_1_name">
+		<text>Доставить КПК Шустрому в Бар</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_1_text">
+		<text>Дрозд попросил отнести зашифрованный КПК Шустрому в Бар.</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_1_about">
+		<text>Ладно, говоришь работа нужна? Смотри, ты должен доставить этот КПК чуваку, обитающему где-то в Баре "100 рентген". Его зовут Шустрый. Он тебе за это и заплатит. Только постарайся не уронить компьютер в лужу по пути, или еще чего подобного сотворить, ладно?</text>
+	</string>
+	<!-- DESTROY HELICOPTER FOR SPORE TASK -->
+	<string id="mar_base_owl_stalker_trader_task_2_name">
+		<text>Уничтожить военный вертолёт</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_2_text">
+		<text>Спора поручил уничтожить военный вертолет. За выполнение задачи он обещал неплохую скидку.</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_2_about">
+		<text>У меня скоро крыша поедет от этого сраного вертолёта! Вот даже сейчас у меня в ушах шумит, а когда эта херня патрулирует южную границу, она заставляет меня чуть ли не головой о стены биться! Сбей эту грёбанную вертушку, а я тебе за это скидку сделаю. Прошу, чувак, пока я не прикончил кого-нибудь.</text>
+	</string>
+	<!-- ESCORT SCIENTISTS FOR CLEAR SKY TASK -->
+	<string id="mar_base_owl_stalker_trader_task_3_name">
+		<text>Провести учёных</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_3_text">
+		<text>Необходимо провести учёных «Чистого Неба» к определенному месту и обеспечить их безопасность, пока те проводят исследования, а затем привести их обратно в лагерь.</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_3_about">
+		<text>Группе наших учёных нужен опытный проводник. Необходимо провести их до места назначения и обратно целыми и невредимыми. Эти учёные - одни из наших лучших специалистов, поэтому если с ними что-то случится, кхм... тебя здесь невзлюбят, мягко говоря.</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_3_finish">
+		<text>Молодец, сталкер, работу свою ты выполнил. Вот твоя награда:</text>
+	</string>
+
+	<!-- HUNT MUTANTS FOR CLEAR SKY TASK -->
+	<string id="mar_base_stalker_barmen_task_1_name">
+		<text>Уничтожить логово мутантов</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_1_text">
+		<text>В этом месте было обнаружено скопление мутантов, представляющих опасность для местных сталкеров. Необходимо зачистить местность и вернуться к Библиотекарю за наградой.</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_1_about">
+		<text>Ты охотой не увлекаешься? Тут на днях около одной важной для нас точки мутанты устроили логово, и было бы неплохо, если бы кто-то их пострелял. Возьмешься?</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_1_finish">
+		<text>Великолепно! Держи деньги. Теперь на Болотах станет немного спокойнее, спасибо, сталкер.</text>
+	</string>
+	<!-- ASSAULT BANDIT CAMP FOR CLEAR SKY TASK -->
+	<string id="mar_base_stalker_barmen_task_2_name">
+		<text>Уничтожить лагерь бандитов</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_2_text">
+		<text>Необходимо зачистить местность от бандитов, терроризирующих местных сталкеров. Библиотекарь обещал неплохую награду за выполнение этого задания.</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_2_about">
+		<text>У нас большие проблемы с бандитами в этом районе. Эти сволочи житья нам не дают: грабят, обстреливают патрули, захватывают наши лагеря. Они перекрыли большинство безопасных маршрутов через Болота, от них просто необходимо избавиться! Поможешь?</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_2_finish">
+		<text>Чёрт возьми, спасибо! Уж теперь-то они к нам долго не сунутся! Держи свою награду.</text>
+	</string>
+
+	<!-- FIND MUTANT MEAT FOR CLEAR SKY TASK -->
+	<string id="mar_base_stalker_barmen_task_3_name">
+		<text>Охота на дичь</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_3_text">
+		<text>Библиотекарь попросил принести ему %s, чтобы ему было чем кормить бойцов.</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_3_fetch_about">
+		<text>Запасы еды на исходе, а мне же нужно чем-то ребят кормить. Кто-то время от времени приносит мне одну-две туши мутантов, но в последнее время что-то никто не хочет охотиться. Так что, если ты не занят, и тебя интересует эта работа, будь добр, принеси мне %s. Главное, запомни: адреналин, выделяющийся из-за чрезмерного волнения животного, делает мясо жестким. Да и чем меньше крови во время убийства, тем вкуснее мясо. Так что, стреляй осторожнее, ладно?</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_3_fetch_finish">
+		<text>Отлично, а ты таки неплохой охотник! Вот твое вознаграждение:</text>
+	</string>
+
+	<!-- FIND LEVEL 1 TOOLS FOR NOVIKOV TASK -->
+	<string id="mar_base_stalker_tech_task_1_name">
+		<text>Найти %s</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_1_text">
+		<text>Необходимо принести Ксенону %s, чтобы он мог обеспечить более серьёзную модернизацию оружия или бронежилета.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_1_about">
+		<text>В Зоне довольно трудно найти нормальные инструменты, а уж в такой глуши и подавно. Я бы мог чинить и даже улучшать больше снаряжения, будь у меня нормальный набор. Если согласен помочь, скажу что именно мне нужно.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_1_fetch_about">
+		<text>В Зоне довольно трудно найти нормальные инструменты, а уж в такой глуши и подавно. Я бы мог чинить и даже улучшать больше снаряжения, будь у меня нормальный набор. Мне нужен хотя бы набор инструментов для грубой работы. Там должны быть инструменты и масла, необходимые для работы с оружием. Если сможешь принести их мне, я в долгу не останусь.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_1_fetch_finish">
+		<text>Отлично! Спасибо, тебе, мужик. Вот твоя награда:</text>
+	</string>
+	<!-- FIND LEVEL 2 TOOLS FOR NOVIKOV TASK -->
+	<string id="mar_base_stalker_tech_task_2_name">
+		<text>Найти %s</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_text">
+		<text>Необходимо принести Ксенону %s, чтобы он мог обеспечить более серьёзную модернизацию оружия или бронежилета.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_about">
+		<text>Я бы мог делать больше апгрейдов, если бы у меня было достаточно инструментов. Нет, ты принес мне хороший набор, но в нём нет инструментов, необходимых для более глобальных улучшений, мне нужен более полный набор. Поможешь мне еще раз? Деньгами не обижу.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_fetch_about">
+		<text>Я бы мог делать больше апгрейдов, если бы у меня было достаточно инструментов. Нет, ты принес мне хороший набор, но в нём нет инструментов, необходимых для более глобальных улучшений, мне нужен более полный набор. Поможешь мне еще раз? Деньгами не обижу. Мне нужен набор инструментов для тонкой работы. В нём должны быть все инструменты, что мне понадобятся.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_fetch_finish">
+		<text>Ого, ну спасибо! Ну теперь-то я смогу сделать всё, что угодно! Держи, вот твоя награда:</text>
+	</string>
+	<!-- FIND LEVEL 3 TOOLS FOR NOVIKOV TASK -->
+	<string id="mar_base_stalker_tech_task_3_name">
+		<text>Найти %s</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_3_text">
+		<text>Необходимо принести Ксенону %s, чтобы он мог обеспечить более серьёзную модернизацию оружия или бронежилета.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_3_about">
+		<text>Я бы мог делать больше апгрейдов, если бы у меня было достаточно инструментов. Нет, ты принес мне хороший набор, но в нём нет инструментов, необходимых для более глобальных улучшений, мне нужен более полный набор. Поможешь мне ещё раз? Деньгами не обижу.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_3_fetch_about">
+		<text>Прошлый раз ты принес мне хороший набор, но в нём нет инструментов, необходимых для более глобальных улучшений, мне нужен более полный набор. Поможешь мне ещё раз? Деньгами не обижу. Мне нужен набор инструментов для калибровки. В нём должны быть все инструменты, что мне понадобятся.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_3_fetch_finish">
+		<text>Ого, ну спасибо! Ну теперь-то я смогу сделать всё, что угодно! Держи, вот твоя награда:</text>
+	</string>
+
+	<!-- ESCORT SCIENTISTS DIALOGS -->
+	<string id="ecolog_companion_task_1_start_dialog_1">
+		<text>Вы наш проводник? Я отмечу нужное место на Вашем КПК. Ваша задача - обеспечить нашу безопасность на пути к нему и, после того как мы закончим анализы, провести нас обратно. Награду получите по возвращению в лагерь.</text>
+	</string>
+	<string id="ecolog_companion_task_1_start_dialog_2">
+		<text>Вы что-то хотели? Нам нужно поторапливаться, здесь опасно долго находиться.</text>
+	</string>
+	<string id="ecolog_companion_task_1_complete">
+		<text>Спасибо Вам, сталкер. Вы хорошо поработали, вот Ваша награда.</text>
+	</string>
+	<string id="ecolog_companion_task_1_actor_reply">
+		<text>Спасибо.</text>
+	</string>
+
+<!-- FIND SWAMP DOCTOR -->
+	<string id="mar_doctor_task">
+		<text>Тайна Зоны</text>
+	</string>
+	<string id="mar_doctor_task_0">
+		<text>Вы пришли в Зону с целью разгадать многие её тайны и загадки. Кое-кто может знать ответы на интересующие Вас вопросы.</text>
+	</string>
+	
+	<!-- MARSH DOCTOR STASH IN PRIPYAT -->
+	<string id="cit_doctor_task">
+		<text>Гостиница "Полісся"</text>
+	</string>
+	<string id="cit_doctor_task_1">
+		<text>Ключ и координаты, полученные от Доктора, свидетельствуют о том, что тайник Стрелка находится в одной из комнат гостиницы "Полісся" в Припяти.</text>
+	</string>
+	<string id="cit_doctor_task_2">
+		<text>Вы нашли гостиницу, о которой говорил Доктор. Где-то здесь должна быть комната с таким же номером, что выгравирован на ключе.</text>
+	</string>
+	<string id="cit_doctor_task_3">
+		<text>В комнате не оказалось ничего, кроме пары предметов, оставленных здесь Стрелком. Они должны каким-то образом дать подсказку для дальнейших действий.</text>
+	</string>
+
+	<!-- MARSH DOCTOR VISIT LABS -->
+	<string id="st_main_1_search_agr_ug_name">
+		<text>Исследовать подземелья Агропрома</text>
+	</string>
+	<string id="st_main_1_search_agr_ug_text">
+		<text>Неоходимо посетить подземелья Агропрома, поскольку там может находиться ключ к разгадке тайны Зоны.</text>
+	</string>
+	<string id="st_main_2_search_labx18_name">
+		<text>Исследовать лабораторию Х-18</text>
+	</string>
+	<string id="st_main_2_search_labx18_text">
+		<text>Неоходимо посетить лабораторию Х-18, поскольку там может находиться ключ к разгадке тайны Зоны.</text>
+	</string>
+	<string id="st_main_3_search_labx16_name">
+		<text>Исследовать лабораторию Х-16</text>
+	</string>
+	<string id="st_main_3_search_labx16_text">
+		<text>Неоходимо посетить лабораторию Х-16, поскольку там может находиться ключ к разгадке тайны Зоны.</text>
+	</string>
+	<string id="st_main_4_search_labx10_name">
+		<text>Исследовать лабораторию Х-10</text>
+	</string>
+	<string id="st_main_4_search_labx10_text">
+		<text>Неоходимо посетить лабораторию Х-10, поскольку там может находиться ключ к разгадке тайны Зоны.</text>
+	</string>
+	<string id="st_main_5_search_labx8_name">
+		<text>Исследовать лабораторию Х-8</text>
+	</string>
+	<string id="st_main_5_search_labx8_text">
+		<text>Неоходимо посетить лабораторию Х-8, поскольку там может находиться ключ к разгадке тайны Зоны.</text>
+	</string>
+	<string id="st_main_6_search_jup_ug_name">
+		<text>Исследовать подземелья «Юпитера»</text>
+	</string>
+	<string id="st_main_6_search_jup_ug_text">
+		<text>Неоходимо посетить подземелья «Юпитера», поскольку там может находиться ключ к разгадке тайны Зоны.</text>
+	</string>
+	<string id="st_main_7_search_mon_con_name">
+		<text>Исследовать Саркофаг</text>
+	</string>
+	<string id="st_main_7_search_mon_con_text">
+		<text>Неоходимо посетить Саркофаг ЧАЭС, поскольку там может находиться ключ к разгадке тайны Зоны.</text>
+	</string>
+	</string_table>

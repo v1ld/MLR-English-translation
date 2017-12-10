@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<!-- ESCORT ECOGS TASK -->
+	<string id="yan_ecolog_semenov_task_1_name">
+		<text>Помочь профессору Семёнову</text>
+	</string>
+	<string id="yan_ecolog_semenov_task_1_text">
+		<text>Нужно проводить профессора Семёнова по окрестностям, отыскать и убить несколько мутантов, чтобы учёный мог взять свежие образцы ткани и просканировать тела.</text>
+	</string>
+	<string id="yan_ecolog_semenov_task_1_about">
+		<text>Вы не могли бы помочь мне отыскать пару мутантов для исследований? Скажем... пять разных особей. Ну и, естественно, обеспечить мне безопасность во время проведения замеров. Я заплачу Вам за Вашу работу.</text>
+	</string>
+	<string id="yan_ecolog_semenov_task_1_finish">
+		<text>Спасибо за помощь, сталкер. Я собрал все данные, которые мне нужны. Вот Ваша награда... Заходите еще в нашу лабораторию.</text>
+	</string>
+
+
+	<!-- FIND MUTANT PARTS FOR ECOGS TASK -->
+	<string id="yan_stalker_sakharov_task_1_name">
+		<text>Принести часть тела монстра: %s</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_text">
+		<text>Профессор Сахаров попросил достать для него образцы тканей определённого мутанта.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_fetch_about">
+		<text>Мне требуются некоторые образцы для исследований, а именно... %s. Не важно, где Вы их достанете; главное, чтобы они были как можно свежее. Возвращайтесь в лабораторию как можно быстрее, после того как соберете всё, что мне нужно. Вы согласны?</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_fetch_finish">
+		<text>Благодарю Вас, молодой человек. Я немедленно приступаю к исследованиям.</text>
+	</string>
+
+
+	<!-- WAIT FOR PSI HELMET CALIBRATION TASK -->
+	<string id="yan_stalker_sakharov_psi_helmet_upgrade_name">
+		<text>Забрать пси-шлем</text>
+	</string>
+	<string id="yan_stalker_sakharov_psi_helmet_upgrade_text">
+		<text>Профессор Сахаров согласился настроить пси-шлем. Он попросил вернуться за ним через несколько дней.</text>
+	</string>
+
+
+	<!-- TURN OFF MIRACLE MACHINE TASK -->
+	<string id="brain_machine_deactivate_name">
+		<text>Отключить пси-установку на Янтаре</text>
+	</string>
+	<string id="brain_machine_deactivate_text">
+		<text>Мощная пси-установка на Янтаре перекрывает сталкерам пути через Янтарь и Мёртвый город. Чтобы её отключить, понадобится хорошая пси-защита.</text>
+	</string>
+
+
+</string_table>

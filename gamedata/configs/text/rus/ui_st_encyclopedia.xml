@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<!-- PDA -->
+	<string id="pda_btn_encyclopedia">
+		<text>Энциклопедия</text>
+	</string>
+	
+	<string id="pda_btn_encyclopedia_hint">
+		<text>Показать энциклопедию Зоны</text>
+	</string>
+	
+	<string id="pda_btn_encyclopedia_title">
+		<text>Энциклопедия Зоны</text>
+	</string>
+	
+	<string id="pda_btn_encyclopedia_notify">
+		<text>Открыта новая статья энциклопедии.</text>
+	</string>
+	
+	<string id="pda_btn_encyclopedia_locked">
+		<text>
+			Вы еще не открыли эту статью.\n
+			\nСтатьи могут открываться с помощью следующего:\n
+			\n• использование найденных флеш-дисков.
+		</text>
+	</string>
+	
+</string_table>

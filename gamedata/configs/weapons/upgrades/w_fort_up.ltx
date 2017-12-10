@@ -1,0 +1,364 @@
+[up_sect_firsta_fort]
+cost                                               = 250
+rpm                                                = +20
+value                                              = +10
+
+[up_sect_firstc_fort]
+bullet_speed                                       = +67
+cost                                               = 500
+fire_dispersion_base                               = -0.01
+value                                              = +20
+
+[up_sect_firstd_fort]
+cam_dispersion                                     = -0.3
+cam_dispersion_inc                                 = -0.3
+cam_step_angle_horz                                = -0.35
+cost                                               = 500
+value                                              = -20
+
+[up_sect_firste_fort]
+cost                                               = 750
+fire_dispersion_base                               = -0.05
+value                                              = +30
+
+[up_sect_secona_fort]
+bullet_speed                                       = +33
+cost                                               = 250
+value                                              = +10
+
+[up_sect_seconc_fort]
+cost                                               = 250
+rpm                                                = +30
+value                                              = +15
+
+[up_sect_second_fort]
+condition_queue_shot_dec                           = -0.001
+condition_shot_dec                                 = -0.001
+cost                                               = 500
+fire_dispersion_condition_factor                   = -0.5
+misfire_end_prob                                   = -0.02
+misfire_start_prob                                 = -0.002
+value                                              = +15
+
+[up_sect_thirda_fort]
+cost                                               = 250
+crosshair_inertion                                 = -0.3
+inv_weight                                         = -0.33
+PDM_disp_accel_factor                              = -0.15
+PDM_disp_base                                      = -0.05
+PDM_disp_vel_factor                                = -0.15
+value                                              = -0.33
+
+[up_sect_thirdc_fort]
+cost                                               = 500
+crosshair_inertion                                 = -0.7
+PDM_disp_accel_factor                              = -0.35
+PDM_disp_base                                      = -0.15
+PDM_disp_vel_factor                                = -0.35
+value                                              = +15
+
+[up_sect_thirdd_fort]
+condition_queue_shot_dec                           = -0.001
+condition_shot_dec                                 = -0.001
+cost                                               = 500
+fire_dispersion_condition_factor                   = -0.5
+misfire_end_prob                                   = -0.02
+misfire_start_prob                                 = -0.002
+value                                              = +15
+
+[up_sect_fourta_fort]
+cost                                               = 250
+fire_dispersion_base                               = -0.02
+value                                              = +10
+
+[up_sect_fourtc_fort]
+cost                                               = 500
+fire_dispersion_base                               = -0.04
+value                                              = +20
+
+[up_sect_fiftha_fort]
+ammo_mag_size                                      = +4
+cost                                               = 650
+value                                              = +4
+
+[up_sect_fifthc_fort]
+ammo_class                                         = ammo_9x19_fmj, ammo_9x19_pbp
+bullet_speed                                       = +40
+condition_queue_shot_dec                           = 0.00001
+condition_shot_dec                                 = 0.00001
+cost                                               = 1250
+fire_distance                                      = +150
+misfire_end_prob                                   = 0.008
+misfire_start_prob                                 = 0.0008
+value                                              = "9x19"
+
+[up_firsta_fort]
+description                                        = st_up_zatp_a1_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = on_weapon_upgrade_something_here
+effects                                            = up_gr_firstcd_fort
+icon                                               = ui_inGame2_upgrade_Fora_12_1
+known                                              = 1
+name                                               = st_up_zatp_a1_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_rpm
+scheme_index                                       = 0, 0
+section                                            = up_sect_firsta_fort
+
+[up_firstc_fort]
+description                                        = st_up_zatp_b1_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = up_gr_firstef_fort
+icon                                               = ui_inGame2_upgrade_Fora_12_2
+known                                              = 1
+name                                               = st_up_zatp_b1_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_bullet_speed
+scheme_index                                       = 1, 0
+section                                            = up_sect_firstc_fort
+
+[up_firstd_fort]
+description                                        = st_up_zatp_b2_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = up_gr_firstef_fort
+icon                                               = ui_inGame2_upgrade_Fora_12_3
+known                                              = 1
+name                                               = st_up_zatp_b2_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_recoil
+scheme_index                                       = 1, 1
+section                                            = up_sect_firstd_fort
+
+[up_firste_fort]
+description                                        = st_up_zatp_c3_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = 
+icon                                               = ui_inGame2_upgrade_Fora_12_4
+known                                              = 1
+name                                               = st_up_zatp_c3_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_dispersion
+scheme_index                                       = 2, 0
+section                                            = up_sect_firste_fort
+
+[up_secona_fort]
+description                                        = st_up_barp_a1_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = up_gr_seconcd_fort
+icon                                               = ui_inGame2_upgrade_Fora_12_5
+known                                              = 1
+name                                               = st_up_barp_a1_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_bullet_speed
+scheme_index                                       = 0, 1
+section                                            = up_sect_secona_fort
+
+[up_seconc_fort]
+description                                        = st_up_barp_b3_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = 
+icon                                               = ui_inGame2_upgrade_Fora_12_6
+known                                              = 1
+name                                               = st_up_barp_b3_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_rpm
+scheme_index                                       = 1, 2
+section                                            = up_sect_seconc_fort
+
+[up_second_fort]
+description                                        = st_up_barp_b1_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = 
+icon                                               = ui_inGame2_upgrade_Fora_12_7
+known                                              = 1
+name                                               = st_up_barp_b1_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_reliability
+scheme_index                                       = 1, 3
+section                                            = up_sect_second_fort
+
+[up_thirda_fort]
+description                                        = st_up_stvp_b1_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = up_gr_thirdcd_fort
+icon                                               = ui_inGame2_upgrade_Fora_12_8
+known                                              = 1
+name                                               = st_up_stvp_b1_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_weight
+scheme_index                                       = 0, 2
+section                                            = up_sect_thirda_fort
+
+[up_thirdc_fort]
+description                                        = st_up_stvp_b2_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = 
+icon                                               = ui_inGame2_upgrade_Fora_12_9
+known                                              = 1
+name                                               = st_up_stvp_b2_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_inertion
+scheme_index                                       = 1, 4
+section                                            = up_sect_thirdc_fort
+
+[up_thirdd_fort]
+description                                        = st_up_stvp_b4_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = 
+icon                                               = ui_inGame2_upgrade_Fora_12_10
+known                                              = 1
+name                                               = st_up_stvp_b4_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_reliability
+scheme_index                                       = 1, 5
+section                                            = up_sect_thirdd_fort
+
+[up_fourta_fort]
+description                                        = st_up_usmp_b1_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = up_gr_fourtcd_fort
+icon                                               = ui_inGame2_upgrade_Fora_12_11
+known                                              = 1
+name                                               = st_up_usmp_b1_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_dispersion
+scheme_index                                       = 0, 3
+section                                            = up_sect_fourta_fort
+
+[up_fourtc_fort]
+description                                        = st_up_usmp_b3_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = 
+icon                                               = ui_inGame2_upgrade_Fora_12_12
+known                                              = 1
+name                                               = st_up_usmp_b3_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_dispersion
+scheme_index                                       = 1, 6
+section                                            = up_sect_fourtc_fort
+
+[up_fiftha_fort]
+description                                        = st_up_addd_a1_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = 
+icon                                               = ui_inGame2_upgrade_Fora_12_13
+known                                              = 1
+name                                               = st_up_add_a4_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_ammo_size
+scheme_index                                       = 0, 4
+section                                            = up_sect_fiftha_fort
+
+[up_fifthc_fort]
+description                                        = st_up_add_b4_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = 
+icon                                               = ui_inGame2_upgrade_Fora_12_14
+known                                              = 1
+name                                               = st_up_add_b4_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_calibre
+scheme_index                                       = 1, 7
+section                                            = up_sect_fifthc_fort
+
+[up_gr_firstab_fort]
+elements                                           = up_firsta_fort
+
+[up_gr_firstcd_fort]
+elements                                           = up_firstc_fort, up_firstd_fort
+
+[up_gr_firstef_fort]
+elements                                           = up_firste_fort
+
+[up_gr_seconab_fort]
+elements                                           = up_secona_fort
+
+[up_gr_seconcd_fort]
+elements                                           = up_seconc_fort, up_second_fort
+
+[up_gr_thirdab_fort]
+elements                                           = up_thirda_fort
+
+[up_gr_thirdcd_fort]
+elements                                           = up_thirdc_fort, up_thirdd_fort
+
+[up_gr_fourtab_fort]
+elements                                           = up_fourta_fort
+
+[up_gr_fourtcd_fort]
+elements                                           = up_fourtc_fort
+
+[up_gr_fifthab_fort]
+elements                                           = up_fiftha_fort
+
+[up_gr_fifthcd_fort]
+elements                                           = up_fifthc_fort

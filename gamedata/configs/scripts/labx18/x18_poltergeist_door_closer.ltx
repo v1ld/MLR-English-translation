@@ -1,0 +1,16 @@
+[logic]
+active = sr_idle@check_story
+
+[sr_idle@check_story]
+on_info = {+story_mode_disabled} sr_idle@nil, sr_idle@ready
+
+[sr_idle@ready]
+on_actor_in_zone = dar_close_door_zone | sr_idle@wait_assault %+dar_door3_closed%
+
+[sr_idle@wait_assault]
+on_info = {+dar_door3_free} sr_idle@dream %=x18_gluk%
+
+[sr_idle@dream]
+on_info  = {+dar_x18_dream} sr_idle@nil
+
+[sr_idle@nil]

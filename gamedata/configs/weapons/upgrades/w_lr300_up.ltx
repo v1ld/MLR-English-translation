@@ -1,0 +1,446 @@
+[up_sect_firsta_lr300]
+cost                                               = 700
+fire_dispersion_condition_factor                   = -0.25
+misfire_end_prob                                   = -0.012
+misfire_start_prob                                 = -0.0007
+value                                              = +10
+
+[up_sect_firstc_lr300]
+bullet_speed                                       = +182
+cost                                               = 1050
+fire_dispersion_base                               = -0.02
+value                                              = +20
+
+[up_sect_firstd_lr300]
+cost                                               = 1050
+rpm                                                = 142
+value                                              = +15
+
+[up_sect_firste_lr300]
+condition_queue_shot_dec                           = -0.0003
+condition_shot_dec                                 = -0.0003
+cost                                               = 1300
+fire_dispersion_condition_factor                   = -0.5
+misfire_end_prob                                   = -0.025
+misfire_start_prob                                 = -0.0025
+value                                              = +30
+
+[up_sect_secona_lr300]
+cam_dispersion                                     = -0.07
+cam_dispersion_inc                                 = -0.05
+cam_step_angle_horz                                = -0.8
+cost                                               = 700
+value                                              = -10
+zoom_cam_dispersion                                = -0.05
+zoom_cam_dispersion_inc                            = -0.03
+zoom_cam_step_angle_horz                           = -0.5
+
+[up_sect_seconc_lr300]
+condition_queue_shot_dec                           = -0.0002
+condition_shot_dec                                 = -0.0002
+cost                                               = 1050
+fire_dispersion_condition_factor                   = -0.25
+misfire_end_prob                                   = -0.018
+misfire_start_prob                                 = -0.0015
+value                                              = +15
+
+[up_sect_secone_lr300]
+cam_dispersion                                     = -0.12
+cam_dispersion_inc                                 = -0.06
+cam_step_angle_horz                                = -1.3
+cost                                               = 1300
+value                                              = -30
+zoom_cam_dispersion                                = -0.14
+zoom_cam_dispersion_inc                            = -0.05
+zoom_cam_step_angle_horz                           = -0.9
+
+[up_sect_seconf_lr300]
+cost                                               = 1300
+fire_dispersion_base                               = -0.07
+fire_dispersion_condition_factor                   = -0.25
+value                                              = +30
+
+[up_sect_thirda_lr300]
+cost                                               = 700
+crosshair_inertion                                 = -0.5
+PDM_disp_accel_factor                              = -0.25
+PDM_disp_base                                      = -0.05
+PDM_disp_vel_factor                                = -0.25
+value                                              = +10
+
+[up_sect_thirdc_lr300]
+cost                                               = 1050
+fire_dispersion_base                               = -0.05
+fire_dispersion_condition_factor                   = -0.25
+value                                              = +20
+
+[up_sect_thirdd_lr300]
+cost                                               = 1050
+rpm                                                = +142
+value                                              = +15
+
+[up_sect_thirde_lr300]
+cost                                               = 1300
+rpm                                                = +237
+value                                              = +25
+
+[up_sect_fourta_lr300]
+cost                                               = 700
+inv_weight                                         = -0.7
+value                                              = -0.7
+
+[up_sect_fourtc_lr300]
+cost                                               = 1050
+crosshair_inertion                                 = -0.75
+PDM_disp_accel_factor                              = -0.35
+PDM_disp_base                                      = -0.1
+PDM_disp_vel_factor                                = -0.35
+value                                              = +15
+
+[up_sect_fourte_lr300]
+cost                                               = 1050
+crosshair_inertion                                 = -1.25
+PDM_disp_accel_factor                              = -0.4
+PDM_disp_base                                      = -0.15
+PDM_disp_vel_factor                                = -0.4
+value                                              = +25
+
+[up_sect_fourtf_lr300]
+bullet_speed                                       = +273
+cost                                               = 1300
+fire_dispersion_base                               = -0.03
+value                                              = +30
+
+[up_sect_fiftha_lr300]
+ammo_mag_size                                      = +10
+cost                                               = 1200
+value                                              = +10
+
+[up_firsta_lr300]
+description                                        = st_up_zat_a1_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = on_weapon_upgrade_something_here
+effects                                            = up_gr_firstcd_lr300
+icon                                               = ui_inGame2_upgrade_TRs_301_1
+known                                              = 1
+name                                               = st_up_zat_a1_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_reliability
+scheme_index                                       = 0, 0
+section                                            = up_sect_firsta_lr300
+
+[up_firstc_lr300]
+description                                        = st_up_zat_b5_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = up_gr_firstef_lr300
+icon                                               = ui_inGame2_upgrade_TRs_301_2
+known                                              = 1
+name                                               = st_up_zat_b5_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_bullet_speed
+scheme_index                                       = 1, 0
+section                                            = up_sect_firstc_lr300
+
+[up_firstd_lr300]
+description                                        = st_up_zat_b6_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = up_gr_firstef_lr300
+icon                                               = ui_inGame2_upgrade_TRs_301_3
+known                                              = 1
+name                                               = st_up_zat_b6_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_rpm
+scheme_index                                       = 1, 1
+section                                            = up_sect_firstd_lr300
+
+[up_firste_lr300]
+description                                        = st_up_zat_c2_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = 
+icon                                               = ui_inGame2_upgrade_TRs_301_4
+known                                              = 1
+name                                               = st_up_zat_c2_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_reliability
+scheme_index                                       = 2, 0
+section                                            = up_sect_firste_lr300
+
+[up_secona_lr300]
+description                                        = st_up_auto_a1_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = up_gr_seconcd_lr300
+icon                                               = ui_inGame2_upgrade_TRs_301_5
+known                                              = 1
+name                                               = st_up_auto_a1_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_recoil
+scheme_index                                       = 0, 1
+section                                            = up_sect_secona_lr300
+
+[up_seconc_lr300]
+description                                        = st_up_auto_b1_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = up_gr_seconef_lr300
+icon                                               = ui_inGame2_upgrade_TRs_301_6
+known                                              = 1
+name                                               = st_up_auto_b1_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_reliability
+scheme_index                                       = 1, 2
+section                                            = up_sect_seconc_lr300
+
+[up_secone_lr300]
+description                                        = st_up_auto_c1_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = 
+icon                                               = ui_inGame2_upgrade_TRs_301_7
+known                                              = 1
+name                                               = st_up_auto_c1_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_recoil
+scheme_index                                       = 2, 1
+section                                            = up_sect_secone_lr300
+
+[up_seconf_lr300]
+description                                        = st_up_auto_c5_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here_h
+effects                                            = 
+icon                                               = ui_inGame2_upgrade_TRs_301_8
+known                                              = 1
+name                                               = st_up_auto_c5_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_dispersion
+scheme_index                                       = 2, 2
+section                                            = up_sect_seconf_lr300
+
+[up_thirda_lr300]
+description                                        = st_up_ret_a2_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = up_gr_thirdcd_lr300
+icon                                               = ui_inGame2_upgrade_TRs_301_9
+known                                              = 1
+name                                               = st_up_ret_a2_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_inertion
+scheme_index                                       = 0, 2
+section                                            = up_sect_thirda_lr300
+
+[up_thirdc_lr300]
+description                                        = st_up_ret_b3_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = up_gr_thirdef_lr300
+icon                                               = ui_inGame2_upgrade_TRs_301_10
+known                                              = 1
+name                                               = st_up_ret_b3_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_dispersion
+scheme_index                                       = 1, 3
+section                                            = up_sect_thirdc_lr300
+
+[up_thirdd_lr300]
+description                                        = st_up_ret_b2_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = up_gr_thirdef_lr300
+icon                                               = ui_inGame2_upgrade_TRs_301_11
+known                                              = 1
+name                                               = st_up_ret_b2_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_rpm
+scheme_index                                       = 1, 4
+section                                            = up_sect_thirdd_lr300
+
+[up_thirde_lr300]
+description                                        = st_up_ret_c3_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = 
+icon                                               = ui_inGame2_upgrade_TRs_301_12
+known                                              = 1
+name                                               = st_up_ret_c3_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_rpm
+scheme_index                                       = 2, 3
+section                                            = up_sect_thirde_lr300
+
+[up_fourta_lr300]
+description                                        = st_up_stk_a1_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = up_gr_fourtcd_lr300
+icon                                               = ui_inGame2_upgrade_TRs_301_13
+known                                              = 1
+name                                               = st_up_stk_a1_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_weight
+scheme_index                                       = 0, 3
+section                                            = up_sect_fourta_lr300
+
+[up_fourtc_lr300]
+description                                        = st_up_stk_b2_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = up_gr_fourtef_lr300
+icon                                               = ui_inGame2_upgrade_TRs_301_14
+known                                              = 1
+known                                              = 1
+name                                               = st_up_stk_b2_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_inertion
+scheme_index                                       = 1, 5
+section                                            = up_sect_fourtc_lr300
+
+[up_fourte_lr300]
+description                                        = st_up_stk_c3_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = 
+icon                                               = ui_inGame2_upgrade_TRs_301_15
+known                                              = 1
+name                                               = st_up_stk_c3_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_inertion
+scheme_index                                       = 2, 4
+section                                            = up_sect_fourte_lr300
+
+[up_fourtf_lr300]
+description                                        = st_up_stk_c2_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = 
+icon                                               = ui_inGame2_upgrade_TRs_301_16
+known                                              = 1
+name                                               = st_up_stk_c2_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_bullet_speed
+scheme_index                                       = 2, 5
+section                                            = up_sect_fourtf_lr300
+
+[up_fiftha_lr300]
+description                                        = st_up_add_a4_descr
+effect_functor                                     = inventory_upgrades.effect_functor_a
+effect_parameter                                   = something_here
+effects                                            = 
+icon                                               = ui_inGame2_upgrade_TRs_301_17
+known                                              = 1
+name                                               = st_up_add_a4_name
+precondition_functor                               = inventory_upgrades.precondition_functor_a
+precondition_parameter                             = a & b
+prereq_functor                                     = inventory_upgrades.prereq_functor_a
+prereq_params                                      = 
+prereq_tooltip_functor                             = inventory_upgrades.prereq_tooltip_functor_a
+property                                           = prop_ammo_size
+scheme_index                                       = 0, 4
+section                                            = up_sect_fiftha_lr300
+
+[up_gr_firstab_lr300]
+elements                                           = up_firsta_lr300
+
+[up_gr_firstcd_lr300]
+elements                                           = up_firstc_lr300, up_firstd_lr300
+
+[up_gr_firstef_lr300]
+elements                                           = up_firste_lr300
+
+[up_gr_seconab_lr300]
+elements                                           = up_secona_lr300
+
+[up_gr_seconcd_lr300]
+elements                                           = up_seconc_lr300
+
+[up_gr_seconef_lr300]
+elements                                           = up_secone_lr300, up_seconf_lr300,
+
+[up_gr_thirdab_lr300]
+elements                                           = up_thirda_lr300
+
+[up_gr_thirdcd_lr300]
+elements                                           = up_thirdc_lr300, up_thirdd_lr300
+
+[up_gr_thirdef_lr300]
+elements                                           = up_thirde_lr300
+
+[up_gr_fourtab_lr300]
+elements                                           = up_fourta_lr300
+
+[up_gr_fourtcd_lr300]
+elements                                           = up_fourtc_lr300
+
+[up_gr_fourtef_lr300]
+elements                                           = up_fourte_lr300, up_fourtf_lr300
+
+[up_gr_fifthab_lr300]
+elements                                           = up_fiftha_lr300

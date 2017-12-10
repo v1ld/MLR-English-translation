@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON DEAD CITY MAP
+<	CoC 1.3.11
+<
+<	Modified by: DoctorX
+<	March 18, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- ASSASSINATION FOR MERCS TASK -->
+	<string id="cit_killers_merc_trader_stalker_task_1_name">
+		<text>Убить сталкера</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_1_text">
+		<text>Необходимо найти и ликвидировать определённую цель.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_1_about">
+		<text>Наш наниматель на днях предоставил новый список заказов, и кому-то нужно всё это разгребать. Сейчас времена тяжелые - бойцов мало, заданий много, а работу-то делать надо. Мы ведь не хотим потерять к себе доверие заказчиков, правильно? В общем, твоя задача - найти и замочить одного типа, не важно кто он. Если интересует, скину детали на твой КПК.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_1_finish">
+		<text>Сделано? Отлично. Вот твоя доля:</text>
+	</string>
+
+
+	<!-- ASSAULT TERRITORY FOR MERCS TASK -->
+	<string id="cit_killers_merc_trader_stalker_task_2_name">
+		<text>Зачистить лагерь</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_2_text">
+		<text>Необходимо зачистить территорию от враждебных элементов.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_2_about">
+		<text>Есть одна. Нужно взять под контроль определенную точку и пришить всех, кого там встретишь. Интересует?</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_2_finish">
+		<text>Отличная работа, вот твоя доля:</text>
+	</string>
+
+
+	<!-- FIND LEVEL 1 TOOLS FOR HOG TASK -->
+	<string id="cit_killers_merc_mechanic_stalker_task_1_name">
+		<text>Найти %s</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_text">
+		<text>Необходимо достать %s и отнести их Хогу. Техник заплатит за инструмент и, кроме того, сможет обеспечить более сложную модернизацию оружия или бронежилета.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_fetch_about">
+		<text>Есть предложение. Мне тут нужны кое-какие инструменты, а именно %s. Сможешь принести - получишь награду. Идёт?</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_fetch_finish">
+		<text>Неплохо! Именно то, что я искал.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 2 TOOLS FOR HOG TASK -->
+	<string id="cit_killers_merc_mechanic_stalker_task_2_name">
+		<text>Найти %s</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_text">
+		<text>Хог попросил достать ему %s. Механик заплатит за инструмент и, кроме того, сможет обеспечить более сложную модернизацию оружия или бронежилета.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_fetch_about">
+		<text>Есть еще одно предложение. Тот ремнабор, который ты мне принёс, справляется со своей задачей вполне неплохо, но в нем есть не всё, что мне нужно. Мне не хватает инструментов для тонкой работы. Не знаю где их тут можно достать, но если найдешь - тащи.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_fetch_finish">
+		<text>Спасибо, вот твоя награда:</text>
+	</string>
+
+
+	<!-- FIND LEVEL 3 TOOLS FOR HOG TASK -->
+	<string id="cit_killers_merc_mechanic_stalker_task_3_name">
+		<text>Найти %s</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_text">
+		<text>Необходимо достать %s и отнести их Хогу. Техник заплатит за инструмент и, кроме того, сможет обеспечить более сложную модернизацию оружия или бронежилета.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_fetch_about">
+		<text>Есть. Нужно достать инструменты для калибровки. В моём наборе их не нашлось, а прочесывать весь Город в их поисках у меня сейчас нет никакого желания. Поможешь?</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_fetch_finish">
+		<text>Спасибо. Теперь у меня есть всё, что мне нужно.</text>
+	</string>
+
+
+</string_table>
