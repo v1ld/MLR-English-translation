@@ -1,0 +1,1207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+  <string id="dm_dialog_add_trade">
+    <text>I heard you can do business with me. What about trade?</text>
+  </string>
+  <string id="dm_dialog_add_repair">
+    <text>There are rumors that you're a jack of all trades. Can you fix something?</text>
+  </string>
+  <string id="dm_dialog_character_history">
+    <text>Tell me about yourself.</text>
+  </string>
+  <!-- General -->
+  <string id="actor_break_dialog_0">
+    <text>See you soon.</text>
+  </string>
+  <string id="actor_break_dialog_1">
+    <text>See you!</text>
+  </string>
+  <string id="actor_break_dialog_2">
+    <text>So far.</text>
+  </string>
+  <string id="actor_break_dialog_3">
+    <text>Be!</text>
+  </string>
+  <!-- Wish Granter -->
+  <string id="st_wish_1">
+    <text>I want the Zone to disappear!</text>
+  </string>
+  <string id="st_wish_2">
+    <text>People are evil and petty, fix it!</text>
+  </string>
+  <string id="st_wish_3">
+    <text>I want peace in the whole world!</text>
+  </string>
+  <string id="st_wish_4">
+    <text>Give me all the riches of the Zone!</text>
+  </string>
+  <string id="st_wish_5">
+    <text>Give me immortality!</text>
+  </string>
+  <string id="st_wish_99">
+    <text>[Do not wish anything]</text>
+  </string>
+  <!-- About Quests Bandit -->
+  <string id="about_quests_dialog_bandit_0">
+    <text>Tell me about one thing ...</text>
+  </string>
+  <string id="about_quests_dialog_bandit_1">
+    <text>About what ?</text>
+  </string>
+  <string id="about_quests_dialog_bandit_10">
+    <text>What do you think about Shustrogo?</text>
+  </string>
+  <string id="about_quests_dialog_bandit_101">
+    <text>About the Suspy? I, in short, think so, somehow we'll meet him in a quiet place and shake this bitch.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_11">
+    <text>What did you hear about the Oasis?</text>
+  </string>
+  <string id="about_quests_dialog_bandit_111">
+    <text>Õ-õû-û! I, in short, have heard such Hochma - finally can not die! In short, somehow, on the Garbage yet, the demon boys drove: pushed the address of the Oasis with the theme, such as a full bum. Well, they dabbled there on the well with the code. Well, Che say those... there, in short, from the cormorants of the runoff shot, Sho boys for tomorrow bluntly from the Zone piled! For the rest of his life, everyone will have enough. One of the current patchanchik stayed here - he was driven by Yoga.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_112">
+    <text>Che, in short, I heard, so it's like there any illnesses pass. I so sec, useful, blah, a thing: and gemora on a life any, from bodun or overdose there bashka does not crack... More shortly, you put there a hotel - and paddle paddle with a shovel!</text>
+  </string>
+  <string id="about_quests_dialog_bandit_113">
+    <text>Why should I listen to him? That fraeric carts, not a topic for normal boys. You yourself check it out: you sit, in short, at the bar, you eat a whitish, and over your head the stalkers scream like cut ones - they decide where the Oasis is. And, in any way, every tooth gives, that really knows where to look for it. And the places on the move are all different!</text>
+  </string>
+  <string id="about_quests_dialog_bandit_12">
+    <text>Did not meet a stalker named Soroka?</text>
+  </string>
+  <string id="about_quests_dialog_bandit_121">
+    <text>And Che, saw this... There in any way it was clear - that's another fraer. Yes, and stalker, it became a language to slam, like he had leaned altogether. That's where he is right now - I do not know, uncle, look for him yourself.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_122">
+    <text>Not... Actually, on the first such a chase I hear.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_13">
+    <text>Do not know who could steal things from the personal box?</text>
+  </string>
+  <string id="about_quests_dialog_bandit_131">
+    <text>Clearly, who - some kind of a rat! .. You, in short, those who are on the "Yanova" in respect. They drop a rat - the very thing, thank you for the tip-off will say.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_14">
+    <text>Who here understands the decryption?</text>
+  </string>
+  <string id="about_quests_dialog_bandit_141">
+    <text>There is such a maze that Azot, which is on "Janov". It seems that he did not hit the "Debt" then, so the troopers of the CCP broke a couple of times to the familiar friends. Only this lafa is already tju-tju, all.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_143">
+    <text>Hey, uncle, this is something very thin. You need a specialist, a real hacker. To me the sidekick has pushed once a subject: type, he shook time with one such. Himself, he soon reclined, and then another five years left to trample. In short, there are such zones in the zones, only here the Zone is not the same.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_15">
+    <text>I have a PDA "debtor" -bury. Who can he be interested in?</text>
+  </string>
+  <string id="about_quests_dialog_bandit_151">
+    <text>In short, there is a huckster on Skadovsk, Sych klikuha. Sometimes a normal butterfly throws himself for all sorts of crap, so he steals the stalkers' PDA several times. A real man, he does not ask unnecessary questions ... in short, you talk to him.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_152">
+    <text>And their own, and others, and left someone... Scale yourself: their reptiles are being blown out, others - kipish will raise, and Sych on Zaton has such a PDA as in the water, like never was. And where it will come up - about that one Owl in the courses. Well, in short, you decide.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_16">
+    <text>Where in the vicinity can I find tools?</text>
+  </string>
+  <string id="about_quests_dialog_bandit_165">
+    <text>I, in short, my uncle, I think so. If to you surgical - that cheshi give in the nearest hospital, he-he... If it is necessary building - at "Jupiter", near a career, ïîøàðü. But what if you... like them, damn it? Oh, blah, locksmith! .. So if you need such, it's already in the old workshops pozyry.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_166">
+    <text>And without the concept. At me with such types of deer and without tools it is good to rub rubbish, gy-s! .. Yes you not, I am driving.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_17">
+    <text>Who can unlock the memory module?</text>
+  </string>
+  <string id="about_quests_dialog_bandit_171">
+    <text>That's you went well! I, damn, every day, tons of these modules I break! .. Man, well, you Che, blind? I to you chyo, a soldering iron ?! Cheshy out to the artisans or to these... scholars. Why should I brains?</text>
+  </string>
+  <string id="about_quests_dialog_bandit_172">
+    <text>I'll tell you so: I actually saw a floppy disk last time in my VTU. To the specialists, stamp, grab for the eggs, and I tell you what?</text>
+  </string>
+  <string id="about_quests_dialog_bandit_18">
+    <text>Who could break a steel container?</text>
+  </string>
+  <string id="about_quests_dialog_bandit_181">
+    <text>Here, in short, recently they were rubbing for one kid, whom else Cardan was drunk on a barge over a whole barge driving. Fomka was real. I think so, if you make a deal with Cardan, he'll work for you as a bear cub.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_182">
+    <text>Yes, damn, with glands and I can! But only you remember: who in the Zone with them will drag? Unless a techie crazy. Such poshakay, man, let them work for you.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_19">
+    <text>I'm looking for a stalker named Koryag. Do you know where it can be found?</text>
+  </string>
+  <string id="about_quests_dialog_bandit_191">
+    <text>And the horse-radish knows it... You won Sultan on the Skadovsk hitch. The foreman is usually in courses, where a french goes.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_193">
+    <text>×¸, I heard for such fraerka... He shchas like on Zaton in the ordinary walks, so sho here it or him to search - in any way without ointment.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_2">
+    <text>Do you know anything about the fallen helicopters?</text>
+  </string>
+  <string id="about_quests_dialog_bandit_20">
+    <text>Who would be interested in information about the founder of "Debt"?</text>
+  </string>
+  <string id="about_quests_dialog_bandit_201">
+    <text>Figgasse! Yes, definitely - all! Such a bomb, you Th! .. This current... if you are reluctant to raise kipish, throw it away in a quiet Sych on Skadovsk. And get the butterflies, and you will not make enemies. And I am the grave!</text>
+  </string>
+  <string id="about_quests_dialog_bandit_22">
+    <text>No, well, you yourself help: on the left - "Debt", on the right - "Freedom", to the ass stalkers get attached, but I still follow the sky!</text>
+  </string>
+  <string id="about_quests_dialog_bandit_23">
+    <text>The boys said one in the Iron Forest on the wires swayed, like the cat that is on the chain around... Current there is still looking for nothing but adventure on the ass. If the discharge does not turn out well, the poltergeist will break the skull.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_24">
+    <text>The boys say, they saw... He flew, like, on a scythe, as if she were driving in it drunk. Well, in short, flew like that, flew, well, and shmyaknilsya on the plateau, where there is no way.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_26">
+    <text>I, in short, moved, sho type one turntable into the swamp of the village. The current in the swamp did not go away: there is such a topic - she was hooked for the island. Alive, I think there's no one in there: Vodichka in that swamp is worse than shit, which fields from beetles sprinkle.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_3">
+    <text>Did not see the military nearby?</text>
+  </string>
+  <string id="about_quests_dialog_bandit_30">
+    <text>Who might be interested in maps of the area between Zaton and Jupiter?</text>
+  </string>
+  <string id="about_quests_dialog_bandit_301">
+    <text>Yes, I think so, here is the Pilot with interest. There is a type in those parts of the same Ivan Susanin... Compass he already has, and you give him more cards - he finally becomes crazy with joy.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_31">
+    <text>Sidekids were beating, like a military, a whole codeline was pierced from the south straight towards the mercenary camp. Well, the boys themselves figured, sho right now, the olives will fly, and piled out from there quietly.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_32">
+    <text>I heard a topic, such as right in the swamp, the soldiers were spinning near their turntables, some heavy drawers. From screaming, right? You can estimate the picture: five soldiers are up to their ears in the swamp, or they jump along the bumps... I give a tooth, a hundred poods of local chemistry.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_33">
+    <text>It was the case, a little patchchik rub... Type it was he is for a stalker, divorce the one on the harbor, and then - both-on! - shooting. He, in short, looked closely, and there the military with mercenaries heat one another give. Well, the little guy has fallen from sin, but while waiting for the disassembly, the stalker has already made his legs. From such an ambush!</text>
+  </string>
+  <string id="about_quests_dialog_bandit_34">
+    <text>Bratello said: in short, this barge, which with a mill on the roof, next to Noah's hands waving, snyaga carries something, and a dozen warriors from the dog Noevskaya friend of a friend under the skirts are hiding. The kid pierced this business, the current close to this booth, he still did not go up.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_35">
+    <text>No-e. Here the places are nerve-wracking, shtympov with heaped trunks - tuyev hucha. And I'm hovering, which of them is a military man, and who is a "doltz" on the job.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_4">
+    <text>Do not know how to get to Pripyat?</text>
+  </string>
+  <string id="about_quests_dialog_bandit_40">
+    <text>Who can be hired to protect scientists?</text>
+  </string>
+  <string id="about_quests_dialog_bandit_403">
+    <text>Gee-s! Yes, here I am to you - and my boys! We organize such a roof, you rock: the monster does not fit, the stalker will not fly! And, in short, the conditions are preferential: you will bashl once a week, well, on the little things there for the holidays.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_41">
+    <text>Legs, uncle, legs. You take them in handles and stamp in the direction of "Jupiter", well, there you will be interested in the answers. You take note: from Zaton to Pripyat there is no direct way - it is proved by science.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_43">
+    <text>Syshish, man, I'm that Th, look like a guide? I have a Che, such as a checkered pencil drawn? You, in short, with such themes to the Pilot roll: he is being roused for the guide's business, not for me.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_44">
+    <text>That is not... but what is there to do? There stalkers no fig!</text>
+  </string>
+  <string id="about_quests_dialog_bandit_5">
+    <text>Can you tell someone who is ready to break through to Pripyat?</text>
+  </string>
+  <string id="about_quests_dialog_bandit_51">
+    <text>That's it... no-e, there's nothing for the real kid to do! In the same place, these monsters of type, anomalies, and stalkers with a hood do not have a horseradish. Syshish, uncle, are you... if stalkery suddenly suddenly pripyat Pripyat, you and me with the boys makakni - we'll tighten up the identity.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_57">
+    <text>That you know... no, finally can without a hollow.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_6">
+    <text>I found a strange cannon. Who can say anything about it?</text>
+  </string>
+  <string id="about_quests_dialog_bandit_62">
+    <text>That's what I think, technicians should fumble about in such cases. They have their own piece of it - a pro type.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_63">
+    <text>In short, I do not give a tooth, the stalkers from the Skadovsk stream pushed the cart for Cardan. If you want - go to the bazaar with him, until he squeezes through the squirrel.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_7">
+    <text>Do not know who will be able to conduct measurements for scientists?</text>
+  </string>
+  <string id="about_quests_dialog_bandit_73">
+    <text>Yes, our boys, Th think! No, they did not finish academies, but they measure everything like a current, so do not hesitate. Type of growth there, the width of the shoulders, and then three boards - and ready, gee-gee!</text>
+  </string>
+  <string id="about_quests_dialog_bandit_8">
+    <text>I found a very strange artifact. Can you tell me where to find a buyer?</text>
+  </string>
+  <string id="about_quests_dialog_bandit_81">
+    <text>And what's strange about it in your artifact? Let's take a look... Aha, a horse, tensed ?! All right, relax, I'm driving away. You, blah, do you understand, man? What are you shining shit? Okay, I'm kind, so you'll have another current like that!</text>
+  </string>
+  <string id="about_quests_dialog_bandit_83">
+    <text>And you, damn, brave - so artifact shine. Grated, I respect! Okay, in short, listen here. In this part you will be the chief Beard on Skadovsk. As he artifacts from the Zone fuses - we, in short, without the steering... for now. Well, like while you still have a chance to push your hubarok.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_9">
+    <text>Nearby there was a whole lair of bloodsuckers. What we are going to do?</text>
+  </string>
+  <string id="about_quests_dialog_bandit_91">
+    <text>Both-on! A Th here to do? There's any way to dump it.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_98">
+    <text>All right, forget it.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_0">
+    <text>Tell me about one thing ...</text>
+  </string>
+  <string id="about_quests_dialog_dolg_1">
+    <text>Ask.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_10">
+    <text>What do you think about Shustrogo?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_101">
+    <text>..? No, not just that. Yes, in the opposite direction?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_11">
+    <text>What did you hear about the Oasis?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_111">
+    <text>These are stalker tales. Themselves all the miracles about the Zone napridumyvayut, and then whole crowds wander, looking for where it is. In a word, do not pay attention: these are all fairy tales. Like the Klondike of artifacts or the Executor of Desires.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_112">
+    <text>Ah, it's kind of like the place where the wounds heal themselves, and the forces recover for a minute... Forget it's not like that. This stalkers are invented so that the Zone is not so terrible. Only the reality is completely different: there are no safe places in the Zone. Here it is necessary to take care of survival itself, but dreamers - they do not hold out for a long time.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_113">
+    <text>Yeah, and even there on a silver platter with a blue kaemochka artifact is the price of nemeren... I'm kidding. Of course, it would be nice to know where you can just come and without any medics get well, but only dreams of it.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_12">
+    <text>Did not meet a stalker named Soroka?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_121">
+    <text>Yes, here at least those guys who are in the "Debt", remember all, and you're talking about stalkers! They have a camp on Skadovsk, go and ask.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_122">
+    <text>No, I have not seen this.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_13">
+    <text>Do not know who could steal things from the personal box?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_131">
+    <text>Let's go! On our base, this would not happen, but here it is full of these freaks from "Freedom". I would have looked for them first. Yes, with a passion!</text>
+  </string>
+  <string id="about_quests_dialog_dolg_14">
+    <text>Who here understands the decryption?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_141">
+    <text>At the station "Yanov" there is a technician, they call Azotom. He sort of understands electronics well. I somehow forgot the password to my PDA, so he broke in five seconds.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_143">
+    <text>You better go to "Yanov". Find Azot there, he's a master at such matters.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_15">
+    <text>I have a PDA "debtor" -bury. Who can he be interested in?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_151">
+    <text>To the "Debt" when there was a huckster ?! Listen, you either lie, or... So, listen. If you have any information about this, better give it to Lieutenant Colonel Shulga. He'll figure it out.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_16">
+    <text>Where in the vicinity can I find tools?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_163">
+    <text>Yes there is a whole factory nearby. Of course, they could have pulled everything to the last nut, but I would have ransacked them at the factory warehouses.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_165">
+    <text>Start looking from old workshops. Maybe there's more left in the stores.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_166">
+    <text>Ha, in the neighborhood! In the vicinity there are some anomalies and mutants. In the anomalies, I would not be looking for you in your place, and even a burer with a supervisor is unlikely to give you a clue.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_169">
+    <text>You know, there is a composition under the bridge there? I've seen this before: they usually carry technical personnel. Well, where are the technicians, there, I think so, and the tools will be found.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_17">
+    <text>Who can unlock the memory module?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_171">
+    <text>Nitrogen will do. He is the only expert on the matter at the Yanov station.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_172">
+    <text>Hmm, with such questions you need to technicians. A decent technician is only on the "Yanovo". They call Azot.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_18">
+    <text>Who could break a steel container?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_181">
+    <text>Here, they say, stalkers have a technician... bitter drinks, but hands grow from where it is necessary. You show him.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_182">
+    <text>You would still carry a safe with you! I will say at once: Nitrogen is unlikely to be taken for this. Now if there was an electronic lock...</text>
+  </string>
+  <string id="about_quests_dialog_dolg_19">
+    <text>I'm looking for a stalker named Koryag. Do you know where it can be found?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_191">
+    <text>Listen, you better ask stalkers, they know their own better. And I about this, as it, Krivom did not hear anything.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_2">
+    <text>Do you know anything about the fallen helicopters?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_20">
+    <text>Who would be interested in information about the founder of "Debt"?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_201">
+    <text>The normal question! Of course, Shulga, our commander. Report everything you know to him, and he's for such information, you know...</text>
+  </string>
+  <string id="about_quests_dialog_dolg_22">
+    <text>Uh-huh. Our guys from the reconnaissance saw how the helicopter was going down to the reserve sites near "Jupiter". They say that they ought to be signaled to change the course, only the pilots, it seems, were not up to it. Interestingly, they generally got out of that minefield?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_23">
+    <text>Nearby - no. Our presence here is limited. Try to ask the guys in the area of "Yanov".</text>
+  </string>
+  <string id="about_quests_dialog_dolg_25">
+    <text>The patrol reported that the military helicopter was trying to make an emergency landing near the plant "Jupiter". Unfortunately, nothing the guys did not work out: drove at a speed right into the roof above the shops. Survivors, most likely, were not: a patrol signal for help was not received.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_3">
+    <text>Did not see the military nearby?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_30">
+    <text>Who might be interested in maps of the area between Zaton and Jupiter?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_301">
+    <text>For those who can use it. I mean the pilot - this is a conductor, he goes on a route from "Yanovo" to "Skadovsk".</text>
+  </string>
+  <string id="about_quests_dialog_dolg_31">
+    <text>Military? I have not met, but we do not visit here at all.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_35">
+    <text>At the minefield recently a body of the military was discovered. Probably one of the helicopter landing. On board these turntables there are places for the office - eight people. It can be seen that the others were able to get out, but that's where they left - it's unknown.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_36">
+    <text>In the bunker, scientists recently saw a military man. I do not know the details.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_37">
+    <text>In the area of the "Volkhov" SAM were observed someone in military uniform: he entered the building. True, there is a strong probability that they confused with someone from the zombie.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_38">
+    <text>Stalkers told, they saw a group of military men near Jupiter. Judging by the description - a group of special forces. With them was a stalker, who exactly - is unknown, but walked in the direction of Pripyat. It seems to be similar to the truth, although I personally would not have trusted this information.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_4">
+    <text>Do not know how to get to Pripyat?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_40">
+    <text>Who can be hired to protect scientists?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_401">
+    <text>They can not find a better guard than a detachment of "Debt". You're here, come and see Lieutenant Colonel Shulga at the Yanov. " I think, there will be no problems, agree quickly.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_402">
+    <text>While they are working at least one of the "Freedom", our there is no foot. The whole day next to these ukurkami - yes it's better to shoot yourself right away!</text>
+  </string>
+  <string id="about_quests_dialog_dolg_42">
+    <text>Now the "Debt" does not need to look for a way to Pripyat, but the information is collected. According to unconfirmed reports, tunnels under the plant "Jupiter" go to the city itself. In order to clarify this information, it is necessary to examine in detail all the objects on the territory of the plant.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_43">
+    <text>None. If you need information of this kind, turn to civilian guides. Our intelligence and so affairs on the throat.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_44">
+    <text>Our guys from time to time comb the area in search of a safe way to Pripyat, but so far no results.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_5">
+    <text>Can you tell someone who is ready to break through to Pripyat?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_51">
+    <text>In this region, the presence of "Debt" is limited. It is better to find out from our people on Janov.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_52">
+    <text>There are reports that scientists in the bunker are now visiting the military. There is no place for him to go anywhere: scientists have a research program for a year and a half, and on foot to the borders of the Zone he can not get to one. Here's your candidacy for a breakthrough to Pripyat!</text>
+  </string>
+  <string id="about_quests_dialog_dolg_53">
+    <text>I would be in your place looking for among those who have their own adventures on... uh, head finds. There, at the station "Yanov" there is a stalker Vano. He usually does not care what kind of trouble to get stuck in, and you will have it on his hand: he has a talent through the abnormal areas to walk without problems.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_54">
+    <text>No, well, you can, of course, declare a set of volunteers in a psychiatric hospital... Stop! I know who you like - "monolith"! Here, just near the SAM spot detachment. You just do not take my soldier's humor seriously.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_56">
+    <text>Look for volunteers among the "Debt". Here, for example, the Tramp. He still has no job, so I think the lieutenant-colonel will allow him.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_57">
+    <text>Listen, but every dog knows that the best fighters are in the "Debt"! Only now we have other tasks.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_6">
+    <text>I found a strange cannon. Who can say anything about it?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_62">
+    <text>Wow, this is an assembly! Admit it, did you find it or did it yourself? I've never met such a one... You're here, you ask technicians.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_7">
+    <text>Do not know who will be able to conduct measurements for scientists?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_71">
+    <text>There's nothing to think about: of course, our guys. From the "Debt". There are healthy experienced, more than once with scientists worked. Go to Lieutenant-Colonel Shulga, he's in charge of such things.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_72">
+    <text>Who will want to work there, if the "Freedom" bunker is guarded? Yes, these pacifists fucking on a cigarette butt and each other at the time will shoot.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_8">
+    <text>I found a very strange artifact. Can you tell me where to find a buyer?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_81">
+    <text>Artifacts are all weird... and, I'll tell you so, carry them with you less. And in general, hand over this thing to specialists.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_83">
+    <text>Show this garbage to stalkers, they are just such things for such things. And even better - to whom they sell artifacts.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_9">
+    <text>Nearby there was a whole lair of bloodsuckers. What we are going to do?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_91">
+    <text>The "Debt" groups are not currently conducting sweeps in the area. So with the lair you have to wait.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_98">
+    <text>All right, forget it.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_0">
+    <text>Tell me about one thing ...</text>
+  </string>
+  <string id="about_quests_dialog_freedom_1">
+    <text>Go ahead.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_10">
+    <text>What do you think about Shustrogo?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_101">
+    <text>Yes, I'm talking about him with the edge of my ear... You better ask stalkers - Shusty, sort of, just from those?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_11">
+    <text>What did you hear about the Oasis?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_111">
+    <text>Total in bulk. Hmm, do not say anything, and the truth is a beautiful legend. Palace among the boundless sands, an island in the ocean of fog, a castle with towers to the very sky... Shambhala, Eden... Oasis. And that - is there a free man without a dream?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_112">
+    <text>Of interesting - the story of a single stalker. He, he surrenders to me, was the first to speak about the Oasis. He said that wounds are wounded in a minute, but the soul is calmly calm, as if you are not in the middle of the Zone with all its delights. Hmm... by the way, I have not seen that man since. And then something scraped me, then something, and then I sorted it out. He was always limping, and then he jumped so cheerfully from our bonfire, as if he had healed not only his leg, but also threw fifteen more.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_113">
+    <text>I heard from the free stalkers its coordinates - about ten times, and all different. In a word, it turns out that this Oasis has spread over the Zone from the Burner to the Chernobyl nuclear power plant. And if through all these points of the line to hold, their intersection will be just in the bar "Yanova". So we're with you, dude, now almost in the Oasis.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_12">
+    <text>Did not meet a stalker named Soroka?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_121">
+    <text>Do not. I do not know much about free people in these parts.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_122">
+    <text>Magpie? Nope, I do not remember that. But naim is really hilarious!</text>
+  </string>
+  <string id="about_quests_dialog_freedom_13">
+    <text>Do not know who could steal things from the personal box?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_131">
+    <text>That's not in the know, dude. We have never been here! Well, there's a loaf of someone else's bite to eat or from a can of strong sip a little - this is yes, it can. But so, to steal? ..</text>
+  </string>
+  <string id="about_quests_dialog_freedom_14">
+    <text>Who here understands the decryption?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_141">
+    <text>It seems like Azot on the "Janov" lover. But I'm sure I will not tell you, I did not have to talk to him personally: he was like this to "debtors", so "Freedom" does not really like it.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_143">
+    <text>Yes, I do not really know the local specialists. You, dude, as you will be on Janov, ask our guys there, they'll tell you exactly.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_15">
+    <text>I have a PDA "Debt-Barygi". Who can he be interested in?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_151">
+    <text>Oh, nishtyak thing! Listen, man, I would give it to Loki: this is our main one at Janov. Oh, and he will be happy! And pr-ralna! Let the free stalkers find out what ideological, what self-sacrificing guys are fighting in the ranks of "Debt"!</text>
+  </string>
+  <string id="about_quests_dialog_freedom_16">
+    <text>Where in the vicinity can I find tools?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_163">
+    <text>Clearly, at the factory, dude. Just listen, it's dumb-well, count it, as if in the subway past the cops with the pakavan in their hands... Do you feel it, huh? There is, however, a positive moment: warehouses. In warehouses, it does not so shuffle - it's time, and two - there's an order of magnitude more all sorts of nishtyakov like your tools.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_165">
+    <text>Sly question, man! But let's think logically. Where do you get tools outside the Zone? Pr-ralna, you go buy in the store, if the garage is not overlooked. And even if they did lie down, but the hands of the ti from one place, you go and search for tools with straight hands. You go to the studio, in one word. So? So in the Zone everything is about the same. Elementary, stalker!</text>
+  </string>
+  <string id="about_quests_dialog_freedom_166">
+    <text>Tools? Listen, man, do not cipher, you normally ask. Here Babylon does not press, it is not necessary to be encrypted... No, are you really serious about the tools? Look, well, I do not even know.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_169">
+    <text>I heard this, yes, I heard... One dude somehow on this business in the structure climbed that under the bridge. And there "Tesla" flies! In general, from his words, to drive before her is something full of adrenaline pants. Yes, why do I rub it to you: he said, sort of saw there some tools.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_17">
+    <text>Who can unlock the memory module?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_171">
+    <text>Look, man. First, there is a Garin, a technician in the bunker of scientists working. Does it quickly, efficiently - in general the service itself is very nishtyak. On the other hand, there is such Azot on "Yanovo", without five minutes "dolgovets". At such, itself you understand, basically it will be cheap, but it is angry.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_172">
+    <text>Probably, what a technician. Local, I heard so much, more on the metalwork. So this is for you, if you do not need to cut a thin thread on the memory module, go in the area of "Jupiter" ask: there are better techniques with the situevina.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_18">
+    <text>Who could break a steel container?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_181">
+    <text>Earth, dude, this rumor is full: there is a certain Cardan on Skadovsk. Master - y-u, sway! Hands are not like gold, but platinum, though kerosene is not drying. You take your container to him, let the hole twist.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_182">
+    <text>Yes, I think so, anyone who has ever had anything to do with metal. Only take heed, man: the local technician, who is Azot, - he will not go. I heard he's more special in breaking electronics.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_19">
+    <text>I'm looking for a stalker named Koryag. Do you know where it can be found?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_191">
+    <text>No, I generally do not know this, man. You better get the free stalkers.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_2">
+    <text>Do you know anything about the fallen helicopters?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_20">
+    <text>Who would be interested in information about the founder of "Debt"?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_201">
+    <text>Maine, you definitely need Loki. It's got us in such a place in these parts, on "Janov" dwells. Quickly drag the infu to him, that's right pull up! You do not know, "debtors" about it did not sniff out? Here, after all, the main thing is that the "debtors" do not sniff out. Otherwise... no, well, you just figure out what a bunch of beautiful shit they are for joy then all in the ears piled? Damn, I even think about this sickening!</text>
+  </string>
+  <string id="about_quests_dialog_freedom_22">
+    <text>Yeah. Did you hear about the turntable on the minefield? There was once a backup area, so the warriors flocked to it. And the fact that her five years... or six? .. Well, in short, once there the same warriors and mined. On the other hand, something is being surrendered to me, not for nothing that they did it. They mined that no one climbed, huh? And these, who are on the turntable, actually sat quietly on the free site, now they are scrolling their affairs, and then they will return, they will sit down in their carriage, they will start the screws - and hello! Oh, I'd like to know what kind of task they have - maybe they would intercept?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_23">
+    <text>Of those that are near - no fig. We are not themselves local. You better look to us at the "Yanov": there the guys will fall on your ears - you will know everything, and what you want and what you do not want.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_25">
+    <text>Yes, our guys have seen one such recently. Flied like that proud hedgehog after a kick... well, and landed accordingly - shmyaknulas on the abdomen. Only the place chose an exceptionally unsuccessful one: one of the roofs of Jupiter. And there is already rotten everything, so she, along with the roof inside the case and left.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_3">
+    <text>Did not see the military nearby?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_30">
+    <text>Who might be interested in maps of the area between Zaton and Jupiter?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_301">
+    <text>Oh, man, it's not a question: Stopudovo Pilot! He is here among the stalkers chief conductor. To him these cards are just in the subject.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_31">
+    <text>Hey, man, relax! Be calm, there are no military, no cops, no volunteer people's squad nearby. But we are a peaceful people, we will not fall into you for no reason.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_35">
+    <text>No, I do not know. People, however, said that many military men crawled through the minefield near the old helicopter pads. Well, ours at first thought - maybe help? And then they puffed, thought again and decided - yes, its nafig. The warriors are a dumb people, the devil knows what they will knock at the head in a minute.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_36">
+    <text>I have not seen it myself, but the people are telling me: a warrior was hammered to the scientific bunker. Ozersky - is a biologist for them - dropped it somehow, that the soldier is from the turntable, which entered the factory. Our people are now joking: here, they say, well done, a pet was brought up - a learned soldier.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_37">
+    <text>Not, but somehow I heard from free stalkers. They say they saw a lone warrior near the Volkhov air defense missile system. Do you think a ghost is wandering or zombied?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_38">
+    <text>Do not. But one mayor said, he saw near the radio factory as many as seven military: go to himself in a single file for some stalker in the direction of Pripyat. I think that we have not imported gas for a long time, so this is either an unscrupulous rally and fictions, or... er... well, yes, it is. Shiz.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_4">
+    <text>Do not know how to get to Pripyat?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_40">
+    <text>Who can be hired to protect scientists?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_401">
+    <text>And do not go far: we hired. "Freedom," that is. We are constantly cooperating with scientists, so we have to put them on guard for people - how to overtake two birds with one stone. You talk to Loki on Janov, he'll agree.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_402">
+    <text>And hell knows. Scientists, I understand, hired a field group "Debt"... We would have worked with scientists, but every day see the stone faces of "debtors"... no, no desire.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_42">
+    <text>They say that there is a way from "Jupiter". I mean, from the factory. Not from the one behind the asteroids, no. Well, that's what I drove!</text>
+  </string>
+  <string id="about_quests_dialog_freedom_43">
+    <text>You know, I'm sure I will not say: I'm not going to get in there anyway... You better ask the pilot at the camp, huh? He knows best of all free stalkers from the district.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_44">
+    <text>Ah, dude... If I had known, I would have gone there long ago. From the "Debt", from the military, from the fights of these stupid people would have thrown nafig...</text>
+  </string>
+  <string id="about_quests_dialog_freedom_5">
+    <text>Can you tell someone who is ready to break through to Pripyat?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_51">
+    <text>Forgive me, mate, I do not really know anyone at Zaton. Anything I can advise: ask at "Yanovo" from our band.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_52">
+    <text>Do you know the bunker of scientists? So, they have a unhealthy situation there. At the beginning Garik, the stalker of the local, had broken through to go to Pripyat, now the soldier, who had been beaten to them, clamped the same shiza. Garik, okay: he's a loner, proud, then... but a military man, consider, your client.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_53">
+    <text>Yes, though the same Vano on "Janov". Normal dude, we have long been to him, with open arms... only he does not want. There is no pleasure for him with the "Debt" to go for a drive - he does not like to dog with anyone. Here's a life-like position for a dude.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_54">
+    <text>Easy. One of our detachment saw a dried-up lake, so you those fighters fit in all parameters. Pripyat they need to know how their five fingers, and they are desperate - stopudovo, the best you will not find. "Monoliths" still, ho-ho!</text>
+  </string>
+  <string id="about_quests_dialog_freedom_55">
+    <text>Why not tell, I will. Here's the Tramp, the main one for our new guys... it's clear that he does not have something for us. His soldiers are nothing, normally merged, and he himself... In general, you throw him your subject - maybe he will drive? It's a shame to watch a good man toil.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_57">
+    <text>No-ah... no steering at all.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_6">
+    <text>I found a strange cannon. Who can say anything about it?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_62">
+    <text>Instructions to her were not accidental? Well, then, without a clue.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_7">
+    <text>Do not know who will be able to conduct measurements for scientists?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_71">
+    <text>I think so, our people will fit. Dumb in "Freedom" is not, and what we do not know - in the bunker we'll ask. We are ready to help our scientific progress with our enthusiasm! You, the main thing, with Loki on "Janov" on this topic talk.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_72">
+    <text>We would be happy to work with smart dudes, only now they have protection from "Debt" collected. Now to the scientists to look - consider, it's like that on these armored hearers deliberately break out, well, every day there flit... no, well, it's in FIG. Do not wait for such a sitevine here.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_8">
+    <text>I found a very strange artifact. Can you tell me where to find a buyer?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_81">
+    <text>Strange, you say? Then look for a collector of some kind, dude. Only in the area of "Yanov" you can not find such a clear one: here and stalkers are not particularly poured. Better on the Creek ask around - they're kind of quieter there.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_83">
+    <text>Do you know the Beard? This, dude, the barman is so called in the camp of free stalkers. Here he always willingly buys artifacts, moreover, at an honest price. Whatever you say, though not in ours he's in the ranks, but from all sides the uncle is cool.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_9">
+    <text>Nearby there was a whole lair of bloodsuckers. What we are going to do?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_91">
+    <text>We must, dude, urgently dump these data to free stalkers: here they have, whatever one may say, the main camp. No, the animal world of the Zone is a valuable thing, unique biocenoses and all that, but for some reason the human faces are more pleasant, even in respirators.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_98">
+    <text>All right, forget it.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_0">
+    <text>Tell me about one thing ...</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_1">
+    <text>Ask.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_10">
+    <text>What do you think about Shustrogo?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_101">
+    <text>Yes, I did not really have anything to do with it... You, brother, ask better than those who constantly hang around at Skadovsk.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_11">
+    <text>What did you hear about the Oasis?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_111">
+    <text>And what I just did not hear! It's a legend, because every stalker here invests his cherished. Well, everyone will tell you exactly how to get to this Oasis. And all would be well, only the places are all different, and that at least one get, so in such an ass will have to climb...</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_112">
+    <text>Well, they say, there is any wound on you - p-times! - And he heals in front of his eyes. The forces are restored there, no illnesses... you can only imagine, even there is no radiation! So you, in general, if you are close to the center of the Zone... understood, yes? Only - sha! No one, understand?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_113">
+    <text>I heard, there you can meet any zonovskuyu creature - and none of you will not attack, imagine? And they say, there is an artifact - the Heart of the Oasis. It's because of him that everything is there, and you can not take it to anyone. Who will raise, to that there will be no more life not only in the Zone - nowhere, like this. Where is the Oasis, you ask? Ugh, an eccentric man, everybody knows that! On Pripyat, under the "fucking wheel", where else?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_12">
+    <text>Did not meet a stalker named Soroka?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_121">
+    <text>Yes, I've seen this... Only where he is now - it's me without the slightest idea.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_122">
+    <text>Mmm... not-ah, I do not know that.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_13">
+    <text>Do not know who could steal things from the personal box?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_131">
+    <text>Wow, no shit myself! .. No, there's never been such crappy. Perhaps, you can ask the old residents of Yanov: they will suddenly help.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_14">
+    <text>Who here understands the decryption?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_141">
+    <text>Nitrogen on the "Yanov". That's really who is a fan of digging in the electronic pile! Sometimes he even forgets about gunsmithing.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_143">
+    <text>Listen, I do not even know. Try to break through on "Janov": there seemed to be some special...</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_15">
+    <text>I have a PDA with a debtor-huckster. Who can he be interested in?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_151">
+    <text>Do you know Sych on Skadovsk? I think so, he will buy such a PDA with pleasure. He's so... amateur sharp, yes.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_152">
+    <text>On the Creek, where stands Skadovsk, like a little man was spinning, calling Sychom. He trades information, so he needs your trophy.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_16">
+    <text>Where in the vicinity can I find tools?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_161">
+    <text>I was told by a stalker that his dad worked before the eighty-sixth at the substation. He says that there was a lot of equipment there - well, what equipment, without tools? Of course, schas something surely rusty, but what the hell is not joking, eh?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_162">
+    <text>Do you know a sawmill in a grove that's on a hill? There, logically, the tools must be found. Only there to get hrenovastenko: even on the way such here, you know, the feeling arises... here does not want the fifth point, so that there are problems on it, what can you say! And it's not about the radiation, I'll tell you.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_163">
+    <text>Well, there's a kind of "Jupiter" nearby, the factory is like this. There are tools in any way, only personally, I would not go there - dumb! Is that on the warehouses of "Jupiter" - the ones that sskuyu.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_164">
+    <text>I heard there are a couple of places in Pripyat where you can find different technical crap. And like one of them is an old department store. You are the specifics of such places in those days you catch? Well, yes, correctly: if something from the tools was then brought to market, why would they not be there, in the back room you should not wait for someone?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_165">
+    <text>Do I know? I found someone to ask... In the old workshops, look or in the shops: maybe there's something useful there.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_166">
+    <text>To be honest, the last place where I saw normal instruments was in the basement of Sidorovich, on Cordon. But quality, new - and inexpensive, in general.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_167">
+    <text>You know, brother, that's what it never occurred to me, so it's to climb into the Zone for this one here. Tell me honestly, do you need a special radioactive hammer and pliers?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_168">
+    <text>Someone once said that on the old CCD, you can get any small things, if there is anything better than that. Well, there tools can be found, why not? Who back and forth first breaks, the one and the sneakers, he tells everyone else.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_169">
+    <text>A difficult question! You know, I would have ransacked the old lineup, which is under the bridge... Why? Do I know? Consider intuition.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_17">
+    <text>Who can unlock the memory module?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_171">
+    <text>Well, let me think... So, well, you definitely need to "Yanov", to Azot. Still, probably, Garin: he works as a technician under the scientists. Also special, but more expensive. In general, think. For the quality I will not say, but Azot will definitely be cheaper.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_172">
+    <text>This is more work for technicians, only around here is one Cardan. You understand, after so many years of drinking, high technology is not enough for him. You better get in the area of "Jupiter" ask, there with the techniques better.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_18">
+    <text>Who could break a steel container?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_181">
+    <text>Yes Cardan from Skadovsk, who else is there. Heavy locks, he, in any case, cuts so that any-expensive!</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_182">
+    <text>Well, it's a technique to which. Nitrogen, however, most likely does not take: he does not like a dull job, give it with interest.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_183">
+    <text>That's what you found what to ask on Pripyat! .. My advice is this: you would be looking for a burglar farther from the center of the Zone.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_19">
+    <text>I'm looking for a stalker named Koryag. Do you know where it can be found?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_191">
+    <text>And you won the Beard - the bartender at Skadovsk - ask. He usually in the courses, which of the guys where pricked.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_193">
+    <text>The Bug? No, I do not know. Maybe on Zaton who? He usually turns there.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_2">
+    <text>Do you know anything about the fallen helicopters?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_20">
+    <text>Who would be interested in information about the founder of "Debt"?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_201">
+    <text>If I were you, I would talk to Sych on Skadovsk. He's just information. If you think so, to him to such facts oh-th what interest should be.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_21">
+    <text>I saw one... It did not seem to fall, but they obviously had some problems. It shook him like that, you know, it's great until he sat down on it... the plateau that is in the South of Zaton. Eh, it would be nice to look at what's there, if anyone survived, only you'll get there! .. On the other hand, they say that Noah, who is on a psycho-barge, knows this road.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_22">
+    <text>I heard that a few helicopters somewhere here crashed. Where exactly - it's said differently, I'm just only remembering one. He seems to have sat down on some sort of reserve site, which the military had previously mined. Estimate, yes? In, they say: do not spit in the well...</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_23">
+    <text>I heard from a friend who went to the Iron Forest for artifacts. Only, it means, he came in, here bang - a rumble! He turns so on the sound: and zdartste, almost directly to him the helicopter rushes... well, as it rushes - it already falls, the poles knock down. Well, my boyfriend's legs somehow got out of there and they did not even get into an anomaly. Yes... Well, if you want to find the Iron Forest, it's so easy: you can see it from afar. But you still have to consider: poltergeists there - darkness is darkness.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_24">
+    <text>I heard that one of them seemed to be sitting on the southern plateau, but to get there - that's another circus, no one knows how. On the other hand, they are trembling, as if Noah was sticking out up there. Maybe this psycho is really the right way there knows?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_25">
+    <text>No, I did not see it, I just heard that some helicopter went straight to the factory. It's another matter that nobody wants to go in there: it's too dangerous.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_26">
+    <text>One stalker said that he saw several military helicopters. Well, something happened there one: the engine was smoking, then it all caught fire, well, the car rocked down. Somewhere right in the quagmire between the anomalies. No, there's no getting there, the problem is in the other - in those swamps. There's nothing to do there for a man who has everything in order.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_3">
+    <text>Did not see the military nearby?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_30">
+    <text>Who might be interested in maps of the area between Zaton and Jupiter?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_301">
+    <text>Someone-Pilot, of course! It is constantly between Skadovskom and Yanovo, it shatters - so to him as a conductor this business will fit.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_302">
+    <text>Yes, it's like Zaton and not Jupiter. I would ask in those regions. Here these cards are just pieces - and on a carnation... ahem... in the summer gazebo with a night vase.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_31">
+    <text>I could not see, but I heard one of them. They say, the warriors descended from the southern plateau, from the side of the shit. Where they came from, no one knows. It seems like at first they tried to do everything in science, go down on the cables, and then spat - and straight down on their asses they moved down. Bobsleigh, well!</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_32">
+    <text>On Skadovsk they talked, as if they had seen from the heels of the military. They came out of the sewage tunnel, which is near the swamp. They say the dirty were like devils, and one in general is straight a swamp bloodsucker - in the mud on the very eyebrows.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_33">
+    <text>I myself do not, but my brother alone saw how the military were shooting with mercenaries somewhere under the processing station. The little brother says, just lie down to watch the fun, but it's under the law of meanness once! - And it was over. The soldiers fell through the ground. And what, it says, is strange: the firing was on, and at least one corpse from which side.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_34">
+    <text>It seems to have seen how ten men were sticking out next to Noah's barge. And since he later showed himself live, so, somehow he agreed with them. The stump is clear, the wishes for Noah about it have not arisen about anyone at all: the hell knows how this lunatic has stars lined up in the head today?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_35">
+    <text>Rather, I heard how babanulo something at night. Then on "Janov" they told, they saw the military's body in the old minefield, and behind him - the abandoned army helicopter. See, the fighters in the twilight were not dismantled, where the shmyaknulis, well, they broke straight. And how many of them have already got out of the minefield - it's, brother, that's another question... But, of course, it's unlikely that the blunderer alone in the car flew.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_36">
+    <text>Not so much that he saw, and not so much that the military... just flounder, as if one real warrior has just become a scientist. It seems that Garik-stalker found him at the entrance to the missile complex. And there, you know, a zombie... in general, consider, now must soldier Garik on the coffin of life.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_37">
+    <text>No, but... They say that one was running around the "Volkhov". Someone like, but I hardly believe. I think so, they break, and if they do not, so, zombies can not be distinguished from the military.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_38">
+    <text>Military? Something there, yes, muttered about the detachment of the military, who with some stalker stomped past "Jupiter". Only I did not listen to these gossip.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_4">
+    <text>Do not know how to get to Pripyat?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_40">
+    <text>Who can be hired to protect scientists?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_401">
+    <text>You know the squad of Spartacus - these are the guys that on Zaton shat? So they and the guys are good, and the soldiers are also good: many times all the bulls were repulsed. I think so, it's a pleasure for scientists to cheat on them.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_402">
+    <text>Have you not heard of Tesak's squad? It's on the Zaton, near the shops of the substation. Of course, these guys - they are with a pretension, like any mercenaries, only know how to ask first, and then shoot. I think, if you manage to come to terms with them, then the scientists will be happy, and the stalkers will breathe more quietly. Wherever you look, the only good!</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_403">
+    <text>Uh... hmm. And so, in a hurry, nobody remembers. No, I do not know.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_41">
+    <text>That's what I know for sure, so it's that there's no way back from Zaton. All those who are not ready for Pripyat, have left in the direction of "Jupiter", in those parts and ask.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_42">
+    <text>Ho-rumors are heard... they say, there are some tunnels under "Jupiter" that go right up to the city. Only, firstly, this usually starts to ripple after the second glass, and, secondly, on that "Jupiter" is... MDA. In general, there is no one to hang out especially.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_43">
+    <text>Listen, man, how do I know? You would have asked about Klondike artifacts. I'll say this: find a guide and talk to him. At least here's the Pilot! If anyone knows this way and knows, it's him.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_44">
+    <text>H-he! If I knew how to get to Pripyat, I would not have been here any more. And with what joy, do you think I was at all trapped in the center of the Zone? In the same place, on Pripyat, artifacts are darkness! Who will be the first to arrive is the same to the king!</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_5">
+    <text>Can you tell someone who is ready to break through to Pripyat?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_51">
+    <text>Yes, here, probably, and you will not find such. Everyone who wanted to be closer to the center of the Zone, went to "Jupiter", so you and there ask.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_52">
+    <text>Heard of a warrior who has nailed to the scientists? Here are the wonders! .. But I think he has nothing to hang around like this. How, after all? They plow in an autonomous mode, they do not care about him. And one soldier to Cordon just does not go. Since he is still at this peak interest, so, perhaps, he will agree to go to Pripyat?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_53">
+    <text>Do you know Vano from the Yanov station? Honest guy and stalker is excellent, trusting only - horror! That's someone, he just needs to go there, where there are more anomalies, but fewer people. The zone loves and protects him, but here there is always a reptile, ready to bustle.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_54">
+    <text>In general, listen, man. They say, to the south of the SAM, near the dried-up lake, they saw a group of fighters. And they say, it's not just some stalkers or "Freedom" with "Debt", but the most "monolith" ones! Here also think. And I'll say this: if you need people to go to Pripyat, it's better not to find you... Gy-s, man! What are you, turned up? I'm shaking! With "Monolith" it's up to you, you what!</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_55">
+    <text>Maybe I've heard of the Hobo or seen his sour face? In general, there is such a commander, a new detachment of "liberty" leads. A blind man can be seen: he does it for some reason on Janov, it's okay... You would try to talk to him. You look, he will agree.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_56">
+    <text>Do you know the Tramp, the leader of a new detachment of "debtors" or saw his sour face? A blind man can be seen, he wants to go to "Yanovo", he gasps. You would try to talk to him. You look, he will agree.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_57">
+    <text>Hmm... No, no one comes to mind.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_6">
+    <text>I found a strange cannon. Who can say anything about it?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_62">
+    <text>Fuck it knows. I would ask specialists... maybe technicians know something.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_63">
+    <text>And you ask Cardan on "Skadovsk", it will not be worse for sure. All the same, the armourer is the golden hands... Yes, the talent is definitely not drinking.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_7">
+    <text>Do not know who will be able to conduct measurements for scientists?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_71">
+    <text>Do you know the hunter-hunter? I'm so mean, he and his children will not mind working for scientists. Again, if the working process will be interfered with by monsters, these guys do not know what to do.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_72">
+    <text>Heard about the Bear, Torba and Mitya, the stalkers on Janov? How do they work in the top three? God grant to everyone. I think they will be quite suitable for such a job, unless Mitya once again got into trouble.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_73">
+    <text>And without a bald. Here all their worries are enough.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_8">
+    <text>I found a very strange artifact. Can you tell me where to find a buyer?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_81">
+    <text>I do not even know... no, probably. Here people prefer the right deals. Try to find out on the Zaton: they are still a bit closer to the Big Land.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_83">
+    <text>I would like that... I would show his beard - he's a barman on Skadovsk. They say that Beard's clientele is rocking, collectors are all sorts of things. So, you understand, the stranger, the better.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_9">
+    <text>Nearby there was a whole lair of bloodsuckers. What we are going to do?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_91">
+    <text>Wow! On such an urgent need Beard on the "Skadovsk" to notify. It's like: either we'll deal with them, or they'll shit us in two seconds.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_98">
+    <text>All right, forget it.</text>
+  </string>
+  <string id="about_skadovsk_dialog_bandit_0">
+    <text>Where is the nearest camp of stalkers?</text>
+  </string>
+  <string id="about_skadovsk_dialog_bandit_1">
+    <text>Oh, damn, Masha-lost! .. Okay, do not load, bro - it's like I'm joking. In short, stalkers are not stalkers, and stomp least until Skadovsk. I'll drop these coordinates right now - and, check it out, like your kid, for free.</text>
+  </string>
+  <string id="about_skadovsk_dialog_stalkers_0">
+    <text>Where is the nearest camp of stalkers?</text>
+  </string>
+  <string id="about_skadovsk_dialog_stalkers_1">
+    <text>Now I'll show... everything, look into your PDA. In general, this old vessel is called Skadovsk. The only large camp in the vicinity.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_27">
+    <text>Yes, I heard that it seemed like a few... I just do not know the details: I did not have enough time to listen to chatter. Here, excuse me, I'm not helping you.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_28">
+    <text>Oh, man... I just did not have enough helicopters to fall! Won let those who have dropped these turntables, headache, and I have my own mouth full of care.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_27">
+    <text>Syshish, well, what kind of helicopters can there be? Those that come from two bubbles are, blah, the harsh truth of life! And those that fly through the sky - it's all fairy tales are not for us, okay?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_27">
+    <text>A? .. No, f, meng, I do not hammer my head off with such pieces. It is of no use in the matter of enlightenment and progress!</text>
+  </string>
+  <string id="about_quests_dialog_dolg_27">
+    <text>It was the case - our patrol saw a decrease in helicopters, only the details of this only concerned the lieutenant-colonel personally. It's not my business! The command of the head is big, so let it think about it.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_50">
+    <text>Where can I get a suit with a closed breathing system?</text>
+  </string>
+  <string id="about_quests_dialog_bandit_501">
+    <text>Get it out - do not get it, but you can buy everything for loot. The main thing is to know where! .. You, in short, with the Shrew. If you agree, he will roll over your shmot. At the same time once again from the "Bar" pops out, goat-zlina...</text>
+  </string>
+  <string id="about_quests_dialog_bandit_502">
+    <text>And without a hollow! We ourselves are not local... You have little brothers on the Zaton, there are their ends.</text>
+  </string>
+  <string id="about_quests_dialog_bandit_503">
+    <text>No idea... And what are you, an anomaly to climb? Well, look at it, you'll be shuffling with artifacts, so you pomayakuy. And we to you instantly with flowers, gifts, tyk-skyt... gy-gy-s! ..</text>
+  </string>
+  <string id="about_quests_dialog_dolg_50">
+    <text>Where can I get a suit with a closed breathing system?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_501">
+    <text>How do I know? Although wait... here in the Bar one guy is, they say that you want to get it. Calling him Shust, he must be in the inner rooms.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_502">
+    <text>There is no such thing here, who will be dragging an extra suit here? You better ask in Zaton, nevertheless it will be closer to crowded places.</text>
+  </string>
+  <string id="about_quests_dialog_dolg_503">
+    <text>I do not know where to find it... I do not even know such costumes even in our "Debt". Issued only especially distinguished or there for carrying out operations in the area of increased abnormal activity.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_50">
+    <text>Where can I get a suit with a closed breathing system?</text>
+  </string>
+  <string id="about_quests_dialog_freedom_501">
+    <text>I've heard from free people that there is such an advanced man - Shustrous name. So at it like almost all it is possible to get. Well, you understand, yes? I'll stuff everything there, trunks... not substances, not-e! .. He's in the "Bar" usually spinning, by the way.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_502">
+    <text>A difficult question, man... Well, we are not dragging in "Freedom" at all, and so - I would ask stalkers on Zaton. It seems there is someone different such things can be nauseating.</text>
+  </string>
+  <string id="about_quests_dialog_freedom_503">
+    <text>Gee, dude, what do you want? He is in battle no. Although... If you think so, there is, of course, a benefit. And the smoke does not escape into the atmosphere, and the sun does not hit the eyes so... It will be necessary to obtain such a kind of a thread - you only know where they are given.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_50">
+    <text>Where can I get a suit with a closed breathing system?</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_501">
+    <text>Yes, in Shustrogo, I think so. He is sitting on the third deck of Skadovsk. This and the devil with horns can get... True, you remember: Shustrogo's services are far from everyone can afford.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_502">
+    <text>Let me think... It seems that there was a man on Rostke, the nickname was Shustra. Try to find it. According to rumors, he is an expert on exclusive goods.</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_503">
+    <text>Man, you so asked, as if he was being issued here on coupons. But hell knows! Such a commodity - the bird is infrequent, arrives rarely. Who was lucky, he also snatched, and guessing...</text>
+  </string>
+  <!-- Alundaio -->
+  <string id="axr_phrase_npc_start_wounded">
+    <text>Bro... save! ..</text>
+  </string>
+  <string id="axr_phrase_actor_has_medkit">
+    <text>Wait, I'll help.</text>
+  </string>
+  <string id="axr_phrase_actor_dont_has_medkit">
+    <text>Sorry, I can not help you.</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_trade">
+    <text>I'm about to exchange...</text>
+  </string>
+  <string id="dm_dialog_become_companion_greeting">
+    <text>You can see that you're not just shlyaeshsya.</text>
+  </string>
+  <string id="dm_dialog_companion_I_have_a_question">
+    <text>Really? Maybe... Can I ask you a question?</text>
+  </string>
+  <string id="dm_dialog_companion_question_answer_1">
+    <text>What?</text>
+  </string>
+  <string id="dm_dialog_companion_question_answer_2">
+    <text>Ask someone else.</text>
+  </string>
+  <string id="dm_dialog_actor_answer_1">
+    <text>Interesting...</text>
+  </string>
+  <string id="dm_dialog_actor_answer_2">
+    <text>Umm... I'm sorry, but it's time for me.</text>
+  </string>
+  <string id="dm_dialog_companion_can_i_come_with_1">
+    <text>Let's wander the Zone together. What do you say?</text>
+  </string>
+  <string id="dm_dialog_companion_can_we_come_with_2">
+    <text>We with the guys will not hurt the extra barrel. Will you join?</text>
+  </string>
+  <string id="dm_dialog_companion_can_i_come_with_2">
+    <text>I need a partner. Will you help?</text>
+  </string>
+  <string id="dm_dialog_companion_actor_reply_to_join_1">
+    <text>Okay, just look where you're shooting.</text>
+  </string>
+  <string id="dm_dialog_companion_actor_reply_to_join_2">
+    <text>Good. But if you skimp it, I'll equip myself for it.</text>
+  </string>
+  <string id="dm_dialog_companion_actor_reply_to_join_3">
+    <text>No, I'm sorry.</text>
+  </string>
+  <string id="dm_dialog_companion_actor_reply_to_join_4">
+    <text>Get lost!</text>
+  </string>
+  <string id="dm_dialog_companion_final_words_good_alone_1">
+    <text>Thank you, bro. Well, I will not interfere.</text>
+  </string>
+  <string id="dm_dialog_companion_final_words_good_alone_2">
+    <text>Excellent, I just need help.</text>
+  </string>
+  <string id="dm_dialog_companion_final_words_good_alone_3">
+    <text>Well, the hell with you.</text>
+  </string>
+  <string id="dm_dialog_companion_final_words_bad_alone_1">
+    <text>Okay, thanks anyway...</text>
+  </string>
+  <string id="dm_dialog_companion_final_words_bad_alone_2">
+    <text>Hey, man! What is wrong with you?..</text>
+  </string>
+  <string id="dm_dialog_companion_final_words_good_1">
+    <text>I'm glad to hear. Guys, let's go!</text>
+  </string>
+  <string id="dm_dialog_companion_final_words_good_2">
+    <text>Okay. Guys, this stalker is coming with us. Move after him.</text>
+  </string>
+  <string id="dm_dialog_companion_final_words_good_3">
+    <text>Well, do not lose a minute!</text>
+  </string>
+  <string id="dm_dialog_companion_final_words_bad_1">
+    <text>Well, fuck.</text>
+  </string>
+  <string id="dm_dialog_companion_final_words_bad_2">
+    <text>Wali it!</text>
+  </string>
+  <string id="axr_phrase_companion_ask_for_command">
+    <text>What do you want?</text>
+  </string>
+  <string id="axr_phrase_actor_give_command">
+    <text>[Give the command]</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_combat">
+    <text>Let's discuss the tactics...</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_combat_type_camper">
+    <text>Henceforth, be more careful in combat.</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_combat_type_default">
+    <text>Do everything as usual.</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_combat_type_monolith">
+    <text>Show enemies the true power of the Monolith!</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_stay_close">
+    <text>stay close and cover me.</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_keep_distance">
+    <text>Observe a certain distance.</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_stealth">
+    <text>Shh... we act quietly and do not stick out.</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_stop_stealth">
+    <text>Well, we continue as usual.</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_relax">
+    <text>We'll rest for now. I'll tell you when to go.</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_relax_over">
+    <text>Okay, it's time to go.</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_leave">
+    <text>Next I'll go alone.</text>
+  </string>
+  <string id="axr_phrase_companion_are_you_sure">
+    <text>Are you sure?</text>
+  </string>
+  <string id="axr_phrase_actor_acknowledge_1">
+    <text>Yes.</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_wait">
+    <text>Wait here and guard the point.</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_follow">
+    <text>Follow me.</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_ignore_combat">
+    <text>So far, avoid shooting.</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_dont_ignore_combat">
+    <text>You will see the enemy - immediately attack.</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_ignore_combat_but_help_actor">
+    <text>Do not open fire first.</text>
+  </string>
+  <string id="axr_phrase_companion_acknowledge_1">
+    <text>You understand.</text>
+  </string>
+  <string id="axr_phrase_companion_acknowledge_2">
+    <text>Good.</text>
+  </string>
+  <string id="axr_phrase_companion_acknowledge_3">
+    <text>Yeah, what should I do?</text>
+  </string>
+  <string id="axr_phrase_companion_goodbye_1">
+    <text>Thank you for the company. See you!</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_nevermind">
+    <text>Forget it.</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_hide_in_cover">
+    <text>Running, look for shelter!</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_patrol_menu">
+    <text>You need to patrol this place.</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_start_patrol">
+    <text>Start patrolling.</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_stop_patrol">
+    <text>Stop patrolling.</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_patrol_remove_waypoints">
+    <text>Forget the old route.</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_patrol_add_waypoints">
+    <text>Add this place to the patrol route.</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_gather_items">
+    <text>Take any equipment that you find. It can come in handy.</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_loot_corpses">
+    <text>Check the corpses, they can have something useful.</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_gather_items_stop">
+    <text>Do not waste time picking up junk.</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_loot_corpses_stop">
+    <text>Ignore the corpses.</text>
+  </string>
+  <string id="axr_phrase_friend_companion_ask_join">
+    <text>Listen, how about acting on the team? The two of us are safer here.</text>
+  </string>
+  <string id="axr_phrase_friend_companion_answer_join">
+    <text>Sounds good, come on.</text>
+  </string>
+  <string id="axr_phrase_friend_companion_ask_join_hostage">
+    <text>Can you help save your friend?</text>
+  </string>
+  <string id="axr_phrase_friend_companion_answer_join_hostage">
+    <text>Yes, he needs our help. Come on.</text>
+  </string>
+</string_table>
