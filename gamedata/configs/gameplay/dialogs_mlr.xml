@@ -1715,8 +1715,8 @@
             </phrase>
             <phrase id="3">		
                 <text>На бля.</text>
-                <precondition>dialogs.have_money_to_zaton_guid_jup</precondition>					
-                <action>dialogs.sell_money_to_zaton_guid_jup</action>				
+                <precondition>dialogs_mlr.have_money_to_zaton_guid_jup</precondition>					
+                <action>dialogs_mlr.sell_money_to_zaton_guid_jup</action>				
                 <action>dialogs.medic_magic_potion</action>
                 <next>4</next>
             </phrase>
@@ -1748,8 +1748,8 @@
             </phrase>
             <phrase id="3">			
                 <text>Ууу, сука.</text>
-                <precondition>dialogs.have_money_to_military_guid_bar</precondition>				
-                <action>dialogs.sell_money_to_military_guid_bar</action>				
+                <precondition>dialogs_mlr.have_money_to_military_guid_bar</precondition>				
+                <action>dialogs_mlr.sell_money_to_military_guid_bar</action>				
                 <action>dialogs.medic_magic_potion</action>
                 <next>4</next>
             </phrase>
@@ -1781,8 +1781,8 @@
             </phrase>
             <phrase id="3">		
                 <text>Возьми.</text>
-                <precondition>dialogs.have_money_darkscape_guid_military</precondition>					
-                <action>dialogs.sell_money_to_escape_guid_bar</action>				
+                <precondition>dialogs_mlr.have_money_darkscape_guid_military</precondition>					
+                <action>dialogs_mlr.sell_money_to_escape_guid_bar</action>				
                 <action>dialogs.medic_magic_potion</action>
                 <next>4</next>
             </phrase>
@@ -1814,8 +1814,8 @@
             </phrase>
             <phrase id="3">		
                 <text>Держи.</text>
-                <precondition>dialogs.have_money_to_zaton_guid_jup</precondition>					
-                <action>dialogs.sell_money_to_zaton_guid_jup</action>				
+                <precondition>dialogs_mlr.have_money_to_zaton_guid_jup</precondition>					
+                <action>dialogs_mlr.sell_money_to_zaton_guid_jup</action>				
                 <action>dialogs.medic_magic_potion</action>
                 <next>4</next>
             </phrase>
@@ -3415,8 +3415,8 @@
             </phrase>
             <phrase id="3">		
                 <text>Да.</text>
-                <precondition>dialogs.have_money_to_zaton_guid_jup</precondition>					
-                <action>dialogs.sell_money_to_zaton_guid_jup</action>				
+                <precondition>dialogs_mlr.have_money_to_zaton_guid_jup</precondition>					
+                <action>dialogs_mlr.sell_money_to_zaton_guid_jup</action>				
                 <action>dialogs.medic_magic_potion</action>
                 <next>4</next>
             </phrase>

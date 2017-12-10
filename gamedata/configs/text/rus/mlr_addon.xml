@@ -1,6 +1,85 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 
+	<string id="st_itm_sleepbag_wife_1_name">
+		<text>Дакимакура с Twilight Sparkle</text>
+	</string>
+	<string id="st_itm_sleepbag_wife_2_name">
+		<text>Дакимакура с Rainbow Dash</text>
+	</string>
+	<string id="st_itm_sleepbag_wife_3_name">
+		<text>Дакимакура с Princess Celestia</text>
+	</string>
+	<string id="st_itm_sleepbag_wife_4_name">
+		<text>Дакимакура с Rarity</text>
+	</string>
+	<string id="st_itm_sleepbag_wife_5_name">
+		<text>Дакимакура с Fluttershy</text>
+	</string>
+	<string id="st_itm_sleepbag_wife_6_name">
+		<text>Дакимакура с Pinkie Pie</text>
+	</string>
+	<string id="st_itm_sleepbag_wife_7_name">
+		<text>Дакимакура с Apple Jack</text>
+	</string>
+	<string id="st_itm_sleepbag_wife_8_name">
+		<text>Дакимакура с Handsome Jack</text>
+	</string>	
+	<string id="st_itm_sleepbag_wife_9_name">
+		<text>Дакимакура с Suigintou</text>
+	</string>
+		<string id="st_itm_sleepbag_wife_10_name">
+		<text>Дакимакура с Kanaria</text>
+	</string>
+		<string id="st_itm_sleepbag_wife_11_name">
+		<text>Дакимакура с Suiseiseki</text>
+	</string>
+		<string id="st_itm_sleepbag_wife_12_name">
+		<text>Дакимакура с Souseiseki</text>
+	</string>
+		<string id="st_itm_sleepbag_wife_13_name">
+		<text>Дакимакура с Shinku</text>
+	</string>
+		<string id="st_itm_sleepbag_wife_14_name">
+		<text>Дакимакура с Hinaichigo</text>
+	</string>
+		<string id="st_itm_sleepbag_wife_15_name">
+		<text>Дакимакура с Kirakishou</text>
+	</string>
+		<string id="st_itm_sleepbag_wife_16_name">
+		<text>Дакимакура с Barasuishou</text>
+	</string>
+	<string id="st_itm_sleepbag_wife_17_name">
+		<text>Дакимакура с Адачи Тору</text>
+	</string>	
+	<string id="st_itm_sleepbag_wife_18_name">
+		<text>Дакимакура с Курису Макисе</text>
+	</string>	
+	<string id="st_itm_sleepbag_wife_19_name">
+		<text>Дакимакура с Фуу</text>
+	</string>	
+	<string id="st_itm_sleepbag_wife_20_name">
+		<text>Дакимакура с Аска Лэнгли Сорью</text>
+	</string>	
+	<string id="st_itm_sleepbag_wife_21_name">
+		<text>Дакимакура с Маки Нишикино</text>
+	</string>	
+	<string id="st_itm_sleepbag_wife_22_name">
+		<text>Дакимакура с Сакуя Идзаёй</text>
+	</string>	
+	<string id="st_itm_sleepbag_wife_23_name">
+		<text>Дакимакура с Петром Порошенко</text>
+	</string>
+	<string id="st_itm_sleepbag_wife_24_name">
+		<text>Дакимакура с Ariana</text>
+	</string>
+	<string id="st_itm_sleepbag_wife_25_name">
+		<text>Дакимакура с флагом Украины</text>
+	</string>	
+	<string id="st_itm_sleepbag_wife_desc">
+		<text>Вероятно принт был распечатан где-то за периметром, а ткань впоследствии была перемещена на территорию Зоны местными ходоками. Представляет из себя обыкновенный спальный мешок с любимым персонажем того или иного сталкера, который будет согревать ему тело и душу холодными ночами.</text>
+	</string>	
+
 	<string id="dasc_trade_mlr_task_1_name">
 		<text>Зачистить логово мутантов</text>
 	</string>

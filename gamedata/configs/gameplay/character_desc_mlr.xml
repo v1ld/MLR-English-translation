@@ -1848,7 +1848,7 @@ ammo_9x19_fmj = 1 \n
 
 		<!--------------------- MEDIC ---------------------->
 	<specific_character id="bar_dolg_medic" team_default = "1">
-		<name>Аспирин</name>
+		<name>Вазелин</name>
 		<icon>ui_inGame2_Dolg_1_mask</icon>
 		<map_icon x="0" y="0"></map_icon>
 		<bio>Информация неизместна.</bio>

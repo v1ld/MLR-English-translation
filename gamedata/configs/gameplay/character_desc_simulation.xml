@@ -50,7 +50,7 @@
     <community>ecolog</community> <terrain_sect>stalker_terrain</terrain_sect>
     <rank>1408</rank>
     <reputation>-2202</reputation>
-    <visual>actors\stalker_ecologist\stalker_neutral_nauchniy</visual>
+    <visual>actors\stalker_neutral\stalker_neutral_nauchniy</visual>
     <snd_config>characters_voice\human_03\ecolog\</snd_config>
     <supplies>
 #include "gameplay\mlr_loadouts\sim_default_ecolog.xml"
@@ -151,7 +151,7 @@
     <community>ecolog</community> <terrain_sect>stalker_terrain</terrain_sect>
     <rank>1757</rank>
     <reputation>419</reputation>
-    <visual>actors\stalker_ecologist\stalker_neutral_nauchniy</visual>
+    <visual>actors\stalker_neutral\stalker_neutral_nauchniy</visual>
     <snd_config>characters_voice\human_03\ecolog\</snd_config>
     <supplies>
 #include "gameplay\mlr_loadouts\sim_default_military_2.xml"

@@ -53,7 +53,7 @@ function main_menu:InitControls()
 
 	local _ver = xml:InitStatic		("static_version",self)
 	local mm						= _G.main_menu.get_main_menu()
-	_ver:TextControl():SetText		("Call of Chernobyl ver. " .. (_G.GAME_VERSION) .. " + MLR 8.0")
+	_ver:TextControl():SetText		("Call of Chernobyl ver. " .. (_G.GAME_VERSION) .. " + MLR 8.2")
 	
 	-- Message Window 
 	self.msg_wnd = xml:InitFrame("msg_wnd:background",self)
@@ -347,8 +347,7 @@ function main_menu:OnKeyboard(dik, keyboard_action)  --virtual function
 				clear_ini_cache(system_ini())
 				printf("system_ini_reload = success!")
 			end
-		end
-		
+		end	
 		--mlr	
 		if (dik == DIK_keys.DIK_S and db.actor~=nil) then		
 			give_info("then_you_take_achiev_cheater")			
